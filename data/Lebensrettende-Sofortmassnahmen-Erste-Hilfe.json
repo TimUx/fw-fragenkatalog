@@ -59,8 +59,8 @@
       "question": "Welche Methode ist richtig, um die Atmung bei einer bewusstlosen Person zu überprüfen?",
       "answers": [
         "Die Atmung darf nur von einem Rettungsassistenten kontrolliert werden.",
-        "durch Annähern der eigenen Wange an Mund und Nase des Bewusstlosen, Auflegen der Hand auf den Bauchraum und Beobachten des Bauchraumes über die Brust hinweg (sehen, hören,",
-        "fühlen) Die Atmung darf nur durch einen Notarzt kontrolliert werden."
+        "durch Annähern der eigenen Wange an Mund und Nase des Bewusstlosen, Auflegen der Hand auf den Bauchraum und Beobachten des Bauchraumes über die Brust hinweg (sehen, hören, fühlen) ",
+        "Die Atmung darf nur durch einen Notarzt kontrolliert werden."
       ],
       "correctIndex": 1
     },
@@ -213,7 +213,7 @@
       "answers": [
         "eine Drucktiefe von 2 bis 3 cm",
         "eine Drucktiefe von 5 bis 6 cm",
-        "eine Drucktiefe von 5 bis 8 cm Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "eine Drucktiefe von 5 bis 8 cm"
       ],
       "correctIndex": 1
     }
