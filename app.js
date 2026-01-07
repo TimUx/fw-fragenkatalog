@@ -6,8 +6,14 @@ let correct = 0;
 
 const menu = document.getElementById("menu");
 const chapterSelect = document.getElementById("chapterSelect");
+const chapterReview = document.getElementById("chapterReview");
 const quiz = document.getElementById("quiz");
 const result = document.getElementById("result");
+
+// ======= HELPER FUNCTIONS ========
+function formatChapterDisplayName(filename) {
+    return filename.replace('.json', '').replace(/-/g, ' ');
+}
 
 // ======= INIT ========
 fetch("data/meta.json")
@@ -21,11 +27,14 @@ function openChapterMode(){
     menu.classList.add("hidden");
     chapterSelect.classList.remove("hidden");
 
-    chapterSelect.innerHTML = `<h2>Kapitel wählen</h2>`;
+    chapterSelect.innerHTML = `
+        <h2>Kapitel wählen</h2>
+        <button onclick="backToMenu()" class="back-btn">Zurück zum Menü</button>
+    `;
 
     chapters.forEach(ch => {
         let btn = document.createElement("button");
-        btn.innerText = ch;
+        btn.innerText = formatChapterDisplayName(ch);
         btn.onclick = () => loadChapter(ch);
         chapterSelect.appendChild(btn);
     });
@@ -37,12 +46,80 @@ function loadChapter(name){
         return;
     }
 
-    fetch(`data/${name}.json`)
+    fetch(`data/${name}`)
     .then(r => r.json())
     .then(data => {
         loadedChapters[name] = data;
         startQuiz(data.questions);
     });
+}
+
+// ======= CHAPTER REVIEW ========
+function openChapterReview(){
+    menu.classList.add("hidden");
+    chapterReview.classList.remove("hidden");
+
+    chapterReview.innerHTML = `
+        <h2>Kapitel nachlesen</h2>
+        <button onclick="backToMenu()" class="back-btn">Zurück zum Menü</button>
+        <div id="reviewChapterList"></div>
+    `;
+
+    const listContainer = document.getElementById("reviewChapterList");
+    
+    chapters.forEach(ch => {
+        let btn = document.createElement("button");
+        btn.innerText = formatChapterDisplayName(ch);
+        btn.className = "chapter-btn";
+        btn.onclick = () => showChapterContent(ch);
+        listContainer.appendChild(btn);
+    });
+}
+
+async function showChapterContent(name){
+    if(!loadedChapters[name]){
+        const r = await fetch(`data/${name}`);
+        loadedChapters[name] = await r.json();
+    }
+
+    const chapter = loadedChapters[name];
+    const displayName = formatChapterDisplayName(name);
+    
+    chapterReview.innerHTML = `
+        <h2>${displayName}</h2>
+        <button onclick="openChapterReview()" class="back-btn">Zurück zur Übersicht</button>
+        <div class="chapter-content"></div>
+    `;
+
+    const content = chapterReview.querySelector('.chapter-content');
+    
+    chapter.questions.forEach((q, index) => {
+        const qaItem = document.createElement("div");
+        qaItem.className = "qa-item";
+        qaItem.innerHTML = `
+            <div class="qa-number">${index + 1}.</div>
+            <div class="qa-details">
+                <div class="qa-question">${q.question}</div>
+                ${q.image ? `<img src="${q.image}" class="pictogram" alt="Frage Bild">` : ''}
+                <div class="qa-answers">
+                    ${q.answers.map((a, i) => `
+                        <div class="qa-answer ${i === q.correctIndex ? 'qa-correct' : ''}">
+                            ${i === q.correctIndex ? '✓ ' : ''}${a}
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+        content.appendChild(qaItem);
+    });
+}
+
+function backToMenu(){
+    menu.classList.remove("hidden");
+    chapterSelect.classList.add("hidden");
+    chapterReview.classList.add("hidden");
+    quiz.classList.add("hidden");
+    result.classList.add("hidden");
 }
 
 // ======= EXAM MODE ========
@@ -51,7 +128,7 @@ async function startExam(){
 
     for(const c of chapters){
         if(!loadedChapters[c]){
-            const r = await fetch(`data/${c}.json`);
+            const r = await fetch(`data/${c}`);
             loadedChapters[c] = await r.json();
         }
         allQuestions.push(...loadedChapters[c].questions);
@@ -124,7 +201,7 @@ function showResult(){
     result.innerHTML = `
         <h2>Ergebnis</h2>
         <p>${correct} von ${activeQuestions.length} richtig</p>
-        <button onclick="location.reload()">Zurück zum Start</button>
+        <button onclick="backToMenu()">Zurück zum Start</button>
     `;
 }
 
