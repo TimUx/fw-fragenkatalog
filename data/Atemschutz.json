@@ -263,15 +263,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 30 im Kapitel Atemschutz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Der Atemschutztrupp (zwei Feuerwehrangehörige) geht zu einem Brandeinsatz vor. Beim Vorgehen im verrauchten Bereich hängt die mitgeführte Schlauchleitung fest. Wie ist die richtige Vorgehensweise?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Der Truppmann geht zurück und führt die Schlauchleitung nach.",
+        "Der Truppführer geht zurück und führt die Schlauchleitung nach.",
+        "Der Trupp geht zurück und führt die Schlauchleitung nach."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Warum ist es wichtig, nach Rücksprache mit dem Einheitsführer, Lüftungsmaßnahmen in verrauchten Bereichen durchzuführen?",

@@ -155,15 +155,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 18 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Wer unterstützt nach der FwDV 10 \"Die tragbaren Leitern\" die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "der Gruppenführer",
+        "der Melder",
+        "der Maschinist"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Wo wird eine vierteilige Steckleiter beim Aufrichten vom Trupp angefasst?",
@@ -364,15 +362,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 41 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Wodurch wird die Standsicherheit von tragbaren Leitern beeinträchtigt?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende gesichert ist",
+        "wenn die Leiter mit Stützstangen gesichert ist",
+        "wenn beim Wassergeben von der Leiter die Leiter am Kopfende nicht befestigt ist"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Eine Steckleiter wird vom Angriffstrupp und dem Melder in Stellung gebracht. An welcher Stelle trägt der Melder nach der FwDV 10 „die tragbaren Leitern“ die Leiter?",
@@ -393,15 +389,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 44 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Bis zu welchem seitlichen Winkel darf ein Strahlrohr von einer Leiter eingesetzt werden?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "10° zu beiden Seiten",
+        "15° zu beiden Seiten",
+        "20° zu beiden Seiten"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     }
   ]
 }

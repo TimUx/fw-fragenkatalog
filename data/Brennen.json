@@ -38,15 +38,14 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 5 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "In welchem Temperaturbereich liegt der Flammpunkt brennbarer Flüssigkeiten, die mit dem folgenden Gefahrensymbol gekennzeichnet sind?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Der Flammpunkt liegt unter 0 °C.",
+        "Der Flammpunkt liegt unter 23 °C.",
+        "Der Flammpunkt liegt zwischen 23 °C und 60 °C."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_Q05.png"
     },
     {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
@@ -172,7 +171,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "image": "assets/piktos/Brennen_Q19.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -181,7 +181,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_Q20.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -190,7 +191,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von Metallen"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_Q21.png"
     },
     {
       "question": "Welcher der angegebenen Stoffe brennt nur mit Flamme?",
@@ -211,15 +213,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 24 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Was ist Wärmestrahlung?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Wärmestrahlung ist eine Strahlung, die ungehindert durch jeden Körper hindurchgeht.",
+        "Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die von der Wärmeleitzahl abhängt.",
+        "Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die mit der Entfernung im Quadrat abnimmt."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche Voraussetzungen müssen für das Starten einer Verbrennung vorhanden sein?",
@@ -600,15 +600,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 67 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Was versteht man unter dem Begriff \"Explosionsbereich\"?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Der \"Explosionsbereich\" ist der Bereich, in dem eine Explosion stattgefunden hat.",
+        "Der \"Explosionsbereich\" ist der Bereich um die Austrittstelle brennbarer Gase und Dämpfe, in dem Explosionsgefahr besteht.",
+        "Der \"Explosionsbereich\" ist der Konzentrationsbereich zwischen der unteren und oberen Explosionsgrenze."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche Eigenschaften haben entzündbare Flüssigkeiten, die nach GHS in die Kategorien 1, 2 und 3 eingestuft werden?",
@@ -635,7 +633,8 @@
         "für Brände von Speiseölen und -fetten in Frittier- und Fettbackgeräten",
         "für Brände von gasförmigen Stoffen"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "image": "assets/piktos/Brennen_Q70.png"
     },
     {
       "question": "Warum werden Brände von Metallen in eine eigene Brandklasse eingeteilt?",
@@ -656,15 +655,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 73 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Katalysatoren …",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "… ermöglichen das Brennen von eigentlich nicht brennbaren Stoffen.",
+        "… setzen die Aktivierungsenergie herab.",
+        "… werden während der Reaktion aufgebraucht und müssen ständig nachgeführt werden."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
       "question": "Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?",
@@ -712,15 +709,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 79 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welches Gas entsteht hauptsächlich bei einer Verbrennung, bei der ausreichend Sauerstoff zur Verfügung steht (vollkommene Verbrennung)?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Diesen Begriff gibt es nicht.",
+        "Durchzündung entzündbarer Pyrolyseprodukte und Schwelgase, die sich in der Regel als Rauchschicht in einem Raum ansammeln",
+        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     }
   ]
 }

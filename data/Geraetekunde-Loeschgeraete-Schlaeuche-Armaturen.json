@@ -434,15 +434,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 49 im Kapitel Gerätekunde: Löschgeräte, Schläuche, Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Zu welchem Zweck werden Übergangsstücke benötigt?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Übergangsstücke werden zum Einkuppeln eines Zumischers Z4 in eine B-Leitung benötigt.",
+        "Übergangsstücke werden zum Anschluss eines B-Druckschlauches an einen Überflurhydranten benötigt.",
+        "Übergangsstücke werden zum Verbinden von Kupplungen verschiedener Nennweiten benötigt."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche Wasserlieferung hat ein „BM-Strahlrohr“ ohne Mundstück in 5 Minuten bei einem Strahlrohrdruck von 5 bar?",
@@ -505,7 +503,8 @@
         "der Abgang B",
         "der Abgang C"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Geraetekunde-Loeschgeraete-Schlaeuche-Armaturen_Q56.png"
     },
     {
       "question": "Welche Schaltvorgänge sind mit dem Schaltorgan eines „DM-Strahlrohres“ möglich?",
@@ -517,15 +516,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 58 im Kapitel Gerätekunde: Löschgeräte, Schläuche, Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die …",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "… Wasserdichte.",
+        "… Durchflussmenge.",
+        "… Strahlleistung."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     }
   ]
 }

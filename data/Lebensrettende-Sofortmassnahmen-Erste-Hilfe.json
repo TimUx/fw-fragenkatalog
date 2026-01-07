@@ -2,15 +2,13 @@
   "title": "Lebensrettende Sofortmaßnahmen (Erste Hilfe)",
   "questions": [
     {
-      "question": "[PLATZHALTER] Frage 1 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Sie finden an der Einsatzstelle eine Person vor, die eine stark blutende Arterienverletzung am Unterarm hat. Welche Maßnahmen müssen Sie als Ersthelfer durchführen?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Es ist ausreichend die Person in die Schocklage zu bringen.",
+        "Bei einer Verletzung am Unterarm reicht in jedem Fall das Anheben des Armes über die Herzhöhe aus, um die Blutung zu stillen.",
+        "Die Person ist hinzulegen, der Arm wird hochgehalten und die Arterie am Oberarm abgedrückt. Ein Druckverband ist anzulegen."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Wann darf eine Herz-Lungen-Wiederbelebung eingestellt werden?",
@@ -40,15 +38,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 5 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Bei einem Unfall hat sich eine Person eine Schnittwunde am Unterarm zugezogen. Eine Glasscherbe steckt noch tief in der Wunde, es blutet leicht. Welche Vorgehensweise ist richtig?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Person in die stabile Seitenlage bringen",
+        "Glasscherbe aus der Wunde entfernen, Arm hochhalten und den Druckverband anlegen",
+        "die Glasscherbe nicht entfernen, abpolstern und ohne Druck auf die Wunde auszuüben vorsichtig einen Verband anlegen"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Worauf muss beim Spülen einer verätzten Wunde geachtet werden?",
@@ -114,15 +110,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 13 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Eine bewusstlose Person hat für Sie erkennbar einseitig mehrere Rippen gebrochen. Wie ist diese Person zu lagern?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "auf der unverletzten Seite in der stabilen Seitenlage",
+        "auf der verletzten Seite in der stabilen Seitenlage",
+        "mit erhöhtem Oberkörper in halbsitzender Position"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
       "question": "Können großflächige Verbrennungen die Ursache für einen Schock sein?",
@@ -134,15 +128,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 15 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Eine bewusstlose Person blutet stark aus Mund und Nase. Wie ist diese Person zu lagern?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "in der stabilen Bauchlage",
+        "in der Rückenlage",
+        "in der stabilen Seitenlage"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche Maßnahmen sind bei einer offensichtlich unterkühlten Person durchzuführen?",
@@ -190,15 +182,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 21 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welche der genannten Maßnahmen ist bei der Versorgung eines Stromunfallopfers zuerst durchzuführen?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Atemkontrolle",
+        "Stabile Seitenlage",
+        "Spannungsfreiheit herstellen"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche Aussage zur Kühlung einer Verbrennung ist richtig?",

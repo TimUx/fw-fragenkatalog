@@ -47,26 +47,22 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 6 im Kapitel Wald- und Vegetationsbrandbekämpfung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welche drei Faktoren der 30-30-30-Regel deuten auf eine erhöhte Waldbrandgefahr hin?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Bei über 30 °C, über 30 % relative Luftfeuchtigkeit und unter 30 km/h Windgeschwindigkeit ist mit erhöhter Waldbrandgefahr zu rechnen.",
+        "Bei über 30 °C, unter 30 % relative Luftfeuchtigkeit und unter 30 km/h Windgeschwindigkeit ist mit erhöhter Waldbrandgefahr zu rechnen.",
+        "Bei über 30 °C, unter 30 % relative Luftfeuchtigkeit und über 30 km/h Windgeschwindigkeit ist mit erhöhter Waldbrandgefahr zu rechnen."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 7 im Kapitel Wald- und Vegetationsbrandbekämpfung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Was besagen die Buchstaben der AFFE-Regel im Zusammenhang mit der Wald- und Vegetationsbrandbekämpfung?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Ankerpunkt, Feuerpatschen einsetzen, Facheinheit/-berater anfordern und Eigenschutz beachten",
+        "Anfahrt sichern, Feuer lokalisieren, Feuer bekämpfen und Einrücken",
+        "Ankerpunkt, Flanken angreifen, Front angreifen und Einkreisen"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Ab welchem Geländeneigungswinkel (Steinschlagwinkel) kann die Brandausbreitung bergab durch abrollendes, brennendes Material verstärkt werden?",
@@ -102,7 +98,8 @@
         "Saugstelle aus einem Löschwasserbehälter",
         "Saugstelle aus einem Brunnen"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_Q11.png"
     },
     {
       "question": "Wofür steht das folgende Zeichen in einer aktuellen Waldbrandeinsatzkarte?",
@@ -111,7 +108,8 @@
         "Forstamt",
         "Achtung hohe Steinschlaggefahr"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_Q12.png"
     }
   ]
 }

@@ -11,26 +11,22 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 2 im Kapitel Sprechfunk - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Im Digitalfunknetz der BOS werden die Betriebsarten \"Netzbetrieb\" (TMO - Trunked Mode Operation) und \"netzunabhängiger Betrieb\" (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Die Betriebsart \"Netzbetrieb\" (TMO) ist für Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.",
+        "Die Betriebsart \"netzunabhängiger Betrieb\" (DMO) ist ausschließlich in Gebäuden zulässig.",
+        "In der Betriebsart \"netzunabhängiger Betrieb\" (DMO) können zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu müssen."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 3 im Kapitel Sprechfunk - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welche Aussage trifft für die Rufart \"Einzelruf\" in der Betriebsart \"Netzbetrieb\" (TMO - Trunked Mode Operation) zu?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Der Einzelruf ist in der Betriebsart \"Netzbetrieb\" (TMO) nur mit Handfunkgeräten möglich.",
+        "Der Einzelruf entspricht dem Linienverkehr im Analogfunk. Alle Teilnehmer hören das laufende Funkgespräch mit, dürfen jedoch nicht an der Kommunikation teilnehmen.",
+        "Unter dem Einzelruf wird eine Punkt-zu-Punkt-Verbindung zwischen zwei Teilnehmern verstanden."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Wer ist für das Endgeräte-Management, die Anwenderbetreuung und für den prozessorientierten Service in seinem Zuständigkeitsbereich für den Digitalfunk in Hessen verantwortlich?",

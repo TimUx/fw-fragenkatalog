@@ -101,15 +101,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 12 im Kapitel Verhalten bei Gefahren - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Sie werden im Rahmen eines Hochwassereinsatzes tätig. Welche Gefahren können hierbei vorhanden sein?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Nur die Gefahr der Elektrizität durch unter Wasser stehende elektrische Anlagen oder Leitungen.",
+        "Durch Keime im Wasser können Krankheiten ausgelöst werden.",
+        "Für Einsatzkräfte, die schwimmen können, bestehen hierbei keine Gefahren."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
       "question": "Ein Feuerwehrangehöriger nimmt unter Medikamenteneinfluss an einem Einsatz teil. Welche Folge kann dieses Verhalten haben?",
@@ -139,15 +137,13 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 16 im Kapitel Verhalten bei Gefahren - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Bei einem Brand sehen Sie mehrere Gasflaschen mit unterschiedlichem Farbanstrich. Welche Kombination Farbe / Gas ist richtig?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Grau / Acetylen",
+        "Braun / Stickstoff",
+        "Rot / brennbare Gase"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "In welchem Abstand muss auf Kraftfahrstraßen mit getrennten Richtungsfahrbahnen mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?",
