@@ -23,7 +23,7 @@ fetch("data/meta.json")
 });
 
 // ======= UI ========
-function openChapterMode(){
+async function openChapterMode(){
     chapterSelect.classList.remove("hidden");
     chapterReview.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -33,12 +33,18 @@ function openChapterMode(){
         <h2>Kapitel wählen</h2>
     `;
 
-    chapters.forEach(ch => {
+    for(const ch of chapters){
+        if(!loadedChapters[ch]){
+            const r = await fetch(`data/${ch}`);
+            loadedChapters[ch] = await r.json();
+        }
+        
+        const questionCount = loadedChapters[ch].questions.length;
         let btn = document.createElement("button");
-        btn.innerText = formatChapterDisplayName(ch);
+        btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
         btn.onclick = () => loadChapter(ch);
         chapterSelect.appendChild(btn);
-    });
+    }
 }
 
 function loadChapter(name){
@@ -56,7 +62,7 @@ function loadChapter(name){
 }
 
 // ======= CHAPTER REVIEW ========
-function openChapterReview(){
+async function openChapterReview(){
     chapterReview.classList.remove("hidden");
     chapterSelect.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -69,13 +75,19 @@ function openChapterReview(){
 
     const listContainer = document.getElementById("reviewChapterList");
     
-    chapters.forEach(ch => {
+    for(const ch of chapters){
+        if(!loadedChapters[ch]){
+            const r = await fetch(`data/${ch}`);
+            loadedChapters[ch] = await r.json();
+        }
+        
+        const questionCount = loadedChapters[ch].questions.length;
         let btn = document.createElement("button");
-        btn.innerText = formatChapterDisplayName(ch);
+        btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
         btn.className = "chapter-btn";
         btn.onclick = () => showChapterContent(ch);
         listContainer.appendChild(btn);
-    });
+    }
 }
 
 async function showChapterContent(name){
