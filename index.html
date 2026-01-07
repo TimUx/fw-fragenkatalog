@@ -9,14 +9,18 @@
 <body>
 
 <header>
-    <img src="assets/wappen.png" class="logo">
-    <h1>FFW Willingshausen<br>Fragenkatalog Hessen</h1>
+    <div class="header-branding">
+        <img src="assets/wappen.png" class="logo">
+        <h1>FFW Willingshausen<br>Fragenkatalog Hessen</h1>
+    </div>
+    <nav class="header-nav">
+        <button onclick="openChapterMode()">Kapiteltraining</button>
+        <button onclick="startExam()">Prüfungsmodus (30 Fragen)</button>
+        <button onclick="openChapterReview()">Kapitel nachlesen</button>
+    </nav>
 </header>
 
-<main id="menu">
-    <button onclick="openChapterMode()">Kapiteltraining</button>
-    <button onclick="startExam()">Prüfungsmodus (30 Fragen)</button>
-    <button onclick="openChapterReview()">Kapitel nachlesen</button>
+<main id="menu" class="hidden">
 </main>
 
 <section id="chapterSelect" class="hidden"></section>
