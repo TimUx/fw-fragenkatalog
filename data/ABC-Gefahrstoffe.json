@@ -44,8 +44,7 @@
         "durch Körperöffnungen und über die Haut",
         "nur über offene Verletzungen"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page3_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Wo steht die Stoffnummer?",
@@ -64,6 +63,24 @@
         "ein orangefarbenes Rechteck mit Zusatzsymbol, wie z. B. Flamme oder Totenkopf"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "Bei einem Werkstattbrand erkennen Sie einen Flaschenwagen mit zwei Druckgasflaschen. Eine der Flaschen hat eine kastanienbraune Farbe. Um welche Gase kann es sich hierbei handeln?",
+      "answers": [
+        "um Kohlenstoffdioxid und Sauerstoff",
+        "um Acetylen und Sauerstoff",
+        "um Stickstoff und Kohlenstoffdioxid"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sie gehen bei einem GABC-Einsatz zur Menschenrettung vor. Welche der folgenden Aussagen ist richtig?",
+      "answers": [
+        "Zur Menschenrettung darf im GABC-Einsatz nur geschützt durch einen Chemikalienschutzanzug vorgegangen werden.",
+        "Da zur Menschenrettung höchste Eile geboten ist, wird kein PA benötigt.",
+        "Zur Rettung von Menschenleben können Einsatzkräfte zunächst ohne vollständige Sonderausrüstung vorgehen."
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Welche der folgenden Aussagen ist richtig?",
@@ -120,6 +137,15 @@
       "correctIndex": 1
     },
     {
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 23. Welche Bedeutung haben diese Ziffern?",
+      "answers": [
+        "brennbarer flüssiger Stoff, der Gase oder Dämpfe entwickelt",
+        "brennbarer gasförmiger Stoff, der flüssig wird",
+        "entzündbares Gas"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 606.",
       "answers": [
         "Welche Bedeutung haben diese Ziffern?",
@@ -143,6 +169,15 @@
         "werden?",
         "durch den Einsatz von geeigneten Messgeräten",
         "durch geeigneten Atemschutz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Auf einer orangefarbenen Tafel befindet sich vor den Ziffern in der oberen Hälfte ein X. Welche Bedeutung hat dieses X?",
+      "answers": [
+        "Die Angaben auf der Warntafel sind ungültig (durchgestrichen).",
+        "Das Ladegut darf im Brandfall mit Wasser gelöscht werden.",
+        "Der Stoff reagiert in gefährlicher Weise mit Wasser."
       ],
       "correctIndex": 2
     },
@@ -174,13 +209,23 @@
       "correctIndex": 2
     },
     {
+      "question": "Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?",
+      "answers": [
+        "die FwDV 100",
+        "die FwDV 14",
+        "die FwDV 500"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Der Angriffstrupp erkennt an einem verunfallten LKW folgenden roten Großzettel mit schwarzem Flammensymbol: Welche Eigenschaften hat der transportierte Stoff?",
       "answers": [
         "brennbar, gasförmig",
         "brennbar, fest",
         "brennbar, flüssig"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/ABC-Gefahrstoffe_page7_img1.png"
     },
     {
       "question": "Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem",
@@ -207,8 +252,7 @@
         "Inkorporation ausschließen",
         "Atemschutz tragen"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page7_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Eine kontaminierte verletzte Person wird vom Angriffstrupp gerettet. Welche der folgenden Aussagen bezüglich der anschließenden Sofortdekontamination ist richtig?",
