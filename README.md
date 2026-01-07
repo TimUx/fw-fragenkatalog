@@ -1,5 +1,11 @@
 # FW Willingshausen – Fragenkatalog Hessen
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![PWA Enabled](https://img.shields.io/badge/PWA-Enabled-5A0FC8?logo=pwa&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222222?logo=github&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/TimUx/fw-fragenkatalog?style=social)
+
 Ein interaktives Quiz-System zur Vorbereitung auf die Leistungsübungen der Feuerwehr Hessen. Diese Anwendung ermöglicht es Feuerwehrleuten, ihr Wissen in verschiedenen Themenbereichen zu testen und zu festigen.
 
 ## 📑 Inhaltsverzeichnis
