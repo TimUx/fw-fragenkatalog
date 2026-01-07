@@ -139,9 +139,9 @@
     {
       "question": "17. Welchen Explosionsbereich hat ein Acetylen-Luft-Gemisch?",
       "answers": [
-        "von ca. 0 bis 5 Vol.-% von ca. 4 bis 10 Vol.-%",
-        "von ca. 1,5 bis 82 Vol.-% Wo findet bei einer Kerzenflamme das Brennen statt?",
-        "direkt am Docht im Innern der Flamme an der Außenfläche der Flamme"
+        "von ca. 0 bis 5 Vol.-% ",
+        "von ca. 4 bis 10 Vol.-%",
+        "von ca. 1,5 bis 82 Vol.-%"
       ],
       "correctIndex": 2
     },
@@ -224,8 +224,8 @@
       "question": "Welche Voraussetzungen müssen für das Starten einer Verbrennung vorhanden sein?",
       "answers": [
         "ein brennbarer Stoff, Sauerstoff, Wärme, Flammpunkt und ein Katalysator",
-        "ein brennbarer Stoff, Sauerstoff, das richtige Mengenverhältnis zwischen brennbarem Stoff und",
-        "Sauerstoff, Zündenergie und ggf. ein Katalysator ein brennbarer Stoff, Luft mit mindestens 10 % Sauerstoff und 89 % Stickstoff"
+        "ein brennbarer Stoff, Sauerstoff, das richtige Mengenverhältnis zwischen brennbarem Stoff und Sauerstoff, Zündenergie und ggf. ",
+        "ein Katalysator ein brennbarer Stoff, Luft mit mindestens 10 % Sauerstoff und 89 % Stickstoff"
       ],
       "correctIndex": 1
     },
@@ -712,7 +712,7 @@
       "answers": [
         "Diesen Begriff gibt es nicht.",
         "Durchzündung entzündbarer Pyrolyseprodukte und Schwelgase, die sich in der Regel als Rauchschicht in einem Raum ansammeln",
-        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum"
       ],
       "correctIndex": 2
     }
