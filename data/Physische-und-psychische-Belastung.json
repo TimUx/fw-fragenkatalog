@@ -90,50 +90,6 @@
         "Ich stelle mich in die Zuluftöffnung und lasse mich vom Belüftungsgerät abkühlen."
       ],
       "correctIndex": 0
-    },
-    {
-      "question": "[PLATZHALTER] Frage 11 im Kapitel Physische und psychische Belastung - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 12 im Kapitel Physische und psychische Belastung - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 13 im Kapitel Physische und psychische Belastung - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 14 im Kapitel Physische und psychische Belastung - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

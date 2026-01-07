@@ -17,24 +17,25 @@ import re
 import os
 from pathlib import Path
 
-# Expected question counts per chapter (from FEHLENDE_FRAGEN_BERICHT.md)
+# Expected question counts per chapter (from PDF page 2 - official table)
+# Total: 699 questions
 EXPECTED_COUNTS = {
-    "ABC-Gefahrstoffe": 30,
+    "ABC-Gefahrstoffe": 31,
     "Atemschutz": 33,
-    "Besondere Gefahren im Zivilschutz": 7,
+    "Besondere Gefahren im Zivilschutz": 17,
     "Brandsicherheitsdienst": 7,
     "Brennen": 79,
     "Fahrzeugkunde": 56,
-    "Gerätekunde: Geräte für die Technische Hilfeleistung": 9,
+    "Gerätekunde: Geräte für die Technische Hilfeleistung": 14,
     "Gerätekunde: Löschgeräte, Schläuche, Armaturen": 58,
     "Gerätekunde: Persönliche Ausrüstung": 12,
     "Gerätekunde: Rettungsgeräte": 44,
-    "Gerätekunde: Sonstige Geräte": 9,
+    "Gerätekunde: Sonstige Geräte": 6,
     "Grundlagen des Zivil- und Katastrophenschutzes": 18,
     "Lebensrettende Sofortmaßnahmen (Erste Hilfe)": 24,
-    "Löscheinsatz": 88,
+    "Löscheinsatz": 82,
     "Löschen": 70,
-    "Physische und psychische Belastung": 14,
+    "Physische und psychische Belastung": 10,
     "Rechtsgrundlagen": 24,
     "Rettung und Absturzsicherung": 13,
     "Sprechfunk": 12,

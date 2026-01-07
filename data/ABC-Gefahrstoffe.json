@@ -278,6 +278,15 @@
         "Der Gefahrstoff wird ergänzend zum Abspülen mit einer Bürste abgerieben."
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "Der Angriffstrupp erkennt an einem verunfallten LKW folgenden Großzettel: Welche Bedeutung hat dieser?",
+      "answers": [
+        "tiefgekühltes Gefahrgut",
+        "mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
+        "Gefahrgut in begrenzter Menge"
+      ],
+      "correctIndex": 2
     }
   ]
 }

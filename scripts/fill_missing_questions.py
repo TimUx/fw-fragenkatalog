@@ -15,24 +15,25 @@ import os
 import sys
 from pathlib import Path
 
-# Expected question counts per chapter
+# Expected question counts per chapter (from PDF page 2 - official table)
+# Total: 699 questions
 EXPECTED_COUNTS = {
-    "ABC-Gefahrstoffe": 30,
+    "ABC-Gefahrstoffe": 31,
     "Atemschutz": 33,
-    "Besondere-Gefahren-im-Zivilschutz": 7,
+    "Besondere-Gefahren-im-Zivilschutz": 17,
     "Brandsicherheitsdienst": 7,
     "Brennen": 79,
     "Fahrzeugkunde": 56,
-    "Geraetekunde-Geraete-fuer-die-Technische-Hilfeleistung": 9,
+    "Geraetekunde-Geraete-fuer-die-Technische-Hilfeleistung": 14,
     "Geraetekunde-Loeschgeraete-Schlaeuche-Armaturen": 58,
     "Geraetekunde-Persoenliche-Ausruestung": 12,
     "Geraetekunde-Rettungsgeraete": 44,
-    "Geraetekunde-Sonstige-Geraete": 9,
+    "Geraetekunde-Sonstige-Geraete": 6,
     "Grundlagen-des-Zivil-und-Katastrophenschutzes": 18,
     "Lebensrettende-Sofortmassnahmen-Erste-Hilfe": 24,
-    "Loescheinsatz": 88,
+    "Loescheinsatz": 82,
     "Loeschen": 70,
-    "Physische-und-psychische-Belastung": 14,
+    "Physische-und-psychische-Belastung": 10,
     "Rechtsgrundlagen": 24,
     "Rettung-und-Absturzsicherung": 13,
     "Sprechfunk": 12,

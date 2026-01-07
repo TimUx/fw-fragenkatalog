@@ -54,39 +54,6 @@
         "Beim Einsatz eines genormten Stromerzeugers der Feuerwehr kann die Leitungslänge außer"
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "[PLATZHALTER] Frage 7 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 8 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 9 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }
