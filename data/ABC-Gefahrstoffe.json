@@ -275,9 +275,9 @@
     {
       "question": "Der Angriffstrupp erkennt an einem verunfallten LKW folgenden Großzettel: Welche Bedeutung hat dieser?",
       "answers": [
-        "tiefgekühltes Gefahrgut mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
-        "Gefahrgut in begrenzter Menge",
-        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "tiefgekühltes Gefahrgut ",
+        "mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
+        "Gefahrgut in begrenzter Menge"
       ],
       "correctIndex": 1
     }
