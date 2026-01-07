@@ -505,7 +505,8 @@
         "der Abgang B",
         "der Abgang C"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Geraetekunde-Loeschgeraete-Schlaeuche-Armaturen_page94_img1.png"
     },
     {
       "question": "Welche Schaltvorgänge sind mit dem Schaltorgan eines „DM-Strahlrohres“ möglich?",
