@@ -15,6 +15,15 @@ function formatChapterDisplayName(filename) {
     return filename.replace('.json', '').replace(/-/g, ' ');
 }
 
+async function ensureAllChaptersLoaded() {
+    await Promise.all(chapters.map(async ch => {
+        if(!loadedChapters[ch]){
+            const r = await fetch(`data/${ch}`);
+            loadedChapters[ch] = await r.json();
+        }
+    }));
+}
+
 // ======= INIT ========
 fetch("data/meta.json")
 .then(r => r.json())
@@ -33,22 +42,22 @@ async function openChapterMode(){
         <h2>Kapitel wählen</h2>
     `;
 
-    // Load all chapters in parallel
-    await Promise.all(chapters.map(async ch => {
-        if(!loadedChapters[ch]){
-            const r = await fetch(`data/${ch}`);
-            loadedChapters[ch] = await r.json();
-        }
-    }));
+    try {
+        // Load all chapters in parallel
+        await ensureAllChaptersLoaded();
 
-    // Create buttons after all chapters are loaded
-    chapters.forEach(ch => {
-        const questionCount = loadedChapters[ch].questions.length;
-        let btn = document.createElement("button");
-        btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
-        btn.onclick = () => loadChapter(ch);
-        chapterSelect.appendChild(btn);
-    });
+        // Create buttons after all chapters are loaded
+        chapters.forEach(ch => {
+            const questionCount = loadedChapters[ch].questions.length;
+            let btn = document.createElement("button");
+            btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
+            btn.onclick = () => loadChapter(ch);
+            chapterSelect.appendChild(btn);
+        });
+    } catch(error) {
+        console.error("Error loading chapters:", error);
+        chapterSelect.innerHTML += `<p>Fehler beim Laden der Kapitel. Bitte versuchen Sie es erneut.</p>`;
+    }
 }
 
 function loadChapter(name){
@@ -79,23 +88,23 @@ async function openChapterReview(){
 
     const listContainer = document.getElementById("reviewChapterList");
     
-    // Load all chapters in parallel
-    await Promise.all(chapters.map(async ch => {
-        if(!loadedChapters[ch]){
-            const r = await fetch(`data/${ch}`);
-            loadedChapters[ch] = await r.json();
-        }
-    }));
+    try {
+        // Load all chapters in parallel
+        await ensureAllChaptersLoaded();
 
-    // Create buttons after all chapters are loaded
-    chapters.forEach(ch => {
-        const questionCount = loadedChapters[ch].questions.length;
-        let btn = document.createElement("button");
-        btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
-        btn.className = "chapter-btn";
-        btn.onclick = () => showChapterContent(ch);
-        listContainer.appendChild(btn);
-    });
+        // Create buttons after all chapters are loaded
+        chapters.forEach(ch => {
+            const questionCount = loadedChapters[ch].questions.length;
+            let btn = document.createElement("button");
+            btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
+            btn.className = "chapter-btn";
+            btn.onclick = () => showChapterContent(ch);
+            listContainer.appendChild(btn);
+        });
+    } catch(error) {
+        console.error("Error loading chapters:", error);
+        listContainer.innerHTML = `<p>Fehler beim Laden der Kapitel. Bitte versuchen Sie es erneut.</p>`;
+    }
 }
 
 async function showChapterContent(name){
