@@ -44,8 +44,7 @@
         "der Melder",
         "der Einheitsführer"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Loescheinsatz_page58_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Welche der nachfolgenden Aufgaben übernimmt der Angriffstrupp nach der FwDV 3?",
@@ -264,6 +263,15 @@
       "correctIndex": 2
     },
     {
+      "question": "Wie verhalten sich Einsatzkräfte, wenn sie eine besondere Gefahr (Einsturz, Explosion, ...) bemerken?",
+      "answers": [
+        "Sie legen alle Geräte schnellstens ab und melden sich beim Gruppenführer.",
+        "Sie begeben sich zum Verteiler und erwarten dort die anderen Personen ihrer Einheit.",
+        "Sie geben unverzüglich das Kommando: „Gefahr - Alle sofort zurück!“ und sammeln sich am"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Welche Funktionen entfallen bei einer Staffel im Vergleich zur Gruppe?",
       "answers": [
         "Maschinist, Melder und Schlauchtrupp",
@@ -354,13 +362,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Welche der nachfolgenden Maßnahmen ist nach der FwDV 3 beim Einsatz mit Bereitstellung",
+      "question": "Welche der nachfolgenden Maßnahmen ist nach der FwDV 3 beim Einsatz mit Bereitstellung richtig?",
       "answers": [
-        "richtig?",
         "Der Angriffstrupp verlegt immer die B-Schlauchleitung zwischen Pumpe und Verteiler.",
-        "Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung."
+        "Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.",
+        "Der Angriffs- und der Schlauchtrupp unterstützen immer den Wassertrupp beim Aufbau der"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wann rüstet sich nach der FwDV 3 der Angriffstrupp mit Atemschutzgeräten aus?",
@@ -381,13 +389,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Der Einheitsführer bestimmt die Fahrzeugaufstellung und befiehlt: „Wasserentnahmestelle, … Lage des Verteilers, … ZUM EINSATZ FERTIG!“. Um welche Einsatzart handelt es sich",
+      "question": "Der Einheitsführer bestimmt die Fahrzeugaufstellung und befiehlt: „Wasserentnahmestelle, … Lage des Verteilers, … ZUM EINSATZ FERTIG!“. Um welche Einsatzart handelt es sich hierbei?",
       "answers": [
-        "hierbei?",
         "um einen Einsatz mit Bereitstellung",
-        "um einen Einsatz ohne Bereitstellung"
+        "um einen Einsatz ohne Bereitstellung",
+        "um einen Einsatz einer Kübelspritze"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wo werden nach der FwDV 3 bei der Vornahme eines Schaumrohres vom Angriffstrupp die beiden Schaummittelbehälter, der Zumischer und der D-Ansaugschlauch abgelegt?",
@@ -505,6 +513,15 @@
         "der Wassertrupp und der Melder"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "Welchen Einsatz hat der Gruppenführer gewählt, wenn sein Befehl wie folgt lautet: „Wasserentnahmestelle Überflurhydrant, Verteiler 5 m vor den Hauseingang. Zum Einsatz fertig!“?",
+      "answers": [
+        "einen CM-Stahlrohr-Einsatz",
+        "einen Einsatz zur Brandbekämpfung",
+        "einen Einsatz mit Bereitstellung"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Wer verlegt nach der FwDV 3 die B-Schlauchleitung mit Rollschläuchen zwischen dem Löschfahrzeug und dem Verteiler?",

@@ -6,7 +6,7 @@
       "answers": [
         "… Durchflussmenge.",
         "… Strahlleistung.",
-        "Hessische Landesfeuerwehrschule"
+        "Es ist nur eine Antwortmöglichkeit richtig!"
       ],
       "correctIndex": 0
     },
@@ -44,8 +44,7 @@
         "schutzausrüstung verzichten?",
         "Nein, die persönliche Mindestschutzausrüstung ist während des Einsatzes immer zu tragen."
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Geraetekunde-Persoenliche-Ausruestung_page96_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Der Gruppenführer befiehlt, dass sich der Angriffstrupp mit Atemschutz ausrüsten soll. Darf sich jeder Feuerwehrangehörige mit Atemschutzgeräten ausrüsten?",
@@ -66,13 +65,13 @@
       "correctIndex": 0
     },
     {
-      "question": "In welcher Situation muss der Gesichtsschutz am Feuerwehrhelm getragen und benutzt",
+      "question": "In welcher Situation muss der Gesichtsschutz am Feuerwehrhelm getragen und benutzt werden?",
       "answers": [
-        "werden?",
         "immer",
-        "bei Arbeiten mit einem hydraulischen Rettungsgerät"
+        "bei Arbeiten mit einem hydraulischen Rettungsgerät",
+        "bei einem Innenangriff im Brandeinsatz"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wie muss der Nackenschutz am Feuerwehrhelm getragen werden?",

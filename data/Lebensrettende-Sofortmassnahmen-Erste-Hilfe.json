@@ -26,8 +26,7 @@
         "Wunde mit möglichst viel sauberem Wasser drucklos spülen",
         "Wunde mit einem wasserfesten Pflaster abdecken"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Lebensrettende-Sofortmassnahmen-Erste-Hilfe_page53_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Worauf muss beim Spülen einer verätzten Wunde geachtet werden?",
@@ -48,13 +47,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Wodurch wird die Schwere einer Hautschädigung durch eine Verbrennung hauptsächlich",
+      "question": "Wodurch wird die Schwere einer Hautschädigung durch eine Verbrennung hauptsächlich bestimmt?",
       "answers": [
-        "bestimmt?",
         "durch die Temperatur und die Einwirkungsdauer der Wärmequelle",
-        "durch die Feuerwiderstandsklasse der Kleidung"
+        "durch die Feuerwiderstandsklasse der Kleidung",
+        "durch die Art der Stichflamme"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Warum wird bei einer schweren Augenverletzung ein Verband über beide Augen angelegt?",
@@ -84,13 +83,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Einem Unfallopfer wurde das Bein am Becken abgerissen. Was ist zu tun, um die Blutung zu",
+      "question": "Einem Unfallopfer wurde das Bein am Becken abgerissen. Was ist zu tun, um die Blutung zu stillen?",
       "answers": [
-        "stillen?",
         "Die Blutung ist durch Aufpressen von weichem, möglichst keimfreien Material auf die",
-        "Blutungsstelle zu stillen."
+        "Blutungsstelle zu stillen.",
+        "Es muss versucht werden, eine Abbindung vorzunehmen."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Können großflächige Verbrennungen die Ursache für einen Schock sein?",

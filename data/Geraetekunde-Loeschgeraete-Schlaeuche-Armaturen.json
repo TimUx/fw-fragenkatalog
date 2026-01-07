@@ -35,8 +35,7 @@
         "die Ventilleine und die Halteleine",
         "die Halteleine"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Geraetekunde-Loeschgeraete-Schlaeuche-Armaturen_page85_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Wie viel m3 Schwerschaum können mit einem Zumischer mit der Bezeichnung „Z 4 R“ und einem Kombinationsschaumstrahlrohr „M4/S4“ (Verschäumungszahl 15) in 5 Minuten hergestellt werden?",
@@ -165,13 +164,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Welche Bautypen von Verteilern kommen vornehmlich auf Löschfahrzeugen Typ TSF zum",
+      "question": "Welche Bautypen von Verteilern kommen vornehmlich auf Löschfahrzeugen Typ TSF zum Einsatz?",
       "answers": [
-        "Einsatz?",
         "BV oder BK",
-        "ZBV oder ZBK"
+        "ZBV oder ZBK",
+        "CV oder CK"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Welchen Innendurchmesser haben genormte A-Saugschläuche?",
@@ -179,6 +178,15 @@
         "75 mm",
         "100 mm",
         "110 mm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie sind die an der Brandstelle verwendeten Druckschläuche nach dem Einsatz zu behandeln?",
+      "answers": [
+        "Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine",
+        "besondere Behandlung nicht erforderlich.",
+        "Die Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen."
       ],
       "correctIndex": 2
     },
@@ -495,8 +503,7 @@
         "Vollstrahl, Absperrung und Sprühstrahl",
         "nur Absperrung und Vollstrahl"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Geraetekunde-Loeschgeraete-Schlaeuche-Armaturen_page94_img1.png"
+      "correctIndex": 1
     }
   ]
 }

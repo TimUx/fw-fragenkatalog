@@ -26,17 +26,16 @@
         "Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.",
         "Zuständige Brandmeldestelle informieren, Erkundung, Brandbekämpfung, Lösch- und"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Brandsicherheitsdienst_page19_img1.png"
+      "correctIndex": 2
     },
     {
-      "question": "Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu",
+      "question": "Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu ergreifen?",
       "answers": [
-        "ergreifen?",
         "Die zuständige Brandmeldestelle ist sofort zu alarmieren.",
-        "Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmelderzentrale"
+        "Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmelderzentrale",
+        "um dort durch den Wachhabenden weitere Befehle zu erhalten."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wer ordnet einen Brandsicherheitsdienst an?",

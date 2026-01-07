@@ -35,8 +35,7 @@
         "ein infolge Sauerstoffmangels sehr langsam verlaufender Brand",
         "ein Brand mit einer hohen Flammenausbreitungsgeschwindigkeit"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Brennen_page21_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
@@ -72,8 +71,7 @@
         "die Konvektion",
         "die Wärmestrahlung"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Brennen_page22_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Welche Aussage hinsichtlich der Temperatur des Flammpunktes und des Brennpunktes einer brennbaren Flüssigkeit ist richtig?",
@@ -157,14 +155,31 @@
       "correctIndex": 1
     },
     {
-      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher",
+      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
       "answers": [
-        "geeignet?",
         "für Brände von festen Stoffen, ausgenommen Metalle",
-        "für Brände von gasförmigen Stoffen"
+        "für Brände von gasförmigen Stoffen",
+        "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Brennen_page24_img1.png"
+      "correctIndex": 0
+    },
+    {
+      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
+      "answers": [
+        "für Brände von festen Stoffen",
+        "für Brände von gasförmigen Stoffen",
+        "für Brände von flüssigen oder flüssig werdenden Stoffen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
+      "answers": [
+        "für Brände von flüssigen Stoffen",
+        "für Brände von gasförmigen Stoffen",
+        "für Brände von Metallen"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Welcher der angegebenen Stoffe brennt nur mit Flamme?",
@@ -191,8 +206,7 @@
         "ein brennbarer Stoff, Sauerstoff, das richtige Mengenverhältnis zwischen brennbarem Stoff und",
         "Sauerstoff, Zündenergie und ggf. ein Katalysator"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Brennen_page25_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Welche der folgenden Brände werden der Brandklasse D zugeordnet?",
@@ -564,13 +578,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Welche Eigenschaften haben entzündbare Flüssigkeiten, die nach GHS in die Kategorien 1,",
+      "question": "Welche Eigenschaften haben entzündbare Flüssigkeiten, die nach GHS in die Kategorien 1, 2 und 3 eingestuft werden?",
       "answers": [
-        "2 und 3 eingestuft werden?",
         "entzündbar, leicht entzündbar, extrem entzündbar",
-        "verflüssigt, flüssig, verdampfend"
+        "verflüssigt, flüssig, verdampfend",
+        "nicht brennbar, brennbar, explosiv"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Welches Gas entsteht hauptsächlich bei einer Verbrennung, bei der ausreichend Sauerstoff zur Verfügung steht (vollkommene Verbrennung)?",
@@ -582,13 +596,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher",
+      "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
       "answers": [
-        "geeignet?",
         "für Brände von Metallen",
-        "für Brände von Speiseölen und -fetten in Frittier- und Fettbackgeräten"
+        "für Brände von Speiseölen und -fetten in Frittier- und Fettbackgeräten",
+        "für Brände von gasförmigen Stoffen"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Warum werden Brände von Metallen in eine eigene Brandklasse eingeteilt?",
@@ -597,8 +611,16 @@
         "fortgeschwemmt werden können.",
         "Weil die Brandtemperaturen bei Metallbränden weit über denen der Brandklasse A liegen und"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Brennen_page33_img1.png"
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Temperatur muss zum Löschen eines Brandes durch Abkühlen unterschritten werden?",
+      "answers": [
+        "die Zündtemperatur",
+        "der Brennpunkt",
+        "die Mindestverbrennungstemperatur"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?",

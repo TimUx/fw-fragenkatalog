@@ -35,8 +35,7 @@
         "nur als thermische und ionisierende Strahlung",
         "als Druck, thermische und ionisierende Strahlung"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Besondere-Gefahren-im-Zivilschutz_page15_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Welche Strahlungsarten können bei einem Kernwaffeneinsatz entstehen?",
@@ -120,13 +119,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Welche Vorgehensweise nach einer Kontamination mit einem chemischen Kampfstoff ist",
+      "question": "Welche Vorgehensweise nach einer Kontamination mit einem chemischen Kampfstoff ist richtig?",
       "answers": [
-        "richtig?",
         "Eine Sofort-Dekontamination ist bei C-Kampfstoffen zu unterlassen.",
-        "Eine Sofort-Dekontamination ist unverzüglich durchzuführen."
+        "Eine Sofort-Dekontamination ist unverzüglich durchzuführen.",
+        "Bevor Maßnahmen zur Dekontamination durchgeführt werden, muss der Betroffene einem"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welches Fahrzeug wird unter anderem für Messaufgaben im Zivilschutz vom Bund vorgesehen?",

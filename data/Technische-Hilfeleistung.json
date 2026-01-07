@@ -44,8 +44,7 @@
         "Er rettet und leistet technische Hilfe.",
         "Er bereitet die befohlenen Geräte für den Einsatz vor und betreibt sie soweit erforderlich."
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Technische-Hilfeleistung_page122_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Welche Aussage über die Aufgaben des Schlauchtrupps im Hilfeleistungseinsatz ist richtig?",
@@ -57,13 +56,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Wer ist befugt Abweichungen von der persönlichen Ausrüstung im Hilfeleistungseinsatz zu",
+      "question": "Wer ist befugt Abweichungen von der persönlichen Ausrüstung im Hilfeleistungseinsatz zu befehlen?",
       "answers": [
-        "befehlen?",
         "der Einheitsführer",
-        "der Angriffstruppführer"
+        "der Angriffstruppführer",
+        "Es gibt keine Abweichungen, da die Unfallverhütungsvorschriften bereits alles Notwendige"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Welche Ausrüstungsgegenstände nimmt der Angriffstrupp im Hilfeleistungseinsatz vor?",

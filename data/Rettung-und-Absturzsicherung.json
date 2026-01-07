@@ -2,6 +2,15 @@
   "title": "Rettung und Absturzsicherung",
   "questions": [
     {
+      "question": "Welche Aussage über das Anschlagen der Feuerwehrleine beim Selbstretten im Einsatz ist richtig?",
+      "answers": [
+        "Die Feuerwehrleine wird mit einem Mastwurf am Anschlagpunkt befestigt. Auf einen",
+        "Spierenstich kann im Einsatz verzichtet werden.",
+        "Die Feuerwehrleine wird mit einem Mastwurf und einem Spierenstich am Anschlagpunkt"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Wie wird die Abseilgeschwindigkeit beim Selbstretten geregelt?",
       "answers": [
         "Die Abseilgeschwindigkeit wird über die Körpermasse geregelt.",
@@ -17,8 +26,7 @@
         "Die freie Hand führt das Seil oberhalb des Feuerwehr-Haltegurtes.",
         "Die freie Hand wird in Hüfthöhe gehalten, um im Bedarfsfall schneller das Seil greifen zu"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Rettung-und-Absturzsicherung_page106_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Was ist beim Einsatz einer Feuerwehrleine zu beachten?",
