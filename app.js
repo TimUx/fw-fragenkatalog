@@ -13,7 +13,15 @@ const welcome = document.getElementById("welcome");
 
 // ======= HELPER FUNCTIONS ========
 function formatChapterDisplayName(filename) {
-    return filename.replace('.json', '').replace(/-/g, ' ');
+    return filename
+        .replace('.json', '')
+        .replace(/-/g, ' ')
+        .replace(/ae/g, 'ä')
+        .replace(/oe/g, 'ö')
+        .replace(/ue/g, 'ü')
+        .replace(/Ae/g, 'Ä')
+        .replace(/Oe/g, 'Ö')
+        .replace(/Ue/g, 'Ü');
 }
 
 async function ensureAllChaptersLoaded() {
