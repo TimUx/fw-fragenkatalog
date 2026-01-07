@@ -499,9 +499,9 @@
     {
       "question": "Welche Aufgaben kann im Rahmen der Gefahrenabwehr ein RW im Wesentlichen abdecken?",
       "answers": [
-        "die Brandbekämpfung die Löschwasserversorgung",
-        "die Allgemeine Hilfe",
-        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "die Brandbekämpfung",
+        "die Löschwasserversorgung",
+        "die Allgemeine Hilfe"
       ],
       "correctIndex": 1
     }
