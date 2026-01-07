@@ -76,9 +76,9 @@
     {
       "question": "Welche Löschwirkung besitzt D-Löschpulver bei Metallbränden?",
       "answers": [
-        "Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung antidissoziative Löschwirkung",
-        "Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des",
-        "D-Löschpulvers"
+        "Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung ",
+        "antidissoziative Löschwirkung",
+        "Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des D-Löschpulvers"
       ],
       "correctIndex": 0
     },
@@ -346,9 +346,9 @@
     {
       "question": "Worauf beruht der Löscherfolg beim Löschverfahren „Ersticken“?",
       "answers": [
-        "auf der Herabminderung der Brandtemperatur auf der Abkühlung unter den Flammpunkt",
-        "auf der Veränderung des Mengenverhältnisses zwischen brennbarem Stoff und Sauerstoff,",
-        "wobei ein Brennen unterbunden wird"
+        "auf der Herabminderung der Brandtemperatur",
+        "auf der Abkühlung unter den Flammpunkt",
+        "auf der Veränderung des Mengenverhältnisses zwischen brennbarem Stoff und Sauerstoff, wobei ein Brennen unterbunden wird"
       ],
       "correctIndex": 1
     },
@@ -356,16 +356,16 @@
       "question": "Mit welcher Löschmethode lässt sich in der Regel bei glutbildenden Bränden den größten Kühleffekt erzielen?",
       "answers": [
         "den Löschstrahl auf die Glutoberfläche richten, damit Wärme direkt aus der Reaktionszone entzogen wird",
-        "den Löschstrahl in die Flammen richten, damit die Mindestverbrennungstemperatur",
-        "herabgesetzt wird Luftschaum über die Glut ausbreiten"
+        "den Löschstrahl in die Flammen richten, damit die Mindestverbrennungstemperatur herabgesetzt wird",
+        "Luftschaum über die Glut ausbreiten"
       ],
       "correctIndex": 0
     },
     {
       "question": "Was ist ein Netzmittel?",
       "answers": [
-        "ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des",
-        "Wassers erheblich verbessert",
+        "ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers",
+        "eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des Wassers erheblich verbessert",
         "ein flüssiges Löschmittel, das netzförmig auf den brennenden Stoff aufgetragen wird und damit flächendeckend eine erstickende Wirkung erzielt"
       ],
       "correctIndex": 0
