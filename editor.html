@@ -413,12 +413,14 @@
                     <li>Wählen Sie ein Kapitel aus dem Dropdown-Menü</li>
                     <li>Klicken Sie auf "Kapitel laden" um alle Fragen anzuzeigen</li>
                     <li>Bearbeiten Sie Fragen direkt im Browser</li>
+                    <li>Fügen Sie optional ein Piktogramm/Bild hinzu (Pfad eingeben, z.B. <code>assets/piktos/Brennen_page21_img1.png</code>)</li>
                     <li>Markieren Sie die richtige Antwort mit dem Radio-Button</li>
                     <li>Speichern Sie jede Frage einzeln mit dem "Änderungen speichern" Button</li>
                     <li>Exportieren Sie das komplette Kapitel als JSON-Datei</li>
                     <li>Ersetzen Sie die Datei in <code>data/[Kapitelname].json</code></li>
                 </ol>
                 <p style="margin-top: 15px;"><strong>⚠️ Hinweis:</strong> Platzhalter-Fragen sind gelb markiert und müssen mit echten Daten aus dem PDF gefüllt werden.</p>
+                <p style="margin-top: 10px;"><strong>✅ GitHub Pages:</strong> Der Editor funktioniert auch auf GitHub Pages! Einfach <code>https://[username].github.io/fw-fragenkatalog/editor.html</code> aufrufen.</p>
             </div>
         </div>
     </div>
@@ -491,6 +493,7 @@
             div.className = 'question-card' + (question.placeholder ? ' placeholder' : '');
             
             const isPlaceholder = question.placeholder ? '<span class="question-badge">PLATZHALTER</span>' : '';
+            const currentImage = question.image || '';
             
             div.innerHTML = `
                 <div class="question-header">
@@ -498,6 +501,31 @@
                     ${isPlaceholder}
                 </div>
                 <textarea class="question-text" id="q-text-${index}">${question.question}</textarea>
+                
+                <div class="image-section">
+                    <h4>🖼️ Piktogramm/Bild (optional)</h4>
+                    <div class="image-controls">
+                        <input type="text" 
+                               class="image-select" 
+                               id="q-${index}-image" 
+                               value="${currentImage}"
+                               placeholder="z.B. assets/piktos/Brennen_page21_img1.png"
+                               oninput="updateImagePreview(${index})">
+                        ${currentImage ? `<button class="btn-remove-image" onclick="removeImage(${index})">🗑️ Entfernen</button>` : ''}
+                    </div>
+                    ${currentImage ? `
+                        <img id="q-${index}-preview" 
+                             src="${currentImage}" 
+                             class="image-preview" 
+                             alt="Vorschau"
+                             onerror="this.style.display='none'">
+                    ` : `
+                        <img id="q-${index}-preview" 
+                             class="image-preview hidden" 
+                             alt="Vorschau">
+                    `}
+                </div>
+                
                 <div class="answers">
                     ${question.answers.map((ans, i) => `
                         <div class="answer-row ${i === question.correctIndex ? 'correct' : ''}">
@@ -513,6 +541,39 @@
             `;
             
             return div;
+        }
+
+        function updateImagePreview(index) {
+            const input = document.getElementById(`q-${index}-image`);
+            const preview = document.getElementById(`q-${index}-preview`);
+            const imagePath = input.value.trim();
+            
+            if (imagePath) {
+                preview.src = imagePath;
+                preview.classList.remove('hidden');
+                preview.style.display = 'block';
+                preview.onerror = function() { this.style.display = 'none'; };
+            } else {
+                preview.classList.add('hidden');
+                preview.style.display = 'none';
+            }
+        }
+
+        function removeImage(index) {
+            const input = document.getElementById(`q-${index}-image`);
+            const preview = document.getElementById(`q-${index}-preview`);
+            
+            input.value = '';
+            preview.classList.add('hidden');
+            preview.style.display = 'none';
+            
+            // Update the question immediately
+            if (currentData.questions[index].image) {
+                delete currentData.questions[index].image;
+            }
+            
+            // Refresh the card
+            displayQuestions();
         }
 
         function updateCorrectAnswer(questionIndex, answerIndex) {
@@ -542,6 +603,16 @@
                 document.getElementById(`q-${index}-a-1`).value,
                 document.getElementById(`q-${index}-a-2`).value
             ];
+            
+            // Update image
+            const imageInput = document.getElementById(`q-${index}-image`);
+            const imagePath = imageInput ? imageInput.value.trim() : '';
+            if (imagePath) {
+                question.image = imagePath;
+            } else {
+                // Remove image property if empty
+                delete question.image;
+            }
             
             // Remove placeholder flag if it was a placeholder
             if (question.placeholder && !question.question.includes('[PLATZHALTER]')) {
