@@ -98,7 +98,7 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                         if 'Antwortkatalog' in next_line or 'Seite' in next_line:
                             break
                         # Stop if we hit what looks like an answer
-                        if next_line and not next_line[0].isdigit() and len(next_line) > 10:
+                        if len(next_line) > 0 and not next_line[0].isdigit() and len(next_line) > 10:
                             if question_text.endswith('?') or question_text.endswith('.'):
                                 break
                             question_text += ' ' + next_line
@@ -215,7 +215,12 @@ def main():
     saved_chapters = extract_questions_from_pdf(str(pdf_path), str(output_dir), str(assets_dir))
     update_meta_json(str(output_dir), saved_chapters)
     
-    total_q = sum(len(json.load(open(output_dir / ch))['questions']) for ch in saved_chapters)
+    # Calculate total questions with proper file handling
+    total_q = 0
+    for ch in saved_chapters:
+        with open(output_dir / ch, 'r', encoding='utf-8') as f:
+            total_q += len(json.load(f)['questions'])
+    
     print(f"\n✓ Extraction complete!")
     print(f"  Chapters: {len(saved_chapters)}")
     print(f"  Questions: {total_q}")
