@@ -263,6 +263,17 @@
       "correctIndex": 2
     },
     {
+      "question": "[PLATZHALTER] Frage 30 im Kapitel Atemschutz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Warum ist es wichtig, nach Rücksprache mit dem Einheitsführer, Lüftungsmaßnahmen in verrauchten Bereichen durchzuführen?",
       "answers": [
         "Um dem Melder das Betreten der Räume zu ermöglichen.",

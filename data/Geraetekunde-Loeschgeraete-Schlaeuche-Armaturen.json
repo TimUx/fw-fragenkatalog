@@ -434,6 +434,17 @@
       "correctIndex": 0
     },
     {
+      "question": "[PLATZHALTER] Frage 49 im Kapitel Gerätekunde: Löschgeräte, Schläuche, Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Welche Wasserlieferung hat ein „BM-Strahlrohr“ ohne Mundstück in 5 Minuten bei einem Strahlrohrdruck von 5 bar?",
       "answers": [
         "ca. 400 Liter",
@@ -504,6 +515,17 @@
         "nur Absperrung und Vollstrahl"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "[PLATZHALTER] Frage 58 im Kapitel Gerätekunde: Löschgeräte, Schläuche, Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

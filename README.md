@@ -81,7 +81,31 @@ php -S localhost:8000
 
 ## 📝 Fragen hinzufügen oder bearbeiten
 
-Die Fragen werden in der Datei `data/questions.json` gespeichert. Das Format ist wie folgt:
+### 🖥️ GUI-Editor (Empfohlen)
+
+Verwenden Sie den benutzerfreundlichen **Fragen-Editor** für einfaches Bearbeiten:
+
+1. Starten Sie einen lokalen Webserver:
+   ```bash
+   python3 -m http.server 8000
+   ```
+
+2. Öffnen Sie den Editor im Browser:
+   ```
+   http://localhost:8000/editor.html
+   ```
+
+3. **Funktionen:**
+   - Kapitel aus Dropdown auswählen
+   - Fragen direkt im Browser bearbeiten
+   - Richtige Antwort mit Radio-Button markieren
+   - Neue Fragen hinzufügen
+   - Fragen löschen
+   - Als JSON exportieren
+
+### 📄 Manuelles Bearbeiten
+
+Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. Das Format ist wie folgt:
 
 ```json
 {

@@ -101,6 +101,17 @@
       "correctIndex": 2
     },
     {
+      "question": "[PLATZHALTER] Frage 12 im Kapitel Verhalten bei Gefahren - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Ein Feuerwehrangehöriger nimmt unter Medikamenteneinfluss an einem Einsatz teil. Welche Folge kann dieses Verhalten haben?",
       "answers": [
         "Da die Krankheitssymptome ausgeschaltet sind, ist mit keinerlei Folgen zu rechnen.",
@@ -126,6 +137,17 @@
         "Rot"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "[PLATZHALTER] Frage 16 im Kapitel Verhalten bei Gefahren - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "In welchem Abstand muss auf Kraftfahrstraßen mit getrennten Richtungsfahrbahnen mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?",

@@ -11,6 +11,28 @@
       "correctIndex": 2
     },
     {
+      "question": "[PLATZHALTER] Frage 2 im Kapitel Sprechfunk - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
+      "question": "[PLATZHALTER] Frage 3 im Kapitel Sprechfunk - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wer ist für das Endgeräte-Management, die Anwenderbetreuung und für den prozessorientierten Service in seinem Zuständigkeitsbereich für den Digitalfunk in Hessen verantwortlich?",
       "answers": [
         "die Landeskoordinierungsstelle Digitalfunk (LKD)",

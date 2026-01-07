@@ -146,6 +146,17 @@
       "correctIndex": 0
     },
     {
+      "question": "[PLATZHALTER] Frage 17 im Kapitel Rechtsgrundlagen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Welche Aussage zur Kennzeichnung von Atemschutzgeräteträgern ist richtig?",
       "answers": [
         "Kann ein Atemschutzgeräteträger keine Atemschutzgeräte mehr tragen, so ist der rote Punkt",

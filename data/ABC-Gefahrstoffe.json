@@ -65,22 +65,26 @@
       "correctIndex": 0
     },
     {
-      "question": "Bei einem Werkstattbrand erkennen Sie einen Flaschenwagen mit zwei Druckgasflaschen. Eine der Flaschen hat eine kastanienbraune Farbe. Um welche Gase kann es sich hierbei handeln?",
+      "question": "[PLATZHALTER] Frage 8 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
-        "um Kohlenstoffdioxid und Sauerstoff",
-        "um Acetylen und Sauerstoff",
-        "um Stickstoff und Kohlenstoffdioxid"
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
       ],
-      "correctIndex": 1
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "Sie gehen bei einem GABC-Einsatz zur Menschenrettung vor. Welche der folgenden Aussagen ist richtig?",
+      "question": "[PLATZHALTER] Frage 9 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
-        "Zur Menschenrettung darf im GABC-Einsatz nur geschützt durch einen Chemikalienschutzanzug vorgegangen werden.",
-        "Da zur Menschenrettung höchste Eile geboten ist, wird kein PA benötigt.",
-        "Zur Rettung von Menschenleben können Einsatzkräfte zunächst ohne vollständige Sonderausrüstung vorgehen."
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
       ],
-      "correctIndex": 2
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Welche der folgenden Aussagen ist richtig?",
@@ -119,13 +123,13 @@
       "correctIndex": 2
     },
     {
-      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern. Welche Bedeutung haben diese Ziffern?",
+      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern.",
       "answers": [
+        "Welche Bedeutung haben diese Ziffern?",
         "obere Ziffern Gefahrnummer, untere Ziffern UN-Nummer",
-        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer",
-        "obere Ziffern Gefahrnummer, untere Ziffern EU-Nummer"
+        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 225.",
@@ -137,13 +141,15 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 23. Welche Bedeutung haben diese Ziffern?",
+      "question": "[PLATZHALTER] Frage 16 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
-        "brennbarer flüssiger Stoff, der Gase oder Dämpfe entwickelt",
-        "brennbarer gasförmiger Stoff, der flüssig wird",
-        "entzündbares Gas"
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
       ],
-      "correctIndex": 2
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 606.",
@@ -173,13 +179,15 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befindet sich vor den Ziffern in der oberen Hälfte ein X. Welche Bedeutung hat dieses X?",
+      "question": "[PLATZHALTER] Frage 20 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
-        "Die Angaben auf der Warntafel sind ungültig (durchgestrichen).",
-        "Das Ladegut darf im Brandfall mit Wasser gelöscht werden.",
-        "Der Stoff reagiert in gefährlicher Weise mit Wasser."
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
       ],
-      "correctIndex": 2
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Was wird in einem Eisenbahn-Kesselwagen transportiert, der mit einem 300 mm breiten orangefarbenen Ring in der Längsachse gekennzeichnet ist?",
@@ -200,13 +208,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336. Welchen Aggregatzustand hat der transportierte Stoff?",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336.",
       "answers": [
+        "Welchen Aggregatzustand hat der transportierte Stoff?",
         "fest",
-        "flüssig",
-        "gasförmig"
+        "flüssig"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?",
@@ -224,8 +232,7 @@
         "brennbar, fest",
         "brennbar, flüssig"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page7_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem 300 mm breiten orangefarbenen Streifen um die Längsachse des Tanks möglich?",
@@ -279,8 +286,7 @@
         "mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
         "Gefahrgut in begrenzter Menge"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page8_img1.png"
+      "correctIndex": 2
     }
   ]
 }

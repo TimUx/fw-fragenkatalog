@@ -47,6 +47,28 @@
       "correctIndex": 1
     },
     {
+      "question": "[PLATZHALTER] Frage 6 im Kapitel Wald- und Vegetationsbrandbekämpfung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
+      "question": "[PLATZHALTER] Frage 7 im Kapitel Wald- und Vegetationsbrandbekämpfung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Ab welchem Geländeneigungswinkel (Steinschlagwinkel) kann die Brandausbreitung bergab durch abrollendes, brennendes Material verstärkt werden?",
       "answers": [
         "Ab einem Geländeneigungswinkel von ca. 35°.",

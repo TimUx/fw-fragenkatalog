@@ -2,6 +2,17 @@
   "title": "Lebensrettende Sofortmaßnahmen (Erste Hilfe)",
   "questions": [
     {
+      "question": "[PLATZHALTER] Frage 1 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wann darf eine Herz-Lungen-Wiederbelebung eingestellt werden?",
       "answers": [
         "wenn nach 15 Minuten kein Lebenszeichen und keine Atmung mehr feststellbar sind",
@@ -27,6 +38,17 @@
         "Wunde mit einem wasserfesten Pflaster abdecken"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "[PLATZHALTER] Frage 5 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Worauf muss beim Spülen einer verätzten Wunde geachtet werden?",
@@ -92,6 +114,17 @@
       "correctIndex": 0
     },
     {
+      "question": "[PLATZHALTER] Frage 13 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Können großflächige Verbrennungen die Ursache für einen Schock sein?",
       "answers": [
         "Nein, bei einer Verbrennung verkrustet das Gewebe. Es ist somit vor Flüssigkeitsverlusten",
@@ -99,6 +132,17 @@
         "ja, da Flüssigkeitsverluste im Körper entstehen"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "[PLATZHALTER] Frage 15 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Welche Maßnahmen sind bei einer offensichtlich unterkühlten Person durchzuführen?",
@@ -144,6 +188,17 @@
         "um einen Patienten in die Patientenablage (MANV) zu transportieren"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "[PLATZHALTER] Frage 21 im Kapitel Lebensrettende Sofortmaßnahmen (Erste Hilfe) - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Welche Aussage zur Kühlung einer Verbrennung ist richtig?",

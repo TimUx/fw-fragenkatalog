@@ -74,6 +74,17 @@
       "correctIndex": 1
     },
     {
+      "question": "[PLATZHALTER] Frage 9 im Kapitel Technische Hilfeleistung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Welche Aussage über den Melder im Hilfeleistungseinsatz ist richtig?",
       "answers": [
         "Der Melder arbeitet nach Weisung des Gruppenführers.",
@@ -99,6 +110,17 @@
         "Der Wassertrupp sichert automatisch gegen die Brandgefahr, gegen herabfallende Teile, gegen"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "[PLATZHALTER] Frage 13 im Kapitel Technische Hilfeleistung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Wo befindet sich der Arbeitsbereich beim Hilfeleistungseinsatz nach der FwDV 3?",
