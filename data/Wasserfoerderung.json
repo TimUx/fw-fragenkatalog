@@ -4,9 +4,9 @@
     {
       "question": "Welche Bedeutung hat die Zahl „100“ nach dem Buchstaben „H“ auf einem Hinweisschild für Unterflurhydranten?",
       "answers": [
-        "Der Durchmesser der Versorgungsleitung, an die der Hydrant angeschlossen ist, beträgt",
-        "100 mm.",
-        "Der Hydrant liegt in einer Entfernung von 100 m vom Objekt."
+        "Der Durchmesser der Versorgungsleitung, an die der Hydrant angeschlossen ist, beträgt 100 mm.",
+        "Der Hydrant liegt in einer Entfernung von 100 m vom Objekt.",
+        "Der Hydrant liefert ca. 100 l Wasser pro Minute."
       ],
       "correctIndex": 0
     },
@@ -24,7 +24,7 @@
       "answers": [
         "Schlauchbrücken dürfen nur zum Überbrücken von B-Schlauchleitungen eingesetzt werden.",
         "Auf die Verkehrssicherung ist besonders zu achten.",
-        "Schlauchbrücken müssen nicht gesichert werden, da ein gefahrloses Überfahren mit"
+        "Schlauchbrücken müssen nicht gesichert werden, da ein gefahrloses Überfahren mit Kraftfahrzeugen möglich ist."
       ],
       "correctIndex": 1
     },
@@ -40,20 +40,20 @@
     {
       "question": "Was ist beim Aufbau einer Löschwasserförderstrecke über lange Wege zu beachten?",
       "answers": [
-        "Schwieriges, unübersichtliches, unebenes Gelände und Hindernisse zum Aufbau der",
-        "Löschwasserförderstrecke sind möglichst zu meiden.",
-        "Beim Auslegen von Druckschläuchen über Hindernisse (Zäune o. ä.) dürfen Steckleiterteile als"
+        "Schwieriges, unübersichtliches, unebenes Gelände und Hindernisse zum Aufbau der Löschwasserförderstrecke sind möglichst zu meiden.",
+        "Beim Auslegen von Druckschläuchen über Hindernisse (Zäune o. ä.) dürfen Steckleiterteile als Schlauchstützen nicht verwendet werden.",
+        "Beim Kuppeln der B-Schlauchleitung darf diese nach der FwDV 1 „Grundtätigkeiten“ auch durch einen Feuerwehrangehörigen gekuppelt werden."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Bei einer geschlossenen Schaltreihe fördert man den Förderstrom …",
+      "question": "Bei einer geschlossenen Schaltreihe fördert man den Förderstrom … … von einer Pumpe in einen Löschwasserbehälter.",
       "answers": [
-        "… von einer Pumpe in einen Löschwasserbehälter.",
         "… von einer Pumpe in die nächste Pumpe.",
+        "",
         "… von einer Pumpe in die Strahlrohre."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Welche Aussage bezüglich des Förderstroms bei einer Löschwasserförderung ist richtig?",
@@ -85,11 +85,11 @@
     {
       "question": "Wie viele Ersatzschläuche werden beim Aufbau einer Löschwasserförderstrecke bereitgestellt?",
       "answers": [
-        "ein Schlauch je 500 m Förderstrecke",
-        "ein Schlauch je 200 m Förderstrecke",
-        "ein Schlauch je 100 m Förderstrecke"
+        "ein Schlauch je 500 m Förderstrecke ein Schlauch je 200 m Förderstrecke",
+        "ein Schlauch je 100 m Förderstrecke",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

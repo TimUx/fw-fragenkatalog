@@ -2,128 +2,128 @@
   "title": "Technische Hilfeleistung",
   "questions": [
     {
-      "question": "Welche Hauptaufgabe übernimmt der Angriffstrupp im Hilfeleistungseinsatz?",
+      "question": "Dürfen nach FwDV 1 „Grundtätigkeiten“ gehärtete Metallteile mit hydraulisch betriebenen Schneidgeräten getrennt werden?",
       "answers": [
-        "die Rettung",
-        "die Sicherung",
-        "die Gerätebereitstellung"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Welche Hauptaufgabe übernimmt der Wassertrupp im Hilfeleistungseinsatz?",
-      "answers": [
-        "die Rettung",
-        "die Sicherung",
-        "die Gerätebereitstellung"
+        "ja",
+        "nein",
+        "Das entscheidet der Truppführer von Fall zu Fall."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Welche Hauptaufgabe übernimmt der Schlauchtrupp im Hilfeleistungseinsatz?",
+      "question": "Welcher Sicherheitsabstand ist grundsätzlich bei unter Last stehenden Drahtseilen mindestens einzuhalten?",
       "answers": [
-        "die Rettung",
-        "die Sicherung",
-        "die Gerätebereitstellung"
+        "die halbe Seillänge",
+        "das 1,5-fache der wirksamen Seillänge",
+        "die doppelte Seillänge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Beim Einsatz eines Mehrzweckzuges ist die Überlastsicherung (Scherstift) wirksam geworden! Welche Maßnahmen sind erforderlich?",
+      "answers": [
+        "Der Scherstift wird gegen einen größeren ausgetauscht.",
+        "Die Last muss abgesichert oder abgelassen werden.",
+        "Es kann weitergearbeitet werden, denn vom Hersteller sind genügend Sicherheitsreserven eingebaut worden."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bis zu welchem Winkel darf die hydraulische Winde bei der Verwendung der balligrunden Fußplatte höchstens genutzt werden?",
+      "answers": [
+        "bis zu einem Winkel von 75° zur Ebene der Fußplatte",
+        "bis zu einem Winkel von 65° zur Ebene der Fußplatte",
+        "bis zu einem Winkel von 55° zur Ebene der Fußplatte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welchem Zweck dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden?",
+      "answers": [
+        "zum Heben oder Drücken von Lasten bei der technischen Hilfeleistung",
+        "zum Wechseln eines defekten Reifens",
+        "zum Abstützen der Feuerwehrfahrzeuge in unwegsamem Gelände"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie hoch ist der zulässige Betriebsdruck von hydraulischen Rettungsgeräten nach DIN EN 13204 (doppelt wirkende hydraulische Rettungsgeräte)?",
+      "answers": [
+        "mindestens 630 bar",
+        "Der maximal zulässige Betriebsdruck ist nicht begrenzt.",
+        "maximal 720 bar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Kraft entwickelt der einfach wirkende Hydraulikzylinder des hydraulischen Hebesatzes nach DIN 14800-6 2007-05?",
+      "answers": [
+        "mindestens 120 kN",
+        "maximal 150 kN",
+        "nach Herstellerangaben"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Aussage über Druckluftquellen bei Hebekissensystemen > 1 bar ist richtig?",
+      "answers": [
+        "Es dürfen nur mitgeführte Druckluftflaschen verwendet werden.",
+        "Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder die Druckluftanlage eines LKW genutzt werden.",
+        "Atemluftflaschen sind unzulässig."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wer darf Werkzeuge/Zubehör aus dem Feuerwehr-Elektrowerkzeugkasten einsetzen?",
+      "answers": [
+        "nur der Einheitsführer",
+        "nur der Truppführer des befohlenen Trupps",
+        "elektrotechnisch unterwiesene Feuerwehrangehörige, sofern keine Elektrofachkraft vor Ort ist"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Welche Aussage über die Aufgaben des Angriffstrupps im Hilfeleistungseinsatz ist richtig?",
+      "question": "Welchem Einsatzzweck dienen Bindemittel?",
       "answers": [
-        "Er sichert auf Befehl die Einsatzstelle und nimmt die hierfür erforderlichen Einsatzmittel vor.",
-        "Er rettet und leistet technische Hilfe.",
-        "Er bereitet die befohlenen Geräte für den Einsatz vor und betreibt sie soweit erforderlich."
+        "Sie dürfen ausschließlich nur bei ausgelaufenen Mineralölprodukten eingesetzt werden.",
+        "Sie dienen dem Zweck, gefährliche flüssige Stoffe abzustreuen und damit die Stoffe zu binden.",
+        "Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren Mischungseigenschaften von dem Medium Wasser und dem Medium Schaummittel."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Welche Aussage über die Aufgaben des Wassertrupps im Hilfeleistungseinsatz ist richtig?",
+      "question": "Was ist beim Anheben einer Last bei einem Hebekissensystem > 1 bar zu beachten?",
       "answers": [
-        "Er sichert auf Befehl die Einsatzstelle und nimmt die hierfür erforderlichen Einsatzmittel vor.",
-        "Er rettet und leistet technische Hilfe.",
-        "Er bereitet die befohlenen Geräte für den Einsatz vor und betreibt sie soweit erforderlich."
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Welche Aussage über die Aufgaben des Schlauchtrupps im Hilfeleistungseinsatz ist richtig?",
-      "answers": [
-        "Er sichert auf Befehl die Einsatzstelle und nimmt die hierfür erforderlichen Einsatzmittel vor.",
-        "Er rettet und leistet technische Hilfe.",
-        "Er bereitet die befohlenen Geräte für den Einsatz vor und betreibt sie soweit erforderlich."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Wer ist befugt Abweichungen von der persönlichen Ausrüstung im Hilfeleistungseinsatz zu befehlen?",
-      "answers": [
-        "der Einheitsführer",
-        "der Angriffstruppführer",
-        "Es gibt keine Abweichungen, da die Unfallverhütungsvorschriften bereits alles Notwendige"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Welche Ausrüstungsgegenstände nimmt der Angriffstrupp im Hilfeleistungseinsatz vor?",
-      "answers": [
-        "das hydraulische Rettungsgerät und ein Strahlrohr",
-        "die Ausrüstungsgegenstände, die der Einheitsführer befiehlt",
-        "Sanitätskasten, Trage oder Rettungstuch, Verbandkasten oder Notfallrucksack, Gerätesatz"
+        "Die Hebekissen dürfen nur paarweise verwendet werden.",
+        "Es dürfen maximal zwei Hebekissen übereinander eingesetzt werden.",
+        "Ein Unterbauen ist aufgrund der geringen Hubhöhe nicht notwendig."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Wie ist grundsätzlich auf Bundesstraßen und Bundesautobahnen im Hilfeleistungseinsatz vom Fahrzeug abzusitzen?",
+      "question": "Welche der nachfolgenden Aussagen trifft für einen Hebebaum zu?",
       "answers": [
-        "auf der von der Fahrbahn abgewandten Seite",
-        "Truppführer sitzen auf der linken Fahrzeugseite ab, Truppmänner auf der rechten",
-        "Lediglich der Wassertrupp darf absitzen, um Sicherungsmaßnahmen durchzuführen."
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.",
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.",
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem Prinzip eines zweiarmigen Hebels."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Welche Aussage über den Melder im Hilfeleistungseinsatz ist richtig?",
+      "question": "Welche Aussage zum Einsatz von Druckkissen ist nach der FwDV 1 „Grundtätigkeiten“ richtig?",
       "answers": [
-        "Der Melder arbeitet nach Weisung des Gruppenführers.",
-        "Der Melder rettet und leistet erste Hilfe.",
-        "Der Melder sichert die Einsatzstelle automatisch gegen Brandgefahr mit einem Schnellangriff"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Wer stellt die zur Rettung befohlenen Geräte bereit, wenn der Schlauchtrupp nicht zur Verfügung steht?",
-      "answers": [
-        "der Melder und der Maschinist",
-        "der Angriffstrupp",
-        "der Wassertrupp"
+        "Es müssen mindestens 50 % der Kissenfläche unter der Last liegen.",
+        "Es müssen mindestens 75 % der Kissenfläche unter der Last liegen.",
+        "Die Kissenfläche muss komplett unter der Last liegen."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Welche Sicherungsaufgaben im Hilfeleistungseinsatz werden durch den Wassertrupp ohne besonderen Befehl vorgenommen?",
+      "question": "Durch welche Einschlagrichtung der Erdnägel kann ein Erdanker die größte Zugkraft aufnehmen?",
       "answers": [
-        "Der Wassertrupp nimmt keine Sicherungsaufgaben ohne besonderen Befehl wahr, er wartet auf",
-        "die Weisungen des Gruppenführers.",
-        "Der Wassertrupp sichert automatisch gegen die Brandgefahr, gegen herabfallende Teile, gegen"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Beim Hilfeleistungseinsatz wird die Ordnung des Raumes gegliedert in…",
-      "answers": [
-        "Gefahrenbereich und Absperrbereich",
-        "Gefahrenbereich und Bereitstellungsbereich",
-        "Gefahrenstelle, Arbeitsbereich und Absperrbereich"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Wo befindet sich der Arbeitsbereich beim Hilfeleistungseinsatz nach der FwDV 3?",
-      "answers": [
-        "Der Arbeitsbereich ist der Bereich, der sich im Umkreis von 5 m um die Gefahrenstelle erstreckt.",
-        "Der Arbeitsbereich wird, je nach Einsatzsituation, vom Einheitsführer festgelegt.",
-        "Es gibt keinen Arbeitsbereich, sondern nur einen Absperrbereich."
+        "entgegen der Zugrichtung",
+        "in Zugrichtung",
+        "50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     },

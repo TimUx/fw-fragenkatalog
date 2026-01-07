@@ -29,22 +29,22 @@
       "correctIndex": 1
     },
     {
-      "question": "Sie sind während eines Feuerwehreinsatzes als Schlauchtruppmann am Verteiler eingesetzt.",
+      "question": "Sie sind während eines Feuerwehreinsatzes als Schlauchtruppmann am Verteiler eingesetzt. Dürfen Sie hierbei eigenmächtig auf das Tragen von Teilen der persönlichen Mindestschutzausrüstung verzichten?",
       "answers": [
-        "Dürfen Sie hierbei eigenmächtig auf das Tragen von Teilen der persönlichen Mindest-",
-        "schutzausrüstung verzichten?",
-        "Nein, die persönliche Mindestschutzausrüstung ist während des Einsatzes immer zu tragen."
+        "Nein, die persönliche Mindestschutzausrüstung ist während des Einsatzes immer zu tragen.",
+        "Ja, auf das Tragen des Feuerwehrhelmes mit Nackenschutz kann verzichtet werden, da nur der Verteiler bedient wird.",
+        "Ja, auf das Tragen der Feuerwehrschutzhandschuhe kann verzichtet werden, da nur der Verteiler bedient wird."
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "question": "Der Gruppenführer befiehlt, dass sich der Angriffstrupp mit Atemschutz ausrüsten soll. Darf sich jeder Feuerwehrangehörige mit Atemschutzgeräten ausrüsten?",
       "answers": [
-        "Ja, jeder Feuerwehrangehörige, der den Grundausbildungslehrgang erfolgreich abgeschlossen",
-        "hat, darf sich mit Atemschutzgeräten ausrüsten.",
-        "Nein, nur besonders ausgebildete und gesundheitlich untersuchte Feuerwehrangehörige dürfen"
+        "Ja, jeder Feuerwehrangehörige, der den Grundausbildungslehrgang erfolgreich abgeschlossen hat, darf sich mit Atemschutzgeräten ausrüsten.",
+        "Nein, nur besonders ausgebildete und gesundheitlich untersuchte Feuerwehrangehörige dürfen Atemschutzgeräte benutzen.",
+        "Ja, wenn der Feuerwehrangehörige als Truppmann eingesetzt wird und der Truppführer besonders ausgebildet ist."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Was gehört nach der FwDV 1 „Grundtätigkeiten“ zur persönlichen Mindestschutzausrüstung?",
@@ -104,8 +104,8 @@
       "question": "Welche Sonderausrüstung müssen Feuerwehrangehörige tragen, die der Gefahr durch fließenden Verkehr ausgesetzt sind?",
       "answers": [
         "Warnweste",
-        "Warnweste oder Feuerwehrüberjacke (nach HuPF), welche die Funktion der Warnkleidung",
-        "erfüllt"
+        "Warnweste oder Feuerwehrüberjacke (nach HuPF), welche die Funktion der Warnkleidung erfüllt",
+        "Feuerwehrschutzanzug Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     }

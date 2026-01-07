@@ -14,8 +14,8 @@
       "question": "Wo tritt die Mannschaft nach der FwDV 3 nach dem Kommando „Absitzen“ an?",
       "answers": [
         "immer hinter dem Fahrzeug",
-        "Grundsätzlich hinter dem Fahrzeug. In besonderen Einsatzlagen ist eine Abweichung davon",
-        "möglich, die Stelle bestimmt der Einheitsführer."
+        "Grundsätzlich hinter dem Fahrzeug. In besonderen Einsatzlagen ist eine Abweichung davon möglich, die Stelle bestimmt der Einheitsführer.",
+        "immer vor dem Fahrzeug"
       ],
       "correctIndex": 1
     },
@@ -51,7 +51,7 @@
       "answers": [
         "Er sichert gegen fließenden Verkehr.",
         "Er baut die Wasserversorgung zwischen Hydrant und Löschfahrzeug auf.",
-        "Er verlegt seine Schlauchleitung selbst, sofern kein Schlauchtrupp zur Unterstützung bereit-"
+        "Er verlegt seine Schlauchleitung selbst, sofern kein Schlauchtrupp zur Unterstützung bereitsteht."
       ],
       "correctIndex": 2
     },
@@ -218,7 +218,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Welche taktische Einheit ist mindestens notwendig, um einen Innenangriff mit Atemschutz- geräten durchführen zu können?",
+      "question": "Welche taktische Einheit ist mindestens notwendig, um einen Innenangriff mit Atemschutzgeräten durchführen zu können?",
       "answers": [
         "eine Gruppe",
         "eine Staffel",
@@ -249,7 +249,7 @@
       "answers": [
         "mit einem BM-Strahlrohr, dem Schlauchhalter und dem Stützkrümmer",
         "mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter, Beleuchtungsgerät, B-Druckschläuchen,",
-        "Verteiler und ggf. Handsprechfunkgerät"
+        "Verteiler und ggf. Handsprechfunkgerät mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter und Beleuchtungsgerät"
       ],
       "correctIndex": 1
     },
@@ -267,7 +267,7 @@
       "answers": [
         "Sie legen alle Geräte schnellstens ab und melden sich beim Gruppenführer.",
         "Sie begeben sich zum Verteiler und erwarten dort die anderen Personen ihrer Einheit.",
-        "Sie geben unverzüglich das Kommando: „Gefahr - Alle sofort zurück!“ und sammeln sich am"
+        "Sie geben unverzüglich das Kommando: „Gefahr - Alle sofort zurück!“ und sammeln sich am Feuerwehrfahrzeug."
       ],
       "correctIndex": 2
     },
@@ -348,7 +348,7 @@
       "answers": [
         "die befohlene Anzahl Saugschläuche und den Saugkorb",
         "die Kupplungsschlüssel, den Saugkorb, den Saugschutzkorb, die Ventilleine und ggf. die",
-        "Halteleine"
+        "Halteleine den Saugkorb, den Saugschutzkorb, das Sammelstück sowie die Ventilleine"
       ],
       "correctIndex": 1
     },
@@ -366,18 +366,18 @@
       "answers": [
         "Der Angriffstrupp verlegt immer die B-Schlauchleitung zwischen Pumpe und Verteiler.",
         "Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.",
-        "Der Angriffs- und der Schlauchtrupp unterstützen immer den Wassertrupp beim Aufbau der"
+        "Der Angriffs- und der Schlauchtrupp unterstützen immer den Wassertrupp beim Aufbau der Schlauchleitungen."
       ],
       "correctIndex": 1
     },
     {
       "question": "Wann rüstet sich nach der FwDV 3 der Angriffstrupp mit Atemschutzgeräten aus?",
       "answers": [
-        "Vor jedem Einsatz rüstet sich der Angriffstrupp mit Pressluftatmer aus und der Schlauchtrupp",
-        "wird ohne weiteren Befehl Sicherheitstrupp.",
-        "Der Angriffstrupp rüstet sich auf Befehl während der Alarmfahrt mit Atemschutz aus."
+        "Vor jedem Einsatz rüstet sich der Angriffstrupp mit Pressluftatmer aus und der Schlauchtrupp wird ohne weiteren Befehl Sicherheitstrupp.",
+        "Der Angriffstrupp rüstet sich auf Befehl während der Alarmfahrt mit Atemschutz aus.",
+        "Während der Einheitsführer erkundet, obliegt dem Angriffstrupp die Führung der Gruppe und er rüstet sich selbstständig aus."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wer stellt nach der FwDV 3 die Wasserversorgung her?",
@@ -461,13 +461,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Beim Einsatz einer Staffel kuppelt der Wassertrupp die Saugschläuche.",
+      "question": "Beim Einsatz einer Staffel kuppelt der Wassertrupp die Saugschläuche. Wer unterstützt ihn ggf. nach der FwDV 3?",
       "answers": [
-        "Wer unterstützt ihn ggf. nach der FwDV 3?",
         "der Angriffstrupp",
-        "der Schlauchtrupp"
+        "der Schlauchtrupp",
+        "der Melder und der Staffelführer"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Der Staffelführer befiehlt: „Angriffstrupp mit Schnellangriff vor!“ Wer unterstützt den Angriffstrupp beim Verlegen der Leitung?",
@@ -536,8 +536,8 @@
       "question": "Welche Hauptaufgabe hat der Maschinist nach der FwDV 3?",
       "answers": [
         "Er fährt das Fahrzeug und leitet den Einsatz.",
-        "Er ist Fahrer und bedient die Feuerlöschkreiselpumpe sowie die im Löschfahrzeug eingebauten",
-        "Aggregate."
+        "Er ist Fahrer und bedient die Feuerlöschkreiselpumpe sowie die im Löschfahrzeug eingebauten Aggregate.",
+        "Er bedient die Pumpe und stellt die Wasserversorgung zwischen Pumpe und Wasserentnahmestelle her."
       ],
       "correctIndex": 1
     },
@@ -617,8 +617,8 @@
       "question": "In welcher Situation ist nach der FwDV 3 ein Einsatz mit Bereitstellung durchzuführen?",
       "answers": [
         "wenn die Mannschaft noch nicht vollzählig ist",
-        "wenn der Einsatzauftrag, das Einsatzmittel, das Einsatzziel oder der Einsatzweg noch unklar",
-        "sind"
+        "wenn der Einsatzauftrag, das Einsatzmittel, das Einsatzziel oder der Einsatzweg noch unklar sind",
+        "wenn zwischen Verteiler und Pumpe ungünstige Wegverhältnisse oder größere Entfernungen bestehen"
       ],
       "correctIndex": 1
     },
@@ -681,27 +681,27 @@
       "answers": [
         "Er wartet, bis er vom Gruppenführer einen Befehl erhält.",
         "Er verlegt die B-Schlauchleitung vom Verteiler zur Pumpe.",
-        "Er unterstützt den Wassertrupp beim Herrichten der Wasserentnahme und legt ausreichend C-"
+        "Er unterstützt den Wassertrupp beim Herrichten der Wasserentnahme und legt ausreichend CSchlauchmaterial am Verteiler ab."
       ],
       "correctIndex": 2
     },
     {
       "question": "Welche Tätigkeiten verrichtet der Angriffstrupp bei einem Einsatz mit Bereitstellung?",
       "answers": [
-        "Er rüstet sich aus, setzt den Verteiler und stellt sich am Verteiler bereit. Er legt ausreichend C-",
-        "Druckschläuche für sich am Verteiler bereit, sofern kein Schlauchtrupp zur Verfügung steht.",
-        "Er setzt den Verteiler und verlegt sich seine Leitung selbst."
+        "Er rüstet sich aus, setzt den Verteiler und stellt sich am Verteiler bereit. Er legt ausreichend CDruckschläuche für sich am Verteiler bereit, sofern kein Schlauchtrupp zur Verfügung steht.",
+        "Er setzt den Verteiler und verlegt sich seine Leitung selbst.",
+        "Er rüstet sich aus und stellt sich am Fahrzeug bereit."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Der Wassertrupp hat die Wasserversorgung bis zum Verteiler hergerichtet.",
+      "question": "Der Wassertrupp hat die Wasserversorgung bis zum Verteiler hergerichtet. Welche Tätigkeit verrichtet er in der Regel bei einem Atemschutzeinsatz danach?",
       "answers": [
-        "Welche Tätigkeit verrichtet er in der Regel bei einem Atemschutzeinsatz danach?",
         "Er meldet sich ohne Ausrüstung beim Gruppenführer.",
-        "Er rüstet sich als Sicherheitstrupp aus."
+        "Er rüstet sich als Sicherheitstrupp aus.",
+        "Er bleibt am Fahrzeug stehen und wartet auf Anweisungen."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Funktionen gehören zu einer Staffel?",
@@ -735,7 +735,7 @@
       "answers": [
         "Das Kommando wird nicht wiederholt.",
         "der Maschinist",
-        "der Angriffstruppführer"
+        "der Angriffstruppführer Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 2
     }

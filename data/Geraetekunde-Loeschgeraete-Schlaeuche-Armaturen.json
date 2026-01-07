@@ -2,7 +2,7 @@
   "title": "Gerätekunde: Löschgeräte, Schläuche, Armaturen",
   "questions": [
     {
-      "question": "In welche Richtung legt nach der FwDV 1 „Grundtätigkeiten“ ein Trupp seine Schlauch- leitung, wenn er sie selbst verlegt?",
+      "question": "In welche Richtung legt nach der FwDV 1 „Grundtätigkeiten“ ein Trupp seine Schlauchleitung, wenn er sie selbst verlegt?",
       "answers": [
         "vom Verteiler in Richtung Einsatzstelle",
         "Die Verlegerichtung wird vom Truppführer festgelegt.",
@@ -11,7 +11,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Bis zu welchem Obergeschoss dürfen leere C-Druckschläuche nach der FwDV 1 „Grund- tätigkeiten“ über tragbare Leitern vorgenommen werden?",
+      "question": "Bis zu welchem Obergeschoss dürfen leere C-Druckschläuche nach der FwDV 1 „Grundtätigkeiten“ über tragbare Leitern vorgenommen werden?",
       "answers": [
         "bis zum 1. OG",
         "bis zum 2. OG",
@@ -76,11 +76,11 @@
     {
       "question": "Was ist ein Verteiler?",
       "answers": [
-        "eine wasserführende Armatur, versehen mit einer Festkupplung, einem beweglichen",
-        "Knaggenteil und einem oder mehreren Absperrorganen",
-        "eine wasserführende Armatur, versehen mit Festkupplungen mit einem oder zwei Eingängen"
+        "eine wasserführende Armatur, versehen mit einer Festkupplung, einem beweglichen Knaggenteil und einem oder mehreren Absperrorganen",
+        "eine wasserführende Armatur, versehen mit Festkupplungen mit einem oder zwei Eingängen",
+        "und drei einzeln absperrbaren Abgängen eine wasserführende Armatur, versehen mit einem Eingang und drei absperrbaren Abgängen"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wer ist beim Einsatz einer C-Druckschlauchleitung für eine ausreichende Schlauchreserve verantwortlich?",
@@ -184,11 +184,11 @@
     {
       "question": "Wie sind die an der Brandstelle verwendeten Druckschläuche nach dem Einsatz zu behandeln?",
       "answers": [
-        "Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine",
-        "besondere Behandlung nicht erforderlich.",
-        "Die Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen."
+        "Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine besondere Behandlung nicht erforderlich.",
+        "Die Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen.",
+        "Die Schlauchlagerung auf den modernen Löschfahrzeugen erlaubt nach grober Reinigung eine sofortige Wiederverwendung."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Warum ist im Innern eines Saugschlauches eine Drahtspirale (Wendel) eingearbeitet?",
@@ -247,9 +247,9 @@
     {
       "question": "Was ist ein „DM-Strahlrohr“?",
       "answers": [
-        "ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer",
-        "Festkupplung D",
-        "ein D-Strahlrohr mit Mannschutzbrause"
+        "ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung D",
+        "ein D-Strahlrohr mit Mannschutzbrause",
+        "ein druckverstellbares Mittelschaumstrahlrohr"
       ],
       "correctIndex": 0
     },
@@ -283,9 +283,9 @@
     {
       "question": "Welche Aufgabe hat das Sammelstück?",
       "answers": [
-        "Das Sammelstück hat die Aufgabe, die Löschmittelströme mehrerer Zuleitungen zusammen-",
-        "zufassen.",
-        "Das Sammelstück hat die Aufgabe, Pumpe und Schläuche vor Druckstößen zu schützen."
+        "Das Sammelstück hat die Aufgabe, die Löschmittelströme mehrerer Zuleitungen zusammenzufassen.",
+        "Das Sammelstück hat die Aufgabe, Pumpe und Schläuche vor Druckstößen zu schützen.",
+        "Das Sammelstück hat die Aufgabe, Löschmittelströme zu verteilen."
       ],
       "correctIndex": 0
     },
@@ -364,9 +364,9 @@
     {
       "question": "Was ist ein „CM-Strahlrohr“?",
       "answers": [
-        "ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer",
-        "Festkupplung C",
-        "ein D-Strahlrohr mit Mannschutzbrause"
+        "ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung C",
+        "ein D-Strahlrohr mit Mannschutzbrause",
+        "ein druckverstellbares Mittelschaumstrahlrohr"
       ],
       "correctIndex": 0
     },
@@ -427,9 +427,9 @@
     {
       "question": "Welche Hauptaufgabe hat das Rückschlagorgan im Saugkorb?",
       "answers": [
-        "Es soll ein Zurücklaufen der Wassersäule in der Saugleitung bei Unterbrechung der Wasser-",
-        "förderung verhindern.",
-        "Es soll den Zutritt von Luft verhindern."
+        "Es soll ein Zurücklaufen der Wassersäule in der Saugleitung bei Unterbrechung der Wasserförderung verhindern.",
+        "Es soll den Zutritt von Luft verhindern.",
+        "Es soll die Entstehung von Reibungswärme im Saugschlauch vermeiden."
       ],
       "correctIndex": 0
     },
@@ -516,13 +516,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die …",
+      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die … … Wasserdichte.",
       "answers": [
-        "… Wasserdichte.",
         "… Durchflussmenge.",
-        "… Strahlleistung."
+        "… Strahlleistung.",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     }
   ]
 }

@@ -31,9 +31,9 @@
     {
       "question": "Wie viele Personen dürfen eine aufgerichtete dreiteilige Schiebleiter gleichzeitig besteigen?",
       "answers": [
-        "Nach der FwDV 10 „Die tragbaren Leitern“ richtet sich die zulässige Anzahl von Personen nach",
-        "den Herstellerangaben.",
-        "pro Leiterteil immer nur eine Person"
+        "Nach der FwDV 10 „Die tragbaren Leitern“ richtet sich die zulässige Anzahl von Personen nach den Herstellerangaben.",
+        "pro Leiterteil immer nur eine Person",
+        "Sie kann gleichzeitig mit zwei Trupps bestiegen werden."
       ],
       "correctIndex": 0
     },
@@ -50,8 +50,8 @@
       "question": "Wie viele Personen dürfen eine aufgerichtete Steckleiter gleichzeitig besteigen?",
       "answers": [
         "eine Person",
-        "Nach der FwDV 10 „Die tragbaren Leitern“ richtet sich die zulässige Anzahl von Personen nach",
-        "den Herstellerangaben."
+        "Nach der FwDV 10 „Die tragbaren Leitern“ richtet sich die zulässige Anzahl von Personen nach den Herstellerangaben.",
+        "drei Personen"
       ],
       "correctIndex": 1
     },
@@ -67,9 +67,9 @@
     {
       "question": "Darf der vorgehende Trupp die Steckleiter selbst sichern?",
       "answers": [
-        "Ja, der Truppmann sichert und der Truppführer steigt auf. Danach sichert der Truppführer von",
-        "oben und der Truppmann steigt auf.",
-        "nein, grundsätzlich nicht"
+        "Ja, der Truppmann sichert und der Truppführer steigt auf. Danach sichert der Truppführer von oben und der Truppmann steigt auf.",
+        "nein, grundsätzlich nicht",
+        "Nein, der Trupp wartet, bis der Melder oder ein Sicherungstrupp kommt."
       ],
       "correctIndex": 0
     },
@@ -128,7 +128,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Bei welcher nachfolgenden tragbaren Leiter ist die Transportlänge größer als die Einsatz- länge?",
+      "question": "Bei welcher nachfolgenden tragbaren Leiter ist die Transportlänge größer als die Einsatzlänge?",
       "answers": [
         "bei der Klappleiter",
         "bei der Steckleiter",
@@ -149,10 +149,10 @@
       "question": "Wie viele Feuerwehrangehörige sind bei der Vornahme einer 4-teiligen Steckleiter nach der FwDV 10 „Die tragbaren Leitern“ erforderlich?",
       "answers": [
         "fünf Feuerwehrangehörige",
-        "drei oder vier Feuerwehrangehörige",
-        "zwei Feuerwehrangehörige"
+        "drei oder vier Feuerwehrangehörige zwei Feuerwehrangehörige 18 Wer unterstützt nach der FwDV 10 „Die tragbaren Leitern“ die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?",
+        "der Gruppenführer der Melder der Maschinist"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Wer unterstützt nach der FwDV 10 \"Die tragbaren Leitern\" die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?",
@@ -194,8 +194,8 @@
       "question": "Was sind nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern?",
       "answers": [
         "Tragbare Leitern sind Leitern und Leiterteile, die ein Höchstgewicht von 100 kg haben dürfen.",
-        "Tragbare Leitern sind die Leitern, die auf Fahrzeugen mitgeführt und von der Mannschaft zum",
-        "Einsatz getragen werden."
+        "Tragbare Leitern sind die Leitern, die auf Fahrzeugen mitgeführt und von der Mannschaft zum Einsatz getragen werden.",
+        "Tragbare Leitern sind genormte Leitern und Leiterteile."
       ],
       "correctIndex": 1
     },
@@ -256,9 +256,9 @@
     {
       "question": "Wie sind tragbare Leitern aufzustellen?",
       "answers": [
-        "Sie sind standsicher aufzustellen und beim Übersteigen der Leiter müssen diese mindestens",
-        "1 m über die Übersteigstelle hinausragen, wenn nicht andere gleichwertige Möglichkeiten zum",
-        "Festhalten vorhanden sind."
+        "Sie sind standsicher aufzustellen und beim Übersteigen der Leiter müssen diese mindestens 1 m über die Übersteigstelle hinausragen, wenn nicht andere gleichwertige Möglichkeiten zum Festhalten vorhanden sind.",
+        "Der Überstand muss 0,5 Meter betragen.",
+        "Der Anstellwinkel muss 60° - 68° betragen und der Überstand muss eine Sprosse sein."
       ],
       "correctIndex": 0
     },
@@ -276,7 +276,7 @@
       "answers": [
         "nein",
         "ja, aber bis zur Höhe eines Steckleiterteils",
-        "ja, wenn die Leiter am Leiterkopf befestigt und der Strahlrohrführer mit einem Feuerwehr-"
+        "ja, wenn die Leiter am Leiterkopf befestigt und der Strahlrohrführer mit einem FeuerwehrHaltegurt gesichert ist"
       ],
       "correctIndex": 2
     },
@@ -364,8 +364,8 @@
     {
       "question": "Wodurch wird die Standsicherheit von tragbaren Leitern beeinträchtigt?",
       "answers": [
-        "wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende gesichert ist",
-        "wenn die Leiter mit Stützstangen gesichert ist",
+        "wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende",
+        "gesichert ist wenn die Leiter mit Stützstangen gesichert ist",
         "wenn beim Wassergeben von der Leiter die Leiter am Kopfende nicht befestigt ist"
       ],
       "correctIndex": 2
@@ -393,7 +393,7 @@
       "answers": [
         "10° zu beiden Seiten",
         "15° zu beiden Seiten",
-        "20° zu beiden Seiten"
+        "20° zu beiden Seiten Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     }

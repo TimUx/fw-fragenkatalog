@@ -4,14 +4,14 @@
     {
       "question": "Welche Aussage über das Anschlagen der Feuerwehrleine beim Selbstretten im Einsatz ist richtig?",
       "answers": [
-        "Die Feuerwehrleine wird mit einem Mastwurf am Anschlagpunkt befestigt. Auf einen",
-        "Spierenstich kann im Einsatz verzichtet werden.",
-        "Die Feuerwehrleine wird mit einem Mastwurf und einem Spierenstich am Anschlagpunkt"
+        "Die Feuerwehrleine wird mit einem Mastwurf am Anschlagpunkt befestigt. Auf einen Spierenstich kann im Einsatz verzichtet werden.",
+        "Die Feuerwehrleine wird mit einem Mastwurf und einem Spierenstich am Anschlagpunkt befestigt.",
+        "Im Einsatz kann jeder Knoten zum Befestigen der Feuerwehrleine genommen werden."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
-      "question": "Die FwDV 1 \"Grundtätigkeiten\" beschreibt das Aussteigen beim Selbstretten. Welche Aussage trifft zu?",
+      "question": "Die FwDV 1 „Grundtätigkeiten“ beschreibt das Aussteigen beim Selbstretten. Welche Aussage trifft zu?",
       "answers": [
         "Rechtshänder steigen mit dem linken Bein, Linkshänder mit dem rechten Bein zuerst aus.",
         "Es kann frei gewählt werden, mit welchem Bein zuerst ausgestiegen wird.",
@@ -33,7 +33,7 @@
       "answers": [
         "Mit der freien Hand wird der Körper stabilisiert und vom Gebäude entfernt gehalten.",
         "Die freie Hand führt das Seil oberhalb des Feuerwehr-Haltegurtes.",
-        "Die freie Hand wird in Hüfthöhe gehalten, um im Bedarfsfall schneller das Seil greifen zu"
+        "Die freie Hand wird in Hüfthöhe gehalten, um im Bedarfsfall schneller das Seil greifen zu können."
       ],
       "correctIndex": 0
     },
@@ -58,18 +58,18 @@
     {
       "question": "Welche Aussage zum „Auffangen“ ist richtig?",
       "answers": [
-        "Auffangen ist die Sicherung von Einsatzkräften, die Tätigkeiten in absturzgefährdeten",
-        "Bereichen, bei denen ein freier Fall nicht auszuschließen ist, ausführen müssen.",
-        "Auffangen ist die Sicherung von Einsatzkräften mit dem Ziel, einen Absturz auszuschließen."
+        "Auffangen ist die Sicherung von Einsatzkräften, die Tätigkeiten in absturzgefährdeten Bereichen, bei denen ein freier Fall nicht auszuschließen ist, ausführen müssen.",
+        "Auffangen ist die Sicherung von Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.",
+        "Auffangen dient der Einschränkung des Bewegungsraumes der zu sichernden Einsatzkraft. Ein Absturz wird ausgeschlossen, wenn verhindert wird, dass der Gesicherte die Absturzkante erreicht."
       ],
       "correctIndex": 0
     },
     {
       "question": "Welche Aussage zum „Halten“ ist richtig?",
       "answers": [
-        "Halten ist das Sichern von Personen und Einsatzkräften mit dem Ziel, einen Absturz",
-        "auszuschließen.",
-        "Halten ist das Sichern von gefährdeten Personen und Einsatzkräften im absturzgefährdeten"
+        "Halten ist das Sichern von Personen und Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.",
+        "Halten ist das Sichern von gefährdeten Personen und Einsatzkräften im absturzgefährdeten Bereich.",
+        "Halten darf nur von Einsatzkräften durchgeführt werden, die den Lehrgang „Absturzsicherung“ absolviert haben."
       ],
       "correctIndex": 0
     },
@@ -86,8 +86,8 @@
       "question": "Welche Aussage zu Anschlagpunkten ist richtig?",
       "answers": [
         "Anschlagpunkte müssen waagerecht verlaufen.",
-        "Sichert sich der Feuerwehrangehörige mittels Feuerwehr-Haltegurt auf einer tragbaren Leiter,",
-        "muss sich der Anschlagpunkt immer oberhalb des Feuerwehr-Haltegurtes befinden."
+        "Sichert sich der Feuerwehrangehörige mittels Feuerwehr-Haltegurt auf einer tragbaren Leiter, muss sich der Anschlagpunkt immer oberhalb des Feuerwehr-Haltegurtes befinden.",
+        "Am Anschlagpunkt darf nur mit Endlosbandschlingen angeschlagen werden."
       ],
       "correctIndex": 1
     },
@@ -95,8 +95,8 @@
       "question": "Wann darf eine Sichtprüfung der Feuerwehrleine mit dem Einlegen der Feuerwehrleine in den Feuerwehrmehrzweckbeutel kombiniert werden?",
       "answers": [
         "Nie, die Sichtprüfung ist immer separat durchzuführen.",
-        "Wenn keine Handschuhe getragen werden, kann die Sichtprüfung mit dem Einlegen in den",
-        "Feuerwehrmehrzweckbeutel kombiniert werden."
+        "Wenn keine Handschuhe getragen werden, kann die Sichtprüfung mit dem Einlegen in den Feuerwehrmehrzweckbeutel kombiniert werden.",
+        "Die Sichtprüfung kann ohne Beschränkung mit dem Einlegen in den Feuerwehrmehrzweckbeutel kombiniert werden."
       ],
       "correctIndex": 1
     },
@@ -112,11 +112,11 @@
     {
       "question": "Was ist beim Selbstretten zu beachten?",
       "answers": [
-        "Bei Selbstrettungsübungen mit Feuerwehr-Haltegurt und Feuerwehrleine darf eine",
-        "Brüstungshöhe von 10 m nicht überschritten werden.",
-        "Es ist sicherzustellen, dass keine losen Kleidungs- oder Ausrüstungsteile in die"
+        "Bei Selbstrettungsübungen mit Feuerwehr-Haltegurt und Feuerwehrleine darf eine Brüstungshöhe von 10 m nicht überschritten werden.",
+        "Es ist sicherzustellen, dass keine losen Kleidungs- oder Ausrüstungsteile in die Halbmastwurfsicherung des Selbstrettenden hineingezogen werden können. Die Bremshand muss sich nah an der Halbmastwurfsicherung befinden.",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

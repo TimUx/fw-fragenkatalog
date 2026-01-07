@@ -11,7 +11,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Welches vom Bund zur Verfügung gestellte Fahrzeug erhält bei Einsätzen mit ABC- Kampfstoffen eine besondere Bedeutung?",
+      "question": "Welches vom Bund zur Verfügung gestellte Fahrzeug erhält bei Einsätzen mit ABCKampfstoffen eine besondere Bedeutung?",
       "answers": [
         "RW",
         "GW Dekon P",
@@ -59,8 +59,8 @@
       "question": "Welche schädlichen Wirkungen können ionisierende Strahlen haben?",
       "answers": [
         "Ionisierende Strahlen sind generell ungefährlich.",
-        "Ionisierende Strahlen können Langzeitschäden sowie sofort auftretende Akutschäden",
-        "verursachen."
+        "Ionisierende Strahlen können Langzeitschäden sowie sofort auftretende Akutschäden verursachen.",
+        "Ionisierende Strahlen können nur Akutschäden verursachen."
       ],
       "correctIndex": 1
     },
@@ -123,7 +123,7 @@
       "answers": [
         "Eine Sofort-Dekontamination ist bei C-Kampfstoffen zu unterlassen.",
         "Eine Sofort-Dekontamination ist unverzüglich durchzuführen.",
-        "Bevor Maßnahmen zur Dekontamination durchgeführt werden, muss der Betroffene einem"
+        "Bevor Maßnahmen zur Dekontamination durchgeführt werden, muss der Betroffene einem ermächtigten Arzt vorgestellt werden."
       ],
       "correctIndex": 1
     },
@@ -148,11 +148,11 @@
     {
       "question": "Welches Bundesamt unterstützt die Arbeit im Zivilschutz?",
       "answers": [
-        "das Bundesamt für Katastrophenschutz",
-        "das Bundeszivilschutzamt",
-        "das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"
+        "das Bundesamt für Katastrophenschutz das Bundeszivilschutzamt",
+        "das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

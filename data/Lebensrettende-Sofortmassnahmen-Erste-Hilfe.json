@@ -4,11 +4,11 @@
     {
       "question": "Sie finden an der Einsatzstelle eine Person vor, die eine stark blutende Arterienverletzung am Unterarm hat. Welche Maßnahmen müssen Sie als Ersthelfer durchführen?",
       "answers": [
-        "Es ist ausreichend die Person in die Schocklage zu bringen.",
-        "Bei einer Verletzung am Unterarm reicht in jedem Fall das Anheben des Armes über die Herzhöhe aus, um die Blutung zu stillen.",
-        "Die Person ist hinzulegen, der Arm wird hochgehalten und die Arterie am Oberarm abgedrückt. Ein Druckverband ist anzulegen."
+        "Es ist ausreichend die Person in die Schocklage zu bringen. Bei einer Verletzung am Unterarm reicht in jedem Fall das Anheben des Armes über die Herzhöhe aus, um die Blutung zu stillen.",
+        "Die Person ist hinzulegen, der Arm wird hochgehalten und die Arterie am Oberarm abgedrückt.",
+        "Ein Druckverband ist anzulegen."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wann darf eine Herz-Lungen-Wiederbelebung eingestellt werden?",
@@ -40,18 +40,18 @@
     {
       "question": "Bei einem Unfall hat sich eine Person eine Schnittwunde am Unterarm zugezogen. Eine Glasscherbe steckt noch tief in der Wunde, es blutet leicht. Welche Vorgehensweise ist richtig?",
       "answers": [
-        "Person in die stabile Seitenlage bringen",
-        "Glasscherbe aus der Wunde entfernen, Arm hochhalten und den Druckverband anlegen",
-        "die Glasscherbe nicht entfernen, abpolstern und ohne Druck auf die Wunde auszuüben vorsichtig einen Verband anlegen"
+        "Person in die stabile Seitenlage bringen Glasscherbe aus der Wunde entfernen, Arm hochhalten und den Druckverband anlegen",
+        "die Glasscherbe nicht entfernen, abpolstern und ohne Druck auf die Wunde auszuüben",
+        "vorsichtig einen Verband anlegen"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Worauf muss beim Spülen einer verätzten Wunde geachtet werden?",
       "answers": [
         "Verätzungen werden nicht gespült.",
         "Die Spülflüssigkeit muss frei ablaufen können.",
-        "Säureverätzungen werden mit Spülmittel (basisch) gespült, dadurch wird gleichzeitig die Säure"
+        "Säureverätzungen werden mit Spülmittel (basisch) gespült, dadurch wird gleichzeitig die Säure neutralisiert."
       ],
       "correctIndex": 1
     },
@@ -59,8 +59,8 @@
       "question": "Welche Methode ist richtig, um die Atmung bei einer bewusstlosen Person zu überprüfen?",
       "answers": [
         "Die Atmung darf nur von einem Rettungsassistenten kontrolliert werden.",
-        "durch Annähern der eigenen Wange an Mund und Nase des Bewusstlosen, Auflegen der Hand",
-        "auf den Bauchraum und Beobachten des Bauchraumes über die Brust hinweg (sehen, hören,"
+        "durch Annähern der eigenen Wange an Mund und Nase des Bewusstlosen, Auflegen der Hand auf den Bauchraum und Beobachten des Bauchraumes über die Brust hinweg (sehen, hören,",
+        "fühlen) Die Atmung darf nur durch einen Notarzt kontrolliert werden."
       ],
       "correctIndex": 1
     },
@@ -85,7 +85,7 @@
     {
       "question": "Welche lebensrettenden Sofortmaßnahmen sind von einem Ersthelfer durchzuführen, wenn er eine bewusstlose Person vorfindet?",
       "answers": [
-        "die Person ansprechen, um Hilfe rufen (ggf. Notruf), die Atmung kontrollieren, auf sichtbare",
+        "die Person ansprechen, um Hilfe rufen (ggf. Notruf), die Atmung kontrollieren, auf sichtbare Lebenszeichen achten und bei vorhandener Atmung Person in die stabile Seitenlage bringen",
         "sofort Schürfwunden keimfrei abdecken und mit einem Druckverband versorgen",
         "Damit die Person atmen kann, wird sie mit erhöhtem Oberkörper gelagert."
       ],
@@ -103,9 +103,9 @@
     {
       "question": "Einem Unfallopfer wurde das Bein am Becken abgerissen. Was ist zu tun, um die Blutung zu stillen?",
       "answers": [
-        "Die Blutung ist durch Aufpressen von weichem, möglichst keimfreien Material auf die",
-        "Blutungsstelle zu stillen.",
-        "Es muss versucht werden, eine Abbindung vorzunehmen."
+        "Die Blutung ist durch Aufpressen von weichem, möglichst keimfreien Material auf die Blutungsstelle zu stillen.",
+        "Es muss versucht werden, eine Abbindung vorzunehmen.",
+        "Maßnahmen sind nicht erforderlich, da sich der Körper selbst schützt, indem sich die Venenund Arterienstümpfe schließen und geschlossen bleiben."
       ],
       "correctIndex": 0
     },
@@ -121,11 +121,11 @@
     {
       "question": "Können großflächige Verbrennungen die Ursache für einen Schock sein?",
       "answers": [
-        "Nein, bei einer Verbrennung verkrustet das Gewebe. Es ist somit vor Flüssigkeitsverlusten",
-        "geschützt.",
-        "ja, da Flüssigkeitsverluste im Körper entstehen"
+        "Nein, bei einer Verbrennung verkrustet das Gewebe. Es ist somit vor Flüssigkeitsverlusten geschützt.",
+        "ja, da Flüssigkeitsverluste im Körper entstehen",
+        "nein, nur bei gleichzeitigem Auftreten hoher Blutverluste"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Eine bewusstlose Person blutet stark aus Mund und Nase. Wie ist diese Person zu lagern?",
@@ -175,9 +175,9 @@
     {
       "question": "Wann darf der Rautek-Rettungsgriff angewendet werden?",
       "answers": [
-        "wenn eine andere Möglichkeit der schnellen und schonenden Rettung nicht besteht",
-        "(z. B. brennendes Fahrzeug)",
-        "um einen Patienten in die Patientenablage (MANV) zu transportieren"
+        "wenn eine andere Möglichkeit der schnellen und schonenden Rettung nicht besteht (z. B. brennendes Fahrzeug)",
+        "um einen Patienten in die Patientenablage (MANV) zu transportieren",
+        "wenn eine Verletzung der Halswirbelsäule vorliegt"
       ],
       "correctIndex": 0
     },
@@ -193,14 +193,14 @@
     {
       "question": "Welche Aussage zur Kühlung einer Verbrennung ist richtig?",
       "answers": [
-        "Eine Kühlung ist nur dann zulässig, wenn das Unfallgeschehen nicht länger als 15 Minuten",
-        "zurückliegt und nicht mehr als 5 % der Körperoberfläche verbrannt sind.",
-        "Es muss generell mindestens 15 Minuten lang mit möglichst kaltem Wasser kühlen werden."
+        "Eine Kühlung ist nur dann zulässig, wenn das Unfallgeschehen nicht länger als 15 Minuten zurückliegt und nicht mehr als 5 % der Körperoberfläche verbrannt sind.",
+        "Es muss generell mindestens 15 Minuten lang mit möglichst kaltem Wasser kühlen werden.",
+        "Das Kühlen von verbrannten Körperregionen ist aus medizinischer Sicht nicht mehr gestattet."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Welche Maßnahme muss bei einer bewusstlosen Person durchgeführt werden, nachdem",
+      "question": "Welche Maßnahme muss bei einer bewusstlosen Person durchgeführt werden, nachdem diese in die stabile Seitenlage gebracht worden ist?",
       "answers": [
         "Wärmeerhalt",
         "Kühlung",
@@ -213,7 +213,7 @@
       "answers": [
         "eine Drucktiefe von 2 bis 3 cm",
         "eine Drucktiefe von 5 bis 6 cm",
-        "eine Drucktiefe von 5 bis 8 cm"
+        "eine Drucktiefe von 5 bis 8 cm Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     }

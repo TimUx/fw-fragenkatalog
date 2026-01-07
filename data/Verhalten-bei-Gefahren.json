@@ -50,17 +50,17 @@
       "question": "Beim Absuchen der Räume eines verrauchten Gebäudes gelangt ein Trupp an eine Tür zu einem Raum, der als elektrischer Betriebsraum gekennzeichnet ist. Welche Aussage bezüglich des weiteren Vorgehens trifft zu?",
       "answers": [
         "Die Tür wird vorschriftsmäßig geöffnet und auch dieser Raum abgesucht.",
-        "Der Trupp meldet die Lage an den Gruppenführer und wartet auf weitere",
-        "Anweisungen."
+        "Der Trupp meldet die Lage an den Gruppenführer und wartet auf weitere Anweisungen.",
+        "Der Trupp lässt die Tür außer Acht und geht weiter vor."
       ],
       "correctIndex": 1
     },
     {
       "question": "Welche Aussage über die Anwendung von Löschschaum bei der Brandbekämpfung unter Spannung stehender elektrischer Anlagen ist richtig?",
       "answers": [
-        "Mit Mehrbereichsschaummittel erzeugter Schaum ist elektrisch leitend und darf nicht",
-        "eingesetzt werden.",
-        "Schaum ist elektrisch isolierend und darf generell bedenkenlos eingesetzt werden."
+        "Mit Mehrbereichsschaummittel erzeugter Schaum ist elektrisch leitend und darf nicht eingesetzt werden.",
+        "Schaum ist elektrisch isolierend und darf generell bedenkenlos eingesetzt werden.",
+        "Es darf nur Schwerschaum eingesetzt werden."
       ],
       "correctIndex": 0
     },
@@ -114,7 +114,7 @@
       "answers": [
         "Da die Krankheitssymptome ausgeschaltet sind, ist mit keinerlei Folgen zu rechnen.",
         "Hohe körperliche Anforderungen können zu einer gefährlichen Überlastung führen.",
-        "Der Einsatzleiter ist zu informieren, damit dieser sich um eine eventuelle ärztliche Versorgung"
+        "Der Einsatzleiter ist zu informieren, damit dieser sich um eine eventuelle ärztliche Versorgung vor Ort kümmert."
       ],
       "correctIndex": 1
     },
@@ -184,18 +184,18 @@
     {
       "question": "Welcher Sicherheitsabstand ist zu spannungsführenden Anlagen bis 1000 V mindestens einzuhalten?",
       "answers": [
-        "5 m",
-        "3 m",
-        "1 m"
+        "5m",
+        "3m",
+        "1m"
       ],
       "correctIndex": 2
     },
     {
       "question": "Welches Truppmitglied geht beim Atemschutzeinsatz beim Absuchen von verrauchten Bereichen grundsätzlich vor?",
       "answers": [
-        "der Truppführer",
-        "der Truppmann",
-        "hierbei gibt es keine Festlegung"
+        "der Truppführer der Truppmann",
+        "hierbei gibt es keine Festlegung",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 0
     }

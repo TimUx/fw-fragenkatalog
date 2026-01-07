@@ -13,11 +13,11 @@
     {
       "question": "Welche Aussage zur Flammenlänge ist richtig?",
       "answers": [
-        "Die Flammenlänge entspricht der direkten Länge der Flammen, vom Boden aus betrachtet,",
-        "senkrecht in die Höhe.",
-        "Die Flammenlänge bezeichnet die Entfernung der Flammenspitze vom Boden, im direkten"
+        "Die Flammenlänge entspricht der direkten Länge der Flammen, vom Boden aus betrachtet, senkrecht in die Höhe.",
+        "Die Flammenlänge bezeichnet die Entfernung der Flammenspitze vom Boden, im direkten Verlauf betrachtet.",
+        "Die Flammenlänge ist gleich der Flammenhöhe und entspricht immer der direkten Länge der Flammen, vom Boden aus betrachtet, senkrecht in die Höhe."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche waldbaulichen Maßnahmen dienen zur Vorbeugung von Waldbränden und deren Ausbreitung?",
@@ -42,7 +42,7 @@
       "answers": [
         "Durch 10 % Hangneigung wird die Feuergeschwindigkeit verdoppelt.",
         "Pro 10° Steigung am Hang verdoppelt sich die Feuergeschwindigkeit.",
-        "Pro 10° Hangneigung nimmt die Brandausbreitung um die Hälfte zu und ab 30° Steigung ist mit"
+        "Pro 10° Hangneigung nimmt die Brandausbreitung um die Hälfte zu und ab 30° Steigung ist mit abrollenden Brandgut zu rechnen."
       ],
       "correctIndex": 1
     },
@@ -58,8 +58,8 @@
     {
       "question": "Was besagen die Buchstaben der AFFE-Regel im Zusammenhang mit der Wald- und Vegetationsbrandbekämpfung?",
       "answers": [
-        "Ankerpunkt, Feuerpatschen einsetzen, Facheinheit/-berater anfordern und Eigenschutz beachten",
-        "Anfahrt sichern, Feuer lokalisieren, Feuer bekämpfen und Einrücken",
+        "Ankerpunkt, Feuerpatschen einsetzen, Facheinheit/-berater anfordern und Eigenschutz",
+        "beachten Anfahrt sichern, Feuer lokalisieren, Feuer bekämpfen und Einrücken",
         "Ankerpunkt, Flanken angreifen, Front angreifen und Einkreisen"
       ],
       "correctIndex": 2
@@ -78,16 +78,16 @@
       "answers": [
         "Laubfeuer, Bodenfeuer, Vollbrand, Moorbrand, Kronen/Wipfelfeuer und Erdfeuer",
         "Bodenfeuer, Kronenfeuer/Wipfelfeuer, Vollfeuer, Stammfeuer, Erdfeuer und Wurzelfeuer",
-        "Bodenfeuer, Kronenfeuer/Wipfelfeuer, Vollbrand, Baumbrand, Erdfeuer, Wurzelfeuer und"
+        "Bodenfeuer, Kronenfeuer/Wipfelfeuer, Vollbrand, Baumbrand, Erdfeuer, Wurzelfeuer und Deichbrand"
       ],
       "correctIndex": 1
     },
     {
       "question": "Welche Begrifflichkeiten sind der Wald- und Vegetationsbrandbekämpfung zuzuordnen?",
       "answers": [
-        "Schwarzbereich, Feuerflanke, Feuerfront, Flammenhöhe und Flammenlänge",
-        "Aschebereich, Brandflanken, Feuerfront, Flammentiefe und Flammenbreite",
-        "Schwarzbereich, Glutbereiche, Feuerflanke, Feuerfront, Flammenhöhe, Flammenlänge und"
+        "Schwarzbereich, Feuerflanke, Feuerfront, Flammenhöhe und Flammenlänge Aschebereich, Brandflanken, Feuerfront, Flammentiefe und Flammenbreite",
+        "Schwarzbereich, Glutbereiche, Feuerflanke, Feuerfront, Flammenhöhe, Flammenlänge und",
+        "Feuerlinie"
       ],
       "correctIndex": 0
     },

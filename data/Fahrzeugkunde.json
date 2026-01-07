@@ -67,11 +67,11 @@
     {
       "question": "Was versteht man bei einer Drehleiter unter der Nennrettungshöhe?",
       "answers": [
-        "Die Nennrettungshöhe ist die lotrechte Höhe von Standfläche bis zu Bodenoberseite des",
-        "Korbes.",
-        "Die Nennrettungshöhe ist die festgelegte Rettungshöhe bei Nennreichweite."
+        "Die Nennrettungshöhe ist die lotrechte Höhe von Standfläche bis zu Bodenoberseite des Korbes.",
+        "Die Nennrettungshöhe ist die festgelegte Rettungshöhe bei Nennreichweite.",
+        "Die Nennrettungshöhe ist die Höhe, die eine Drehleiter mindestens erreichen muss."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Mannschaftsstärke hat ein Kleinlöschfahrzeug KLF?",
@@ -247,9 +247,9 @@
     {
       "question": "Welche Aussage über den Anwendungsbereich eines LF 20 ist richtig?",
       "answers": [
-        "Ein LF 20 dient vornehmlich zur Bekämpfung von Bränden, zur Wasserförderung und zur",
-        "Durchführung einfacher technischer Hilfeleistungen.",
-        "Ein LF 20 dient nur zur Brandbekämpfung."
+        "Ein LF 20 dient vornehmlich zur Bekämpfung von Bränden, zur Wasserförderung und zur Durchführung einfacher technischer Hilfeleistungen.",
+        "Ein LF 20 dient nur zur Brandbekämpfung.",
+        "Ein LF 20 dient hauptsächlich zur Menschenrettung."
       ],
       "correctIndex": 0
     },
@@ -319,9 +319,9 @@
     {
       "question": "Welche Aussage über den Anwendungsbereich eines LF 10 ist richtig?",
       "answers": [
-        "Ein LF 10 dient vornehmlich zum Bekämpfen von Bränden, zur Wasserförderung und zur",
-        "Durchführung einfacher technischer Hilfeleistungen.",
-        "Ein LF 10 dient nur zur Brandbekämpfung."
+        "Ein LF 10 dient vornehmlich zum Bekämpfen von Bränden, zur Wasserförderung und zur Durchführung einfacher technischer Hilfeleistungen.",
+        "Ein LF 10 dient nur zur Brandbekämpfung.",
+        "Ein LF 10 ist ein universell einsetzbares Fahrzeug. Es dient zur Brandbekämpfung, zum Fördern von Wasser und zum Retten aus großen Höhen."
       ],
       "correctIndex": 0
     },
@@ -499,11 +499,11 @@
     {
       "question": "Welche Aufgaben kann im Rahmen der Gefahrenabwehr ein RW im Wesentlichen abdecken?",
       "answers": [
-        "die Brandbekämpfung",
-        "die Löschwasserversorgung",
-        "die Allgemeine Hilfe"
+        "die Brandbekämpfung die Löschwasserversorgung",
+        "die Allgemeine Hilfe",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

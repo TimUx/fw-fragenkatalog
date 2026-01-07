@@ -6,7 +6,7 @@
       "answers": [
         "Nur flüssige Stoffe dehnen sich bei Erwärmung aus.",
         "Nur gasförmige Stoffe dehnen sich bei Erwärmung aus.",
-        "Bis auf wenige Ausnahmen dehnen sich alle festen, flüssigen und gasförmigen Stoffe bei"
+        "Bis auf wenige Ausnahmen dehnen sich alle festen, flüssigen und gasförmigen Stoffe bei Erwärmung aus."
       ],
       "correctIndex": 2
     },
@@ -40,12 +40,11 @@
     {
       "question": "In welchem Temperaturbereich liegt der Flammpunkt brennbarer Flüssigkeiten, die mit dem folgenden Gefahrensymbol gekennzeichnet sind?",
       "answers": [
-        "Der Flammpunkt liegt unter 0 °C.",
+        "Achtung Der Flammpunkt liegt unter 0 °C.",
         "Der Flammpunkt liegt unter 23 °C.",
         "Der Flammpunkt liegt zwischen 23 °C und 60 °C."
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Brennen_Q05.png"
+      "correctIndex": 2
     },
     {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
@@ -113,9 +112,9 @@
     {
       "question": "Was versteht man unter dem Begriff „Zündtemperatur“ nach DIN 14011?",
       "answers": [
-        "Die Zündtemperatur ist die niedrigste Temperatur, bei der ein brennbarer Stoff unter",
-        "festgelegten Bedingungen zu brennen beginnt.",
-        "Die Zündtemperatur ist die Temperatur eines brennenden Streichholzes."
+        "Die Zündtemperatur ist die niedrigste Temperatur, bei der ein brennbarer Stoff unter festgelegten Bedingungen zu brennen beginnt.",
+        "Die Zündtemperatur ist die Temperatur eines brennenden Streichholzes.",
+        "Die Zündtemperatur ist die Temperatur, bei der eine brennbare Flüssigkeit beginnt, Dämpfe abzugeben."
       ],
       "correctIndex": 0
     },
@@ -138,11 +137,11 @@
       "correctIndex": 1
     },
     {
-      "question": "Welchen Explosionsbereich hat ein Acetylen-Luft-Gemisch?",
+      "question": "17. Welchen Explosionsbereich hat ein Acetylen-Luft-Gemisch?",
       "answers": [
-        "von ca. 0 bis 5 Vol.-%",
-        "von ca. 4 bis 10 Vol.-%",
-        "von ca. 1,5 bis 82 Vol.-%"
+        "von ca. 0 bis 5 Vol.-% von ca. 4 bis 10 Vol.-%",
+        "von ca. 1,5 bis 82 Vol.-% Wo findet bei einer Kerzenflamme das Brennen statt?",
+        "direkt am Docht im Innern der Flamme an der Außenfläche der Flamme"
       ],
       "correctIndex": 2
     },
@@ -226,7 +225,7 @@
       "answers": [
         "ein brennbarer Stoff, Sauerstoff, Wärme, Flammpunkt und ein Katalysator",
         "ein brennbarer Stoff, Sauerstoff, das richtige Mengenverhältnis zwischen brennbarem Stoff und",
-        "Sauerstoff, Zündenergie und ggf. ein Katalysator"
+        "Sauerstoff, Zündenergie und ggf. ein Katalysator ein brennbarer Stoff, Luft mit mindestens 10 % Sauerstoff und 89 % Stickstoff"
       ],
       "correctIndex": 1
     },
@@ -333,8 +332,8 @@
       "question": "Was ist die Mindestverbrennungstemperatur?",
       "answers": [
         "Die Mindestverbrennungstemperatur ist die Temperatur, bei der ein brennbarer Stoff zündet.",
-        "Die Mindestverbrennungstemperatur ist eine auf den Stoff bezogene Temperatur, die",
-        "mindestens erforderlich ist, um ein Brennen aufrechtzuerhalten."
+        "Die Mindestverbrennungstemperatur ist eine auf den Stoff bezogene Temperatur, die mindestens erforderlich ist, um ein Brennen aufrechtzuerhalten.",
+        "Die Mindestverbrennungstemperatur ist die Temperatur, bei der ein brennbarer Stoff erstmalig entflammen kann."
       ],
       "correctIndex": 1
     },
@@ -379,7 +378,7 @@
       "answers": [
         "Heu oder Stroh müssen vorhanden sein.",
         "Der brennbare Stoff muss oxidieren und die hierbei erzeugte Wärme muss gestaut bleiben.",
-        "Der brennbare Stoff muss die Zündtemperatur erreicht haben, es müssen eine"
+        "Der brennbare Stoff muss die Zündtemperatur erreicht haben, es müssen eine Umgebungstemperatur von 0 °C, Sauerstoff und Antikatalysatoren vorhanden sein."
       ],
       "correctIndex": 1
     },
@@ -395,9 +394,9 @@
     {
       "question": "Wovon ist die Entzündbarkeit eines brennbaren Stoffes abhängig?",
       "answers": [
-        "vom Zustand des brennbaren Stoffes (z. B. Verhältnis Masse zu Oberfläche), der Art der",
-        "Zündquelle und vom Sauerstoffgehalt der Umgebungsatmosphäre",
-        "nur vom Sauerstoffgehalt der Umgebungsatmosphäre und vom Zustand des brennbaren Stoffes"
+        "vom Zustand des brennbaren Stoffes (z. B. Verhältnis Masse zu Oberfläche), der Art der Zündquelle und vom Sauerstoffgehalt der Umgebungsatmosphäre",
+        "nur vom Sauerstoffgehalt der Umgebungsatmosphäre und vom Zustand des brennbaren Stoffes",
+        "vom richtigen Mengenverhältnis zwischen Sauerstoff und brennbarem Stoff sowie von den zur Verfügung stehenden Kondensatoren"
       ],
       "correctIndex": 0
     },
@@ -450,8 +449,8 @@
       "question": "Was versteht man unter dem Begriff „Feuer“?",
       "answers": [
         "Unter „Feuer“ versteht man einen physikalischen Vorgang.",
-        "„Feuer“ ist der Oberbegriff für bestimmungsgemäßes Brennen (Nutzfeuer) und nicht",
-        "bestimmungsgemäßes Brennen (z. B. Schadenfeuer)."
+        "„Feuer“ ist der Oberbegriff für bestimmungsgemäßes Brennen (Nutzfeuer) und nicht bestimmungsgemäßes Brennen (z. B. Schadenfeuer).",
+        "Unter „Feuer“ versteht man einen mechanischen Vorgang."
       ],
       "correctIndex": 1
     },
@@ -600,11 +599,11 @@
       "correctIndex": 2
     },
     {
-      "question": "Was versteht man unter dem Begriff \"Explosionsbereich\"?",
+      "question": "Was versteht man unter dem Begriff „Explosionsbereich“?",
       "answers": [
-        "Der \"Explosionsbereich\" ist der Bereich, in dem eine Explosion stattgefunden hat.",
-        "Der \"Explosionsbereich\" ist der Bereich um die Austrittstelle brennbarer Gase und Dämpfe, in dem Explosionsgefahr besteht.",
-        "Der \"Explosionsbereich\" ist der Konzentrationsbereich zwischen der unteren und oberen Explosionsgrenze."
+        "Der „Explosionsbereich“ ist der Bereich, in dem eine Explosion stattgefunden hat.",
+        "Der „Explosionsbereich“ ist der Bereich um die Austrittstelle brennbarer Gase und Dämpfe, in dem Explosionsgefahr besteht.",
+        "Der „Explosionsbereich“ ist der Konzentrationsbereich zwischen der unteren und oberen Explosionsgrenze."
       ],
       "correctIndex": 2
     },
@@ -639,11 +638,11 @@
     {
       "question": "Warum werden Brände von Metallen in eine eigene Brandklasse eingeteilt?",
       "answers": [
-        "Weil die brennbaren Metalle leichter als Wasser sind und somit vom Wasser brennend",
-        "fortgeschwemmt werden können.",
-        "Weil die Brandtemperaturen bei Metallbränden weit über denen der Brandklasse A liegen und"
+        "Weil die brennbaren Metalle leichter als Wasser sind und somit vom Wasser brennend fortgeschwemmt werden können.",
+        "Weil die Brandtemperaturen bei Metallbränden weit über denen der Brandklasse A liegen und die Anwendung des für die Brandklasse A üblichen Löschmittels Wasser somit problematisch ist.",
+        "Weil das Wasser in der Brandklasse D, anders als in der Brandklasse A, erstickend wirkt."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Temperatur muss zum Löschen eines Brandes durch Abkühlen unterschritten werden?",
@@ -655,13 +654,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Katalysatoren …",
+      "question": "Katalysatoren … … ermöglichen das Brennen von eigentlich nicht brennbaren Stoffen.",
       "answers": [
-        "… ermöglichen das Brennen von eigentlich nicht brennbaren Stoffen.",
         "… setzen die Aktivierungsenergie herab.",
+        "",
         "… werden während der Reaktion aufgebraucht und müssen ständig nachgeführt werden."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?",
@@ -713,7 +712,7 @@
       "answers": [
         "Diesen Begriff gibt es nicht.",
         "Durchzündung entzündbarer Pyrolyseprodukte und Schwelgase, die sich in der Regel als Rauchschicht in einem Raum ansammeln",
-        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum"
+        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 2
     }

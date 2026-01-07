@@ -76,9 +76,9 @@
     {
       "question": "Welche Löschwirkung besitzt D-Löschpulver bei Metallbränden?",
       "answers": [
-        "Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung",
-        "antidissoziative Löschwirkung",
-        "Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des"
+        "Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung antidissoziative Löschwirkung",
+        "Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des",
+        "D-Löschpulvers"
       ],
       "correctIndex": 0
     },
@@ -131,8 +131,8 @@
       "question": "Was ist bei der Handhabung von Schaumstrahlrohren zu beachten?",
       "answers": [
         "Schaum darf grundsätzlich in elektrischen Anlagen eingesetzt werden.",
-        "Es darf kein Brandrauch angesaugt werden.",
-        "Der Truppmann hält das Schaumstrahlrohr und bestimmt bei Kombinationsschaumstrahlrohren,"
+        "Es darf kein Brandrauch angesaugt werden. Der Truppmann hält das Schaumstrahlrohr und bestimmt bei Kombinationsschaumstrahlrohren,",
+        "welche Schaumart eingestellt wird."
       ],
       "correctIndex": 1
     },
@@ -157,9 +157,9 @@
     {
       "question": "Was ist Schwerschaum?",
       "answers": [
-        "Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft",
-        "erzeugt wird. Die Verschäumungszahl ist kleiner 20.",
-        "Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft"
+        "Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl ist kleiner 20.",
+        "Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl liegt zwischen 20 und 200.",
+        "Schwerschaum ist ein Löschmittel, welches auf allen Löschfahrzeugen mitgeführt wird."
       ],
       "correctIndex": 0
     },
@@ -218,13 +218,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Ein Schaumstrahlrohr M 4 mit 150facher Verschäumung benötigt in 5 Minuten 60 l Schaummittel bei einer Einstellung des Zumischers von 3 %.",
+      "question": "Ein Schaumstrahlrohr M 4 mit 150facher Verschäumung benötigt in 5 Minuten 60 l Schaummittel bei einer Einstellung des Zumischers von 3 %. Wie viel Liter Luftschaum werden erzeugt?",
       "answers": [
-        "Wie viel Liter Luftschaum werden erzeugt?",
         "300.000 Liter",
-        "90.000 Liter"
+        "90.000 Liter",
+        "18.000 Liter"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Was bedeutet die Typenbezeichnung „Z 4“ bei einem genormten Schaummittel-Zumischer?",
@@ -339,34 +339,34 @@
       "answers": [
         "Die Wassermenge ist größer.",
         "Die mechanische Auftreffwucht ist größer.",
-        "Die beim Sprühstrahl entstehenden Tropfen haben ein besseres Verhältnis von Masse zu"
+        "Die beim Sprühstrahl entstehenden Tropfen haben ein besseres Verhältnis von Masse zu Oberfläche."
       ],
       "correctIndex": 2
     },
     {
       "question": "Worauf beruht der Löscherfolg beim Löschverfahren „Ersticken“?",
       "answers": [
-        "auf der Herabminderung der Brandtemperatur",
-        "auf der Abkühlung unter den Flammpunkt",
-        "auf der Veränderung des Mengenverhältnisses zwischen brennbarem Stoff und Sauerstoff,"
+        "auf der Herabminderung der Brandtemperatur auf der Abkühlung unter den Flammpunkt",
+        "auf der Veränderung des Mengenverhältnisses zwischen brennbarem Stoff und Sauerstoff,",
+        "wobei ein Brennen unterbunden wird"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Mit welcher Löschmethode lässt sich in der Regel bei glutbildenden Bränden den größten Kühleffekt erzielen?",
       "answers": [
-        "den Löschstrahl auf die Glutoberfläche richten, damit Wärme direkt aus der Reaktionszone",
-        "entzogen wird",
-        "den Löschstrahl in die Flammen richten, damit die Mindestverbrennungstemperatur"
+        "den Löschstrahl auf die Glutoberfläche richten, damit Wärme direkt aus der Reaktionszone entzogen wird",
+        "den Löschstrahl in die Flammen richten, damit die Mindestverbrennungstemperatur",
+        "herabgesetzt wird Luftschaum über die Glut ausbreiten"
       ],
       "correctIndex": 0
     },
     {
       "question": "Was ist ein Netzmittel?",
       "answers": [
-        "ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers",
-        "eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des",
-        "Wassers erheblich verbessert"
+        "ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des",
+        "Wassers erheblich verbessert",
+        "ein flüssiges Löschmittel, das netzförmig auf den brennenden Stoff aufgetragen wird und damit flächendeckend eine erstickende Wirkung erzielt"
       ],
       "correctIndex": 0
     },
@@ -383,17 +383,17 @@
       "question": "Was wird beim Sprühstrahl durch eine Erhöhung des Druckes am Strahlrohr erreicht?",
       "answers": [
         "Es wird eine wesentliche Verringerung der Reichweite des Strahls erreicht.",
-        "Es wird eine feinere Zerstäubung des Sprühstrahls und damit ein größeres Wärmebindungs-",
-        "vermögen erreicht."
+        "Es wird eine feinere Zerstäubung des Sprühstrahls und damit ein größeres Wärmebindungsvermögen erreicht.",
+        "Es wird eine Wiederannäherung zu einem geschlossenen Strahl und damit ein größerer Löscherfolg des Wassers erreicht."
       ],
       "correctIndex": 1
     },
     {
       "question": "Was ist beim Einsatz von Wasser als Löschmittel zu beachten?",
       "answers": [
-        "Wasser dringt durch seine hohe Oberflächenspannung nur schlecht in feste brennbare Stoffe",
-        "ein.",
-        "Wasser wirkt am besten, wenn es in kleinen Mengen und mit niedriger Temperatur bei Bränden"
+        "Wasser dringt durch seine hohe Oberflächenspannung nur schlecht in feste brennbare Stoffe ein.",
+        "Wasser wirkt am besten, wenn es in kleinen Mengen und mit niedriger Temperatur bei Bränden der Brandklasse D eingesetzt wird.",
+        "Wasser schwimmt auf allen brennbaren Flüssigkeiten."
       ],
       "correctIndex": 0
     },
@@ -402,16 +402,16 @@
       "answers": [
         "Der Sprühstrahl hat ein geringeres Wärmebindungsvermögen.",
         "Der Sprühstrahl hat eine geringere Wurfweite und Wurfhöhe.",
-        "Der Sprühstrahl gefährdet das Schlauchmaterial, da ein hoher Ausgangsdruck für die"
+        "Der Sprühstrahl gefährdet das Schlauchmaterial, da ein hoher Ausgangsdruck für die Löschwirksamkeit erforderlich ist."
       ],
       "correctIndex": 1
     },
     {
       "question": "Wodurch wird die hohe Verschäumungszahl bei Leichtschaum erreicht?",
       "answers": [
-        "durch den Einsatz eines Leichtschaumgenerators in Verbindung mit einem geeigneten",
-        "Schaummittel",
-        "durch einen Zumischer Z 8 und ein Leichtschaumstrahlrohr"
+        "durch den Einsatz eines Leichtschaumgenerators in Verbindung mit einem geeigneten Schaummittel",
+        "durch einen Zumischer Z 8 und ein Leichtschaumstrahlrohr",
+        "durch den Einsatz von Hochdruck-Feuerlöschkreiselpumpen"
       ],
       "correctIndex": 0
     },
@@ -425,13 +425,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Wie kann bei brennbaren Stäuben die Gefahr einer Staubexplosion vermindert bzw.",
+      "question": "Wie kann bei brennbaren Stäuben die Gefahr einer Staubexplosion vermindert bzw. vermieden werden?",
       "answers": [
-        "vermieden werden?",
         "durch einen Vollstrahleinsatz",
-        "durch einen Sprühstrahleinsatz"
+        "durch einen Sprühstrahleinsatz",
+        "durch den Einsatz eines Hohlstrahlrohres mit Vollstrahl"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welchen Vorteil hat die Wasserabgabe mittels Vollstrahl gegenüber der mittels Sprühstrahl?",
@@ -578,13 +578,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Leichtschaum eignet sich besonders gut …",
+      "question": "Leichtschaum eignet sich besonders gut … … zum vorbeugenden Einschäumen einer ausgelaufenen und leicht ausgasenden Flüssigkeit.",
       "answers": [
-        "… zum vorbeugenden Einschäumen einer ausgelaufenen und leicht ausgasenden Flüssigkeit.",
         "… zum Fluten von Räumen, Kanälen usw.",
+        "",
         "… zum Abkühlen von Bränden fester Stoffe."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Was ist beim Einsatz von Kohlenstoffdioxid als Löschmittel zu beachten?",
@@ -608,8 +608,8 @@
       "question": "Welche Aussage zum Fettbrandlöschmittel ist richtig?",
       "answers": [
         "Fettbrandlöschmittel kann auch bei Bränden der Brandklasse D gefahrlos eingesetzt werden.",
-        "Fettbrandlöschmittel darf nur in Bereichen spannungsführender Anlagen bis 1000 V eingesetzt",
-        "werden."
+        "Fettbrandlöschmittel darf nur in Bereichen spannungsführender Anlagen bis 1000 V eingesetzt werden.",
+        "Fettbrandlöschmittel ist ein spezielles Pulver, das dem Brand von Speiseölen und –fetten sowie dessen Umgebung Wärme entzieht."
       ],
       "correctIndex": 1
     },
@@ -627,7 +627,7 @@
       "answers": [
         "Abmagern",
         "Verdünnen",
-        "Hemmen der Reaktion"
+        "Hemmen der Reaktion Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     }
