@@ -10,6 +10,11 @@ const chapterReview = document.getElementById("chapterReview");
 const quiz = document.getElementById("quiz");
 const result = document.getElementById("result");
 
+// ======= HELPER FUNCTIONS ========
+function formatChapterDisplayName(filename) {
+    return filename.replace('.json', '').replace(/-/g, ' ');
+}
+
 // ======= INIT ========
 fetch("data/meta.json")
 .then(r => r.json())
@@ -29,9 +34,7 @@ function openChapterMode(){
 
     chapters.forEach(ch => {
         let btn = document.createElement("button");
-        // Remove .json extension for display
-        const displayName = ch.replace('.json', '').replace(/-/g, ' ');
-        btn.innerText = displayName;
+        btn.innerText = formatChapterDisplayName(ch);
         btn.onclick = () => loadChapter(ch);
         chapterSelect.appendChild(btn);
     });
@@ -66,8 +69,7 @@ function openChapterReview(){
     
     chapters.forEach(ch => {
         let btn = document.createElement("button");
-        const displayName = ch.replace('.json', '').replace(/-/g, ' ');
-        btn.innerText = displayName;
+        btn.innerText = formatChapterDisplayName(ch);
         btn.className = "chapter-btn";
         btn.onclick = () => showChapterContent(ch);
         listContainer.appendChild(btn);
@@ -81,7 +83,7 @@ async function showChapterContent(name){
     }
 
     const chapter = loadedChapters[name];
-    const displayName = name.replace('.json', '').replace(/-/g, ' ');
+    const displayName = formatChapterDisplayName(name);
     
     chapterReview.innerHTML = `
         <h2>${displayName}</h2>
