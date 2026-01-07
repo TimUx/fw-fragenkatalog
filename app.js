@@ -33,18 +33,22 @@ async function openChapterMode(){
         <h2>Kapitel wählen</h2>
     `;
 
-    for(const ch of chapters){
+    // Load all chapters in parallel
+    await Promise.all(chapters.map(async ch => {
         if(!loadedChapters[ch]){
             const r = await fetch(`data/${ch}`);
             loadedChapters[ch] = await r.json();
         }
-        
+    }));
+
+    // Create buttons after all chapters are loaded
+    chapters.forEach(ch => {
         const questionCount = loadedChapters[ch].questions.length;
         let btn = document.createElement("button");
         btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
         btn.onclick = () => loadChapter(ch);
         chapterSelect.appendChild(btn);
-    }
+    });
 }
 
 function loadChapter(name){
@@ -75,19 +79,23 @@ async function openChapterReview(){
 
     const listContainer = document.getElementById("reviewChapterList");
     
-    for(const ch of chapters){
+    // Load all chapters in parallel
+    await Promise.all(chapters.map(async ch => {
         if(!loadedChapters[ch]){
             const r = await fetch(`data/${ch}`);
             loadedChapters[ch] = await r.json();
         }
-        
+    }));
+
+    // Create buttons after all chapters are loaded
+    chapters.forEach(ch => {
         const questionCount = loadedChapters[ch].questions.length;
         let btn = document.createElement("button");
         btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
         btn.className = "chapter-btn";
         btn.onclick = () => showChapterContent(ch);
         listContainer.appendChild(btn);
-    }
+    });
 }
 
 async function showChapterContent(name){
