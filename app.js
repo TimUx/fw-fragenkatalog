@@ -36,6 +36,14 @@ fetch("data/meta.json")
 });
 
 // ======= UI ========
+function showWelcome(){
+    welcome.classList.remove("hidden");
+    chapterSelect.classList.add("hidden");
+    chapterReview.classList.add("hidden");
+    quiz.classList.add("hidden");
+    result.classList.add("hidden");
+}
+
 async function openChapterMode(){
     welcome.classList.add("hidden");
     chapterSelect.classList.remove("hidden");
