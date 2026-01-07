@@ -578,6 +578,17 @@
       "correctIndex": 0
     },
     {
+      "question": "[PLATZHALTER] Frage 65 im Kapitel Löschen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Was ist beim Einsatz von Kohlenstoffdioxid als Löschmittel zu beachten?",
       "answers": [
         "Nach dem Einsatz in geschlossenen Räumen sind diese gut zu lüften.",
@@ -621,17 +632,6 @@
         "Hemmen der Reaktion"
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "[PLATZHALTER] Frage 70 im Kapitel Loeschen - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
     }
   ]
 }

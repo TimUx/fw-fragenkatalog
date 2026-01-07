@@ -2,15 +2,6 @@
   "title": "Gerätekunde: Persönliche Ausrüstung",
   "questions": [
     {
-      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die … … Wasserdichte.",
-      "answers": [
-        "… Durchflussmenge.",
-        "… Strahlleistung.",
-        "Es ist nur eine Antwortmöglichkeit richtig!"
-      ],
-      "correctIndex": 0
-    },
-    {
       "question": "Welche Teile gehören zur Schutzkleidung eines Angriffstrupps bei der Brandbekämpfung im Innenangriff?",
       "answers": [
         "Feuerwehrhose und Feuerwehrjacke",

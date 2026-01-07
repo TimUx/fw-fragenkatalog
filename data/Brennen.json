@@ -38,6 +38,17 @@
       "correctIndex": 1
     },
     {
+      "question": "[PLATZHALTER] Frage 5 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
       "answers": [
         "Rauchexplosion",
@@ -198,6 +209,17 @@
         "als Brand"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "[PLATZHALTER] Frage 24 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Welche Voraussetzungen müssen für das Starten einer Verbrennung vorhanden sein?",
@@ -578,6 +600,17 @@
       "correctIndex": 2
     },
     {
+      "question": "[PLATZHALTER] Frage 67 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Welche Eigenschaften haben entzündbare Flüssigkeiten, die nach GHS in die Kategorien 1, 2 und 3 eingestuft werden?",
       "answers": [
         "entzündbar, leicht entzündbar, extrem entzündbar",
@@ -621,6 +654,17 @@
         "die Mindestverbrennungstemperatur"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "[PLATZHALTER] Frage 73 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
       "question": "Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?",
@@ -668,50 +712,6 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 75 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 76 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 77 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 78 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
       "question": "[PLATZHALTER] Frage 79 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
@@ -720,7 +720,7 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

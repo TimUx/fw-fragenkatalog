@@ -81,51 +81,6 @@
         "elektrotechnisch unterwiesene Feuerwehrangehörige, sofern keine Elektrofachkraft vor Ort ist"
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "Welchem Einsatzzweck dienen Bindemittel?",
-      "answers": [
-        "Sie dürfen ausschließlich nur bei ausgelaufenen Mineralölprodukten eingesetzt werden.",
-        "Sie dienen dem Zweck, gefährliche flüssige Stoffe abzustreuen und damit die Stoffe zu binden.",
-        "Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Was ist beim Anheben einer Last bei einem Hebekissensystem > 1 bar zu beachten?",
-      "answers": [
-        "Die Hebekissen dürfen nur paarweise verwendet werden.",
-        "Es dürfen maximal zwei Hebekissen übereinander eingesetzt werden.",
-        "Ein Unterbauen ist aufgrund der geringen Hubhöhe nicht notwendig."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Welche der nachfolgenden Aussagen trifft für einen Hebebaum zu?",
-      "answers": [
-        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.",
-        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.",
-        "Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Welche Aussage zum Einsatz von Druckkissen ist nach der FwDV 1 „Grundtätigkeiten“ richtig?",
-      "answers": [
-        "Es müssen mindestens 50 % der Kissenfläche unter der Last liegen.",
-        "Es müssen mindestens 75 % der Kissenfläche unter der Last liegen.",
-        "Die Kissenfläche muss komplett unter der Last liegen."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Durch welche Einschlagrichtung der Erdnägel kann ein Erdanker die größte Zugkraft aufnehmen?",
-      "answers": [
-        "entgegen der Zugrichtung",
-        "in Zugrichtung",
-        "50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung"
-      ],
-      "correctIndex": 1
     }
   ]
 }

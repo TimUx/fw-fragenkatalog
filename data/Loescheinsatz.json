@@ -740,7 +740,7 @@
       "correctIndex": 2
     },
     {
-      "question": "[PLATZHALTER] Frage 83 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 83 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -748,10 +748,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 84 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 84 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -759,10 +759,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 85 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 85 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -770,10 +770,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 86 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 86 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -781,10 +781,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 87 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 87 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -792,10 +792,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 88 im Kapitel Loescheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 88 im Kapitel Löscheinsatz - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -803,7 +803,7 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

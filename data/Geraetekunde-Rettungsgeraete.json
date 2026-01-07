@@ -155,6 +155,17 @@
       "correctIndex": 1
     },
     {
+      "question": "[PLATZHALTER] Frage 18 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wo wird eine vierteilige Steckleiter beim Aufrichten vom Trupp angefasst?",
       "answers": [
         "an den Sprossen",
@@ -353,6 +364,17 @@
       "correctIndex": 0
     },
     {
+      "question": "[PLATZHALTER] Frage 41 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Eine Steckleiter wird vom Angriffstrupp und dem Melder in Stellung gebracht. An welcher Stelle trägt der Melder nach der FwDV 10 „die tragbaren Leitern“ die Leiter?",
       "answers": [
         "am Kopfende",
@@ -371,7 +393,7 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 42 im Kapitel Geraetekunde Rettungsgeraete - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 44 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -379,29 +401,7 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 43 im Kapitel Geraetekunde Rettungsgeraete - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
-    },
-    {
-      "question": "[PLATZHALTER] Frage 44 im Kapitel Geraetekunde Rettungsgeraete - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

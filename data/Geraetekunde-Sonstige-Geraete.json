@@ -56,7 +56,7 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 7 im Kapitel Geraetekunde Sonstige Geraete - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 7 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -64,10 +64,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 8 im Kapitel Geraetekunde Sonstige Geraete - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 8 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -75,10 +75,10 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     },
     {
-      "question": "[PLATZHALTER] Frage 9 im Kapitel Geraetekunde Sonstige Geraete - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "[PLATZHALTER] Frage 9 im Kapitel Gerätekunde: Sonstige Geräte - Diese Frage muss noch aus dem PDF übernommen werden.",
       "answers": [
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
         "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
@@ -86,7 +86,7 @@
       ],
       "correctIndex": 0,
       "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
     }
   ]
 }

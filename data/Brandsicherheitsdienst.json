@@ -2,6 +2,17 @@
   "title": "Brandsicherheitsdienst",
   "questions": [
     {
+      "question": "[PLATZHALTER] Frage 1 im Kapitel Brandsicherheitsdienst - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wer bestimmt Art und Umfang des Brandsicherheitsdienstes?",
       "answers": [
         "der Leiter des Ordnungsamtes",
@@ -54,17 +65,6 @@
         "Die Mindeststärke ist die einer Staffel."
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "[PLATZHALTER] Frage 7 im Kapitel Brandsicherheitsdienst - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
     }
   ]
 }

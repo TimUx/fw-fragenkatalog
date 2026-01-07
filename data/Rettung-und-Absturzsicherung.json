@@ -11,6 +11,17 @@
       "correctIndex": 2
     },
     {
+      "question": "[PLATZHALTER] Frage 2 im Kapitel Rettung und Absturzsicherung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+    },
+    {
       "question": "Wie wird die Abseilgeschwindigkeit beim Selbstretten geregelt?",
       "answers": [
         "Die Abseilgeschwindigkeit wird über die Körpermasse geregelt.",
@@ -108,17 +119,6 @@
         "Es ist sicherzustellen, dass keine losen Kleidungs- oder Ausrüstungsteile in die"
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "[PLATZHALTER] Frage 13 im Kapitel Rettung und Absturzsicherung - Diese Frage muss noch aus dem PDF übernommen werden.",
-      "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
-      ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
     }
   ]
 }
