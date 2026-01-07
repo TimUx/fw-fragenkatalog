@@ -40,9 +40,9 @@
     {
       "question": "Welche Schutzausrüstung ist nach der UVV-Feuerwehren (DGUV-Vorschrift 49) bei Übungen und im Einsatz zu tragen?",
       "answers": [
-        "Es genügt bei Übungen das Tragen des Feuerwehrhelmes und des Schutzanzuges. Beim Einsatz ist keine besondere Schutzausrüstung erforderlich.",
-        "Bei Übungen und im Einsatz ist die persönliche Schutzausrüstung zu tragen, die vor den vorhandenen und den zu erwartenden Gefahren schützt. Mindestens: Feuerwehrschutzanzug,",
-        "Feuerwehrhelm mit Nackenschutz und Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk"
+        "Es genügt bei Übungen das Tragen des Feuerwehrhelmes und des Schutzanzuges.",
+        "Beim Einsatz ist keine besondere Schutzausrüstung erforderlich.",
+        "Bei Übungen und im Einsatz ist die persönliche Schutzausrüstung zu tragen, die vor den vorhandenen und den zu erwartenden Gefahren schützt. Mindestens: Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz und Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk"
       ],
       "correctIndex": 1
     },
@@ -103,9 +103,9 @@
     {
       "question": "In welchem Fall dürfen schadhafte Leitern nach der DGUV Information 208-016 „Handlungsanleitung für den Umgang mit Leitern und Tritten“ wieder benutzt werden?",
       "answers": [
-        "Sie dürfen nie mehr benutzt werden. Sie dürfen wieder benutzt werden, wenn sie geflickt und gestrichen sind.",
-        "Der Arbeitgeber hat sicherzustellen, dass Leitern und Tritte nach Instandsetzungsarbeiten,",
-        "welche die Sicherheit dieser Arbeitsmittel beeinträchtigen können, auf ihren sicheren Zustand geprüft werden."
+        "Sie dürfen nie mehr benutzt werden.",
+        "Sie dürfen wieder benutzt werden, wenn sie geflickt und gestrichen sind.D",
+        "er Arbeitgeber hat sicherzustellen, dass Leitern und Tritte nach Instandsetzungsarbeiten, welche die Sicherheit dieser Arbeitsmittel beeinträchtigen können, auf ihren sicheren Zustand geprüft werden."
       ],
       "correctIndex": 1
     },
@@ -157,9 +157,9 @@
     {
       "question": "Welche der folgenden Teile der persönlichen Schutzausrüstung müssen den Feuerwehrangehörigen nach der UVV-Feuerwehren (DGUV-Vorschrift 49) zur Verfügung gestellt werden?",
       "answers": [
-        "Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe Feuerwehrhelm mit Nackenschutz, Schutzanzug",
-        "Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe,",
-        "Feuerwehrschutzschuhwerk"
+        "Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe ",
+        "Feuerwehrhelm mit Nackenschutz, Schutzanzug F",
+        "euerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk"
       ],
       "correctIndex": 1
     },
@@ -176,17 +176,17 @@
       "question": "Welche Feuerwehrangehörigen sind bei der Unfallkasse Hessen gesetzlich versichert?",
       "answers": [
         "nur die Mitglieder der Einsatzabteilung",
-        "die Mitglieder der Einsatzabteilung sowie die Angehörigen der Jugendfeuerwehr und",
-        "Kindergruppe grundsätzlich alle Mitglieder des Feuerwehrvereines"
+        "die Mitglieder der Einsatzabteilung sowie die Angehörigen der Jugendfeuerwehr und Kindergruppe ",
+        "grundsätzlich alle Mitglieder des Feuerwehrvereines"
       ],
       "correctIndex": 1
     },
     {
       "question": "Sie werden während der Feuerwehrausbildung leicht verletzt. Auf was sollten Sie den behandelnden Arzt hinweisen?",
       "answers": [
-        "auf den Namen des zuständigen Leiters der Feuerwehr auf den Namen des zuständigen Ausbilders",
-        "dass es sich um einen Feuerwehrdienstunfall handelt und dass die Unfallkasse Hessen der",
-        "Versicherungsträger ist"
+        "auf den Namen des zuständigen Leiters der Feuerwehr",
+        "auf den Namen des zuständigen Ausbilders ",
+        "dass es sich um einen Feuerwehrdienstunfall handelt und dass die Unfallkasse Hessen der Versicherungsträger ist"
       ],
       "correctIndex": 1
     },
@@ -256,7 +256,7 @@
     {
       "question": "Was ist nach UVV-Feuerwehren (DGUV-Vorschrift 49) bei Ausbildungen, Übungen und Vorführungen mit Sprungrettungsgeräten zu beachten?",
       "answers": [
-        "Übungen dürfen bis zu einer Höhe von 16 m durchgeführt werden. Zu Ausbildungszwecken darf auch gesprungen werden.",
+        "Übungen dürfen bis zu einer Höhe von 16m durchgeführt werden. Zu Ausbildungszwecken darf auch gesprungen werden.",
         "Zu Ausbildungs-, Übungs- und Vorführungszwecken darf nicht gesprungen werden.",
         "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
