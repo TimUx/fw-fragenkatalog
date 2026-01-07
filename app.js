@@ -5,7 +5,6 @@ let current = 0;
 let correct = 0;
 let userAnswers = []; // Track user's answers for each question
 
-const menu = document.getElementById("menu");
 const chapterSelect = document.getElementById("chapterSelect");
 const chapterReview = document.getElementById("chapterReview");
 const quiz = document.getElementById("quiz");
@@ -25,12 +24,13 @@ fetch("data/meta.json")
 
 // ======= UI ========
 function openChapterMode(){
-    menu.classList.add("hidden");
     chapterSelect.classList.remove("hidden");
+    chapterReview.classList.add("hidden");
+    quiz.classList.add("hidden");
+    result.classList.add("hidden");
 
     chapterSelect.innerHTML = `
         <h2>Kapitel wählen</h2>
-        <button onclick="backToMenu()" class="back-btn">Zurück zum Menü</button>
     `;
 
     chapters.forEach(ch => {
@@ -57,12 +57,13 @@ function loadChapter(name){
 
 // ======= CHAPTER REVIEW ========
 function openChapterReview(){
-    menu.classList.add("hidden");
     chapterReview.classList.remove("hidden");
+    chapterSelect.classList.add("hidden");
+    quiz.classList.add("hidden");
+    result.classList.add("hidden");
 
     chapterReview.innerHTML = `
         <h2>Kapitel nachlesen</h2>
-        <button onclick="backToMenu()" class="back-btn">Zurück zum Menü</button>
         <div id="reviewChapterList"></div>
     `;
 
@@ -115,14 +116,6 @@ async function showChapterContent(name){
     });
 }
 
-function backToMenu(){
-    menu.classList.remove("hidden");
-    chapterSelect.classList.add("hidden");
-    chapterReview.classList.add("hidden");
-    quiz.classList.add("hidden");
-    result.classList.add("hidden");
-}
-
 // ======= EXAM MODE ========
 async function startExam(){
     let allQuestions = [];
@@ -141,6 +134,7 @@ async function startExam(){
 // ======= QUIZ ========
 function startQuiz(list){
     chapterSelect.classList.add("hidden");
+    chapterReview.classList.add("hidden");
     result.classList.add("hidden");
     quiz.classList.remove("hidden");
 
@@ -205,6 +199,8 @@ function answer(i){
 
 function showResult(){
     quiz.classList.add("hidden");
+    chapterSelect.classList.add("hidden");
+    chapterReview.classList.add("hidden");
     result.classList.remove("hidden");
 
     const totalQuestions = activeQuestions.length;
@@ -216,7 +212,6 @@ function showResult(){
     let resultHTML = `
         <h2>Ergebnis</h2>
         <p>${correct} von ${totalQuestions} richtig (${percentage}%)</p>
-        <button onclick="backToMenu()">Zurück zum Start</button>
     `;
 
     // Show incorrect questions if any
