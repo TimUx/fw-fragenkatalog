@@ -103,7 +103,7 @@
         "Saugstelle aus einem Brunnen"
       ],
       "correctIndex": 0,
-      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page140_img1.png"
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_Q11.png"
     },
     {
       "question": "Wofür steht das folgende Zeichen in einer aktuellen Waldbrandeinsatzkarte?",
@@ -113,7 +113,7 @@
         "Achtung hohe Steinschlaggefahr"
       ],
       "correctIndex": 1,
-      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page140_img2.png"
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_Q12.png"
     }
   ]
 }

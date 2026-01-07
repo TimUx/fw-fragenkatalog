@@ -233,7 +233,7 @@
         "brennbar, flüssig"
       ],
       "correctIndex": 2,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page7_img1.png"
+      "image": "assets/piktos/ABC-Gefahrstoffe_Q25.png"
     },
     {
       "question": "Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem 300 mm breiten orangefarbenen Streifen um die Längsachse des Tanks möglich?",
@@ -288,7 +288,7 @@
         "Gefahrgut in begrenzter Menge"
       ],
       "correctIndex": 2,
-      "image": "assets/piktos/ABC-Gefahrstoffe_page8_img1.png"
+      "image": "assets/piktos/ABC-Gefahrstoffe_Q31.png"
     }
   ]
 }

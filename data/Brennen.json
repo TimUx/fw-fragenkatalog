@@ -45,7 +45,7 @@
         "Der Flammpunkt liegt zwischen 23 °C und 60 °C."
       ],
       "correctIndex": 2,
-      "image": "assets/piktos/Brennen_page22_img1.png"
+      "image": "assets/piktos/Brennen_Q05.png"
     },
     {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
@@ -172,7 +172,7 @@
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
       "correctIndex": 0,
-      "image": "assets/piktos/Brennen_page24_img1.png"
+      "image": "assets/piktos/Brennen_Q19.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -182,7 +182,7 @@
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
       "correctIndex": 2,
-      "image": "assets/piktos/Brennen_page24_img2.png"
+      "image": "assets/piktos/Brennen_Q20.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -192,7 +192,7 @@
         "für Brände von Metallen"
       ],
       "correctIndex": 2,
-      "image": "assets/piktos/Brennen_page25_img1.png"
+      "image": "assets/piktos/Brennen_Q21.png"
     },
     {
       "question": "Welcher der angegebenen Stoffe brennt nur mit Flamme?",
@@ -638,7 +638,7 @@
         "für Brände von gasförmigen Stoffen"
       ],
       "correctIndex": 1,
-      "image": "assets/piktos/Brennen_page33_img1.png"
+      "image": "assets/piktos/Brennen_Q70.png"
     },
     {
       "question": "Warum werden Brände von Metallen in eine eigene Brandklasse eingeteilt?",
