@@ -1,0 +1,27 @@
+{
+  "chapters": [
+    "ABC-Gefahrstoffe.json",
+    "Atemschutz.json",
+    "Besondere-Gefahren-im-Zivilschutz.json",
+    "Brandsicherheitsdienst.json",
+    "Brennen.json",
+    "Fahrzeugkunde.json",
+    "Geraete-fuer-die-technische-Hilfeleistung.json",
+    "Gefahren-an-der-Einsatzstelle.json",
+    "Geraetekunde-Brandbekaempfung.json",
+    "Knoten-Leinen-Selbstrettung.json",
+    "Loeschangriff-und-Einsatzablauf.json",
+    "Persoenliche-Schutzausruestung.json",
+    "Rechtsgrundlagen-und-Organisation-der-Feuerwehr.json",
+    "Taktik-der-Feuerwehr.json",
+    "Tragbare-Leitern.json",
+    "Tragbare-Loeschgeraete-und-Feuerloescher.json",
+    "Wasserentnahme-und-Loeschwasserfoerderung.json",
+    "Verhalten-bei-Gefahr-und-Einsatzhygiene.json",
+    "Verkehrssicherung-und-Absichern-der-Einsatzstelle.json",
+    "Vorbeugender-Brandschutz.json",
+    "Funk-und-Kommunikation-im-Einsatz.json",
+    "Erste-Hilfe-und-Patientengerechte-Rettung.json",
+    "Zusammenarbeit-mit-anderen-BOS.json"
+  ]
+}
