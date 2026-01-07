@@ -85,9 +85,9 @@
     {
       "question": "Welche Begrifflichkeiten sind der Wald- und Vegetationsbrandbekämpfung zuzuordnen?",
       "answers": [
-        "Schwarzbereich, Feuerflanke, Feuerfront, Flammenhöhe und Flammenlänge Aschebereich, Brandflanken, Feuerfront, Flammentiefe und Flammenbreite",
-        "Schwarzbereich, Glutbereiche, Feuerflanke, Feuerfront, Flammenhöhe, Flammenlänge und",
-        "Feuerlinie"
+        "Schwarzbereich, Feuerflanke, Feuerfront, Flammenhöhe und Flammenlänge ",
+        "Aschebereich, Brandflanken, Feuerfront, Flammentiefe und Flammenbreite",
+        "Schwarzbereich, Glutbereiche, Feuerflanke, Feuerfront, Flammenhöhe, Flammenlänge und Feuerlinie"
       ],
       "correctIndex": 0
     },
