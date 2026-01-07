@@ -504,6 +504,28 @@
         "nur Absperrung und Vollstrahl"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "[PLATZHALTER] Frage 57 im Kapitel Geraetekunde Loeschgeraete Schlaeuche Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
+    },
+    {
+      "question": "[PLATZHALTER] Frage 58 im Kapitel Geraetekunde Loeschgeraete Schlaeuche Armaturen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
     }
   ]
 }

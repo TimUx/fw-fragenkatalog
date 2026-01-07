@@ -252,6 +252,17 @@
         "Zu Ausbildungs-, Übungs- und Vorführungszwecken darf nicht gesprungen werden."
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "[PLATZHALTER] Frage 29 im Kapitel UnfallverhuetungsvorschriftenUnfallversicherung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "answers": [
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
+        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "Diese Frage wurde automatisch als Platzhalter erstellt und muss manuell korrigiert werden."
     }
   ]
 }
