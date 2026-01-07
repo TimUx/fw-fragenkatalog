@@ -49,9 +49,9 @@
     {
       "question": "Was gehört nach der FwDV 1 „Grundtätigkeiten“ zur persönlichen Mindestschutzausrüstung?",
       "answers": [
-        "Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe,",
-        "Feuerwehrschutzschuhwerk",
-        "Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe,"
+        "Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe,Feuerwehrschutzschuhwerk",
+        "Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk, Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Feuerwehrleine mit Feuerwehrleinenbeutel",
+        "Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk, Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Feuerwehrleine mit Feuerwehrleinenbeutel und Atemschutzgerät"
       ],
       "correctIndex": 0
     },
