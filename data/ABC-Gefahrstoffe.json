@@ -119,13 +119,13 @@
       "correctIndex": 2
     },
     {
-      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern.",
+      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern. Welche Bedeutung haben diese Ziffern?",
       "answers": [
-        "Welche Bedeutung haben diese Ziffern?",
         "obere Ziffern Gefahrnummer, untere Ziffern UN-Nummer",
-        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer"
+        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer",
+        "obere Ziffern Gefahrnummer, untere Ziffern EU-Nummer"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 225.",
@@ -164,13 +164,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Wie kann die Inkorporation von chemischen Stoffen an der Einsatzstelle u.a. vermieden",
+      "question": "Wie kann die Inkorporation von chemischen Stoffen an der Einsatzstelle u.a. vermieden werden?",
       "answers": [
-        "werden?",
         "durch den Einsatz von geeigneten Messgeräten",
-        "durch geeigneten Atemschutz"
+        "durch geeigneten Atemschutz",
+        "durch Feuerschutzkleidung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Auf einer orangefarbenen Tafel befindet sich vor den Ziffern in der oberen Hälfte ein X. Welche Bedeutung hat dieses X?",
@@ -200,13 +200,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336.",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336. Welchen Aggregatzustand hat der transportierte Stoff?",
       "answers": [
-        "Welchen Aggregatzustand hat der transportierte Stoff?",
         "fest",
-        "flüssig"
+        "flüssig",
+        "gasförmig"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?",
@@ -228,13 +228,13 @@
       "image": "assets/piktos/ABC-Gefahrstoffe_page7_img1.png"
     },
     {
-      "question": "Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem",
+      "question": "Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem 300 mm breiten orangefarbenen Streifen um die Längsachse des Tanks möglich?",
       "answers": [
-        "300 mm breiten orangefarbenen Streifen um die Längsachse des Tanks möglich?",
         "Es werden Explosivstoffe befördert.",
-        "Es werden verflüssigte, tiefgekühlt verflüssigte oder gelöste Gase befördert."
+        "Es werden verflüssigte, tiefgekühlt verflüssigte oder gelöste Gase befördert.",
+        "Es wird Säure befördert."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Maßnahme bietet wirksamen Schutz vor Inkorporation von GABC-Stoffen?",
