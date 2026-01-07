@@ -709,15 +709,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 79 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welches Gas entsteht hauptsächlich bei einer Verbrennung, bei der ausreichend Sauerstoff zur Verfügung steht (vollkommene Verbrennung)?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Diesen Begriff gibt es nicht.",
+        "Durchzündung entzündbarer Pyrolyseprodukte und Schwelgase, die sich in der Regel als Rauchschicht in einem Raum ansammeln",
+        "schlagartige Ausbreitung eines Brandes auf alle thermisch aufbereiteten Oberflächen brennbarer Stoffe in einem Raum"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     }
   ]
 }

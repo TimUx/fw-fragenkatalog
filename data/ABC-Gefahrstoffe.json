@@ -65,26 +65,22 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 8 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Bei einem Werkstattbrand erkennen Sie einen Flaschenwagen mit zwei Druckgasflaschen. Eine der Flaschen hat eine kastanienbraune Farbe. Um welche Gase kann es sich hierbei handeln?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "um Kohlenstoffdioxid und Sauerstoff",
+        "um Acetylen und Sauerstoff",
+        "um Stickstoff und Kohlenstoffdioxid"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 9 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Sie gehen bei einem GABC-Einsatz zur Menschenrettung vor. Welche der folgenden Aussagen ist richtig?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Zur Menschenrettung darf im GABC-Einsatz nur geschützt durch einen Chemikalienschutzanzug vorgegangen werden.",
+        "Da zur Menschenrettung höchste Eile geboten ist, wird kein PA benötigt.",
+        "Zur Rettung von Menschenleben können Einsatzkräfte zunächst ohne vollständige Sonderausrüstung vorgehen."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welche der folgenden Aussagen ist richtig?",
@@ -141,15 +137,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 16 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 23. Welche Bedeutung haben diese Ziffern?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "brennbarer flüssiger Stoff, der Gase oder Dämpfe entwickelt",
+        "brennbarer gasförmiger Stoff, der flüssig wird",
+        "entzündbares Gas"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 606.",
@@ -179,15 +173,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 20 im Kapitel ABC-Gefahrstoffe - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Auf einer orangefarbenen Tafel befindet sich vor den Ziffern in der oberen Hälfte ein X. Welche Bedeutung hat dieses X?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Die Angaben auf der Warntafel sind ungültig (durchgestrichen).",
+        "Das Ladegut darf im Brandfall mit Wasser gelöscht werden.",
+        "Der Stoff reagiert in gefährlicher Weise mit Wasser."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Was wird in einem Eisenbahn-Kesselwagen transportiert, der mit einem 300 mm breiten orangefarbenen Ring in der Längsachse gekennzeichnet ist?",
