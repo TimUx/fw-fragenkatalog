@@ -9,6 +9,7 @@ const chapterSelect = document.getElementById("chapterSelect");
 const chapterReview = document.getElementById("chapterReview");
 const quiz = document.getElementById("quiz");
 const result = document.getElementById("result");
+const welcome = document.getElementById("welcome");
 
 // ======= HELPER FUNCTIONS ========
 function formatChapterDisplayName(filename) {
@@ -36,6 +37,7 @@ fetch("data/meta.json")
 
 // ======= UI ========
 async function openChapterMode(){
+    welcome.classList.add("hidden");
     chapterSelect.classList.remove("hidden");
     chapterReview.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -79,6 +81,7 @@ function loadChapter(name){
 
 // ======= CHAPTER REVIEW ========
 async function openChapterReview(){
+    welcome.classList.add("hidden");
     chapterReview.classList.remove("hidden");
     chapterSelect.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -165,6 +168,7 @@ async function startExam(){
 
 // ======= QUIZ ========
 function startQuiz(list){
+    welcome.classList.add("hidden");
     chapterSelect.classList.add("hidden");
     chapterReview.classList.add("hidden");
     result.classList.add("hidden");
@@ -230,6 +234,7 @@ function answer(i){
 }
 
 function showResult(){
+    welcome.classList.add("hidden");
     quiz.classList.add("hidden");
     chapterSelect.classList.add("hidden");
     chapterReview.classList.add("hidden");
