@@ -15,6 +15,18 @@ function formatChapterDisplayName(filename) {
     return filename.replace('.json', '').replace(/-/g, ' ');
 }
 
+async function ensureAllChaptersLoaded() {
+    await Promise.all(chapters.map(async ch => {
+        if (!loadedChapters[ch]) {
+            const r = await fetch(`data/${ch}`);
+            if (!r.ok) {
+                throw new Error(`Failed to load chapter ${ch}: ${r.status} ${r.statusText}`);
+            }
+            loadedChapters[ch] = await r.json();
+        }
+    }));
+}
+
 // ======= INIT ========
 fetch("data/meta.json")
 .then(r => r.json())
@@ -23,7 +35,7 @@ fetch("data/meta.json")
 });
 
 // ======= UI ========
-function openChapterMode(){
+async function openChapterMode(){
     chapterSelect.classList.remove("hidden");
     chapterReview.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -33,12 +45,22 @@ function openChapterMode(){
         <h2>Kapitel wählen</h2>
     `;
 
-    chapters.forEach(ch => {
-        let btn = document.createElement("button");
-        btn.innerText = formatChapterDisplayName(ch);
-        btn.onclick = () => loadChapter(ch);
-        chapterSelect.appendChild(btn);
-    });
+    try {
+        // Load all chapters in parallel
+        await ensureAllChaptersLoaded();
+
+        // Create buttons after all chapters are loaded
+        chapters.forEach(ch => {
+            const questionCount = loadedChapters[ch].questions.length;
+            let btn = document.createElement("button");
+            btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
+            btn.onclick = () => loadChapter(ch);
+            chapterSelect.appendChild(btn);
+        });
+    } catch(error) {
+        console.error("Error loading chapters:", error);
+        chapterSelect.innerHTML += `<p>Fehler beim Laden der Kapitel. Bitte versuchen Sie es erneut.</p>`;
+    }
 }
 
 function loadChapter(name){
@@ -56,7 +78,7 @@ function loadChapter(name){
 }
 
 // ======= CHAPTER REVIEW ========
-function openChapterReview(){
+async function openChapterReview(){
     chapterReview.classList.remove("hidden");
     chapterSelect.classList.add("hidden");
     quiz.classList.add("hidden");
@@ -69,13 +91,23 @@ function openChapterReview(){
 
     const listContainer = document.getElementById("reviewChapterList");
     
-    chapters.forEach(ch => {
-        let btn = document.createElement("button");
-        btn.innerText = formatChapterDisplayName(ch);
-        btn.className = "chapter-btn";
-        btn.onclick = () => showChapterContent(ch);
-        listContainer.appendChild(btn);
-    });
+    try {
+        // Load all chapters in parallel
+        await ensureAllChaptersLoaded();
+
+        // Create buttons after all chapters are loaded
+        chapters.forEach(ch => {
+            const questionCount = loadedChapters[ch].questions.length;
+            let btn = document.createElement("button");
+            btn.innerText = `${formatChapterDisplayName(ch)} (${questionCount})`;
+            btn.className = "chapter-btn";
+            btn.onclick = () => showChapterContent(ch);
+            listContainer.appendChild(btn);
+        });
+    } catch(error) {
+        console.error("Error loading chapters:", error);
+        listContainer.innerHTML = `<p>Fehler beim Laden der Kapitel. Bitte versuchen Sie es erneut.</p>`;
+    }
 }
 
 async function showChapterContent(name){
