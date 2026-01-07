@@ -3,6 +3,7 @@ let loadedChapters = {};
 let activeQuestions = [];
 let current = 0;
 let correct = 0;
+let userAnswers = []; // Track user's answers for each question
 
 const menu = document.getElementById("menu");
 const chapterSelect = document.getElementById("chapterSelect");
@@ -146,6 +147,7 @@ function startQuiz(list){
     activeQuestions = shuffle(list);
     current = 0;
     correct = 0;
+    userAnswers = []; // Reset user answers for new quiz
     loadQuestion();
 }
 
@@ -180,6 +182,13 @@ function answer(i){
     const q = activeQuestions[current];
     const answers = document.querySelectorAll(".answer");
 
+    // Store user's answer
+    userAnswers.push({
+        question: q,
+        userAnswerIndex: i,
+        isCorrect: i === q.correctIndex
+    });
+
     if(i === q.correctIndex){
         answers[i].classList.add("correct");
         correct++;
@@ -198,11 +207,63 @@ function showResult(){
     quiz.classList.add("hidden");
     result.classList.remove("hidden");
 
-    result.innerHTML = `
+    const totalQuestions = activeQuestions.length;
+    const percentage = Math.round((correct / totalQuestions) * 100);
+    
+    // Filter incorrect answers
+    const incorrectAnswers = userAnswers.filter(ua => !ua.isCorrect);
+
+    let resultHTML = `
         <h2>Ergebnis</h2>
-        <p>${correct} von ${activeQuestions.length} richtig</p>
+        <p>${correct} von ${totalQuestions} richtig (${percentage}%)</p>
         <button onclick="backToMenu()">Zurück zum Start</button>
     `;
+
+    // Show incorrect questions if any
+    if(incorrectAnswers.length > 0){
+        resultHTML += `
+            <div class="incorrect-section">
+                <h3>Falsch beantwortete Fragen:</h3>
+                <div class="incorrect-questions">
+        `;
+
+        incorrectAnswers.forEach((ua, index) => {
+            const q = ua.question;
+            resultHTML += `
+                <div class="incorrect-item">
+                    <div class="incorrect-number">${index + 1}.</div>
+                    <div class="incorrect-details">
+                        <div class="incorrect-question">${q.question}</div>
+                        ${q.image ? `<img src="${q.image}" class="pictogram" alt="Frage Bild">` : ''}
+                        <div class="incorrect-answers">
+                            ${q.answers.map((a, i) => {
+                                let classes = 'incorrect-answer';
+                                let prefix = '';
+                                
+                                if(i === q.correctIndex){
+                                    classes += ' answer-correct-review';
+                                    prefix = '✓ ';
+                                }
+                                if(i === ua.userAnswerIndex){
+                                    classes += ' answer-wrong-review';
+                                    prefix = '✗ ';
+                                }
+                                
+                                return `<div class="${classes}">${prefix}${a}</div>`;
+                            }).join('')}
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+
+        resultHTML += `
+                </div>
+            </div>
+        `;
+    }
+
+    result.innerHTML = resultHTML;
 }
 
 function shuffle(arr){
