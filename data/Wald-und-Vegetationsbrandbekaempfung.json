@@ -1,0 +1,97 @@
+{
+  "title": "Wald- und Vegetationsbrandbekämpfung",
+  "questions": [
+    {
+      "question": "Wofür stehen die Buchstaben der Sicherheitsregel FRAU in der Wald- und Vegetationsbrandbekämpfung?",
+      "answers": [
+        "Funkenflug, Rückenwind, Ausbreitung und Unwegsamkeit",
+        "Flächengröße, Rundumschau, Ausmaß und Überwachung",
+        "Funk (Kommunikation), Rückweichen/Ankerpunkt, Ausschau und Überwachung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Aussage zur Flammenlänge ist richtig?",
+      "answers": [
+        "Die Flammenlänge entspricht der direkten Länge der Flammen, vom Boden aus betrachtet,",
+        "senkrecht in die Höhe.",
+        "Die Flammenlänge bezeichnet die Entfernung der Flammenspitze vom Boden, im direkten"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche waldbaulichen Maßnahmen dienen zur Vorbeugung von Waldbränden und deren Ausbreitung?",
+      "answers": [
+        "Schutzstreifen, Wundstreifen und Waldbrandriegel",
+        "Schutzriegel, Wundstreifen und Waldbrandriegel",
+        "Schutzwall, Wundstreifen und Waldbrandriegelstellung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche natürlichen Faktoren beeinflussen unter anderem die Brandintensität bei Wald- und Vegetationsbränden?",
+      "answers": [
+        "Verfügbarkeit von Löschwasser, Topografie und Wetter",
+        "Gipfelhöhe, Wetter und Gezeiten",
+        "Wetter, Topografie und Vegetation"
+      ],
+      "correctIndex": 2,
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page138_img1.png"
+    },
+    {
+      "question": "Welche Aussage zur Brandbeeinflussung durch Topografie trifft zu?",
+      "answers": [
+        "Durch 10 % Hangneigung wird die Feuergeschwindigkeit verdoppelt.",
+        "Pro 10° Steigung am Hang verdoppelt sich die Feuergeschwindigkeit.",
+        "Pro 10° Hangneigung nimmt die Brandausbreitung um die Hälfte zu und ab 30° Steigung ist mit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ab welchem Geländeneigungswinkel (Steinschlagwinkel) kann die Brandausbreitung bergab durch abrollendes, brennendes Material verstärkt werden?",
+      "answers": [
+        "Ab einem Geländeneigungswinkel von ca. 35°.",
+        "Ab einem Geländeneigungswinkel von ca. 30 %.",
+        "Ab einem Geländeneigungswinkel von ca. 30°."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Arten von Waldbränden, als Sammelbegriff für alle Brände im Wald, gibt es nach Rahmenempfehlung Wald- und Vegetationsbrandbekämpfung in Hessen?",
+      "answers": [
+        "Laubfeuer, Bodenfeuer, Vollbrand, Moorbrand, Kronen/Wipfelfeuer und Erdfeuer",
+        "Bodenfeuer, Kronenfeuer/Wipfelfeuer, Vollfeuer, Stammfeuer, Erdfeuer und Wurzelfeuer",
+        "Bodenfeuer, Kronenfeuer/Wipfelfeuer, Vollbrand, Baumbrand, Erdfeuer, Wurzelfeuer und"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Begrifflichkeiten sind der Wald- und Vegetationsbrandbekämpfung zuzuordnen?",
+      "answers": [
+        "Schwarzbereich, Feuerflanke, Feuerfront, Flammenhöhe und Flammenlänge",
+        "Aschebereich, Brandflanken, Feuerfront, Flammentiefe und Flammenbreite",
+        "Schwarzbereich, Glutbereiche, Feuerflanke, Feuerfront, Flammenhöhe, Flammenlänge und"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wofür steht das folgende Zeichen in einer aktuellen Waldbrandeinsatzkarte?",
+      "answers": [
+        "Saugstelle am offenen Gewässer",
+        "Saugstelle aus einem Löschwasserbehälter",
+        "Saugstelle aus einem Brunnen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wofür steht das folgende Zeichen in einer aktuellen Waldbrandeinsatzkarte?",
+      "answers": [
+        "Einrichtung des Zivil- und Katastrophenschutzes",
+        "Forstamt",
+        "Achtung hohe Steinschlaggefahr"
+      ],
+      "correctIndex": 1,
+      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page140_img1.png"
+    }
+  ]
+}

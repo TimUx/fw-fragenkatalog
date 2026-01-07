@@ -1,0 +1,177 @@
+{
+  "title": "Lebensrettende Sofortmaßnahmen (Erste Hilfe)",
+  "questions": [
+    {
+      "question": "Wann darf eine Herz-Lungen-Wiederbelebung eingestellt werden?",
+      "answers": [
+        "wenn nach 15 Minuten kein Lebenszeichen und keine Atmung mehr feststellbar sind",
+        "wenn man den Tod der Person durch die eigene Einschätzung festgestellt hat",
+        "wenn ein Arzt den Tod der Person festgestellt hat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Maßnahmen sind zulässig, um eine lebensbedrohende Blutung zu stillen?",
+      "answers": [
+        "verletzte Stelle hochhalten, Arterie, wenn möglich, abdrücken und einen Druckverband anlegen",
+        "verletzte Stelle hochhalten und durch starke Kühlung die Blutung stoppen",
+        "Lebensbedrohende Blutungen lassen sich durch beide vorgenannten Maßnahmen nicht stillen."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie sind Verätzungen durch Säuren oder Laugen zu behandeln?",
+      "answers": [
+        "Wunde mit einem sauberen Wolltuch abdecken",
+        "Wunde mit möglichst viel sauberem Wasser drucklos spülen",
+        "Wunde mit einem wasserfesten Pflaster abdecken"
+      ],
+      "correctIndex": 1,
+      "image": "assets/piktos/Lebensrettende-Sofortmassnahmen-Erste-Hilfe_page53_img1.png"
+    },
+    {
+      "question": "Worauf muss beim Spülen einer verätzten Wunde geachtet werden?",
+      "answers": [
+        "Verätzungen werden nicht gespült.",
+        "Die Spülflüssigkeit muss frei ablaufen können.",
+        "Säureverätzungen werden mit Spülmittel (basisch) gespült, dadurch wird gleichzeitig die Säure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Methode ist richtig, um die Atmung bei einer bewusstlosen Person zu überprüfen?",
+      "answers": [
+        "Die Atmung darf nur von einem Rettungsassistenten kontrolliert werden.",
+        "durch Annähern der eigenen Wange an Mund und Nase des Bewusstlosen, Auflegen der Hand",
+        "auf den Bauchraum und Beobachten des Bauchraumes über die Brust hinweg (sehen, hören,"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wodurch wird die Schwere einer Hautschädigung durch eine Verbrennung hauptsächlich",
+      "answers": [
+        "bestimmt?",
+        "durch die Temperatur und die Einwirkungsdauer der Wärmequelle",
+        "durch die Feuerwiderstandsklasse der Kleidung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum wird bei einer schweren Augenverletzung ein Verband über beide Augen angelegt?",
+      "answers": [
+        "Weil die Sehkraft durch das Eindringen von Krankheitserregern über beide Augen gefährdet ist.",
+        "Der Verletzte wird dadurch allgemein ruhiger.",
+        "Beide Augen bewegen sich immer gleichzeitig."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche lebensrettenden Sofortmaßnahmen sind von einem Ersthelfer durchzuführen, wenn er eine bewusstlose Person vorfindet?",
+      "answers": [
+        "die Person ansprechen, um Hilfe rufen (ggf. Notruf), die Atmung kontrollieren, auf sichtbare",
+        "sofort Schürfwunden keimfrei abdecken und mit einem Druckverband versorgen",
+        "Damit die Person atmen kann, wird sie mit erhöhtem Oberkörper gelagert."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welcher Rhythmus ist bei der Herz-Lungen-Wiederbelebung eines Erwachsenen richtig?",
+      "answers": [
+        "30 Herzdruckmassagen und 2 Beatmungen im Wechsel",
+        "2 Beatmungen und 15 Herzdruckmassagen im Wechsel",
+        "eine Beatmung und anschließend 5 Herzdruckmassagen und 2 Beatmungen im Wechsel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Einem Unfallopfer wurde das Bein am Becken abgerissen. Was ist zu tun, um die Blutung zu",
+      "answers": [
+        "stillen?",
+        "Die Blutung ist durch Aufpressen von weichem, möglichst keimfreien Material auf die",
+        "Blutungsstelle zu stillen."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Können großflächige Verbrennungen die Ursache für einen Schock sein?",
+      "answers": [
+        "Nein, bei einer Verbrennung verkrustet das Gewebe. Es ist somit vor Flüssigkeitsverlusten",
+        "geschützt.",
+        "ja, da Flüssigkeitsverluste im Körper entstehen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Maßnahmen sind bei einer offensichtlich unterkühlten Person durchzuführen?",
+      "answers": [
+        "Der Person muss Alkohol in kleinen Mengen verabreicht werden.",
+        "Die Person muss sofort bewegt werden, um den Kreislauf anzuregen.",
+        "Die Person muss vor weiterem Wärmeverlust geschützt werden."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Symptome deuten auf eine Gehirnerschütterung hin?",
+      "answers": [
+        "Sehstörungen, Hörstörungen",
+        "Übelkeit, Erbrechen, evtl. Bewusstlosigkeit",
+        "blutunterlaufene Augen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Symptome veranlassen Sie, eine Person in der stabilen Seitenlage zu lagern?",
+      "answers": [
+        "Bewusstlosigkeit",
+        "Übelkeit",
+        "stark blutende Wunden"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was ist beim Anlegen eines Druckverbandes zu beachten?",
+      "answers": [
+        "Ein Druckverband kann nur am Unterarm angelegt werden.",
+        "Ein Druckverband darf keine vollständige Stauung verursachen.",
+        "Ein Druckverband kann nur mit einem Dreiecktuch hergestellt werden."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann darf der Rautek-Rettungsgriff angewendet werden?",
+      "answers": [
+        "wenn eine andere Möglichkeit der schnellen und schonenden Rettung nicht besteht",
+        "(z. B. brennendes Fahrzeug)",
+        "um einen Patienten in die Patientenablage (MANV) zu transportieren"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Aussage zur Kühlung einer Verbrennung ist richtig?",
+      "answers": [
+        "Eine Kühlung ist nur dann zulässig, wenn das Unfallgeschehen nicht länger als 15 Minuten",
+        "zurückliegt und nicht mehr als 5 % der Körperoberfläche verbrannt sind.",
+        "Es muss generell mindestens 15 Minuten lang mit möglichst kaltem Wasser kühlen werden."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Maßnahme muss bei einer bewusstlosen Person durchgeführt werden, nachdem",
+      "answers": [
+        "Wärmeerhalt",
+        "Kühlung",
+        "Blutdruckmessung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Drucktiefe ist bei der Reanimation eines Erwachsenen erforderlich?",
+      "answers": [
+        "eine Drucktiefe von 2 bis 3 cm",
+        "eine Drucktiefe von 5 bis 6 cm",
+        "eine Drucktiefe von 5 bis 8 cm"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

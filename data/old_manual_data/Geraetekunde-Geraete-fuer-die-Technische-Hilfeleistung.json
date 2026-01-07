@@ -1,0 +1,123 @@
+{
+  "title": "Gerätekunde: Geräte für die Technische Hilfeleistung",
+  "questions": [
+    {
+      "question": "Dürfen nach FwDV 1 „Grundtätigkeiten“ gehärtete Metallteile mit hydraulisch betriebenen Schneidgeräten getrennt werden?",
+      "answers": [
+        "ja",
+        "nein",
+        "Das entscheidet der Truppführer von Fall zu Fall."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welcher Sicherheitsabstand ist grundsätzlich bei unter Last stehenden Drahtseilen mindestens einzuhalten?",
+      "answers": [
+        "die halbe Seillänge",
+        "das 1,5-fache der wirksamen Seillänge",
+        "die doppelte Seillänge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bis zu welchem Winkel darf die hydraulische Winde bei der Verwendung der balligrunden Fußplatte höchstens genutzt werden?",
+      "answers": [
+        "bis zu einem Winkel von 75° zur Ebene der Fußplatte",
+        "bis zu einem Winkel von 65° zur Ebene der Fußplatte",
+        "bis zu einem Winkel von 55° zur Ebene der Fußplatte"
+      ],
+      "correctIndex": 0,
+      "image": "assets/piktos/Geraetekunde-Geraete-fuer-die-Technische-Hilfeleistung_page46_img1.png"
+    },
+    {
+      "question": "Welchem Zweck dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt",
+      "answers": [
+        "werden?",
+        "zum Heben oder Drücken von Lasten bei der technischen Hilfeleistung",
+        "zum Wechseln eines defekten Reifens"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie hoch ist der zulässige Betriebsdruck von hydraulischen Rettungsgeräten nach DIN EN 13204 (doppelt wirkende hydraulische Rettungsgeräte)?",
+      "answers": [
+        "mindestens 630 bar",
+        "Der maximal zulässige Betriebsdruck ist nicht begrenzt.",
+        "maximal 720 bar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Kraft entwickelt der einfach wirkende Hydraulikzylinder des hydraulischen Hebesatzes nach DIN 14800-6 2007-05?",
+      "answers": [
+        "mindestens 120 kN",
+        "maximal 150 kN",
+        "nach Herstellerangaben"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Aussage über Druckluftquellen bei Hebekissensystemen > 1 bar ist richtig?",
+      "answers": [
+        "Es dürfen nur mitgeführte Druckluftflaschen verwendet werden.",
+        "Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder die Druckluftanlage",
+        "eines LKW genutzt werden."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wer darf Werkzeuge/Zubehör aus dem Feuerwehr-Elektrowerkzeugkasten einsetzen?",
+      "answers": [
+        "nur der Einheitsführer",
+        "nur der Truppführer des befohlenen Trupps",
+        "elektrotechnisch unterwiesene Feuerwehrangehörige, sofern keine Elektrofachkraft vor Ort ist"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welchem Einsatzzweck dienen Bindemittel?",
+      "answers": [
+        "Sie dürfen ausschließlich nur bei ausgelaufenen Mineralölprodukten eingesetzt werden.",
+        "Sie dienen dem Zweck, gefährliche flüssige Stoffe abzustreuen und damit die Stoffe zu binden.",
+        "Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist beim Anheben einer Last bei einem Hebekissensystem > 1 bar zu beachten?",
+      "answers": [
+        "Die Hebekissen dürfen nur paarweise verwendet werden.",
+        "Es dürfen maximal zwei Hebekissen übereinander eingesetzt werden.",
+        "Ein Unterbauen ist aufgrund der geringen Hubhöhe nicht notwendig."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche der nachfolgenden Aussagen trifft für einen Hebebaum zu?",
+      "answers": [
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.",
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.",
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Aussage zum Einsatz von Druckkissen ist nach der FwDV 1 „Grundtätigkeiten“",
+      "answers": [
+        "richtig?",
+        "Es müssen mindestens 50 % der Kissenfläche unter der Last liegen.",
+        "Es müssen mindestens 75 % der Kissenfläche unter der Last liegen."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Durch welche Einschlagrichtung der Erdnägel kann ein Erdanker die größte Zugkraft",
+      "answers": [
+        "aufnehmen?",
+        "entgegen der Zugrichtung",
+        "in Zugrichtung"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
