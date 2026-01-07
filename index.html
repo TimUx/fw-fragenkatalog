@@ -78,7 +78,7 @@
                     <li>📱 <strong>Progressive Web App (PWA):</strong> Installierbar auf dem Startbildschirm, funktioniert offline</li>
                     <li>🎯 <strong>Sofortiges Feedback:</strong> Erhalte direkt nach jeder Antwort eine Rückmeldung</li>
                     <li>📊 <strong>Detaillierte Auswertung:</strong> Am Ende siehst du alle falsch beantworteten Fragen mit den richtigen Antworten</li>
-                    <li>📚 <strong>Umfangreicher Fragenkatalog:</strong> Über 670 Fragen aus dem offiziellen Katalog der Feuerwehr Hessen</li>
+                    <li>📚 <strong>Umfangreicher Fragenkatalog:</strong> Über 699 Fragen aus dem offiziellen Katalog der Feuerwehr Hessen</li>
                 </ul>
             </div>
             
@@ -100,7 +100,7 @@
 // Register service worker for PWA functionality
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('./sw.js')
       .then(registration => {
         console.log('Service Worker registered successfully:', registration.scope);
       })
