@@ -166,9 +166,9 @@
     {
       "question": "Sie wollen mit der Luft Ihres Pressluftatmers sparsam umgehen. Wie können Sie das erreichen?",
       "answers": [
-        "den Lungenautomat bei längerem Anmarschweg erst vor dem Gefahrenbereich anschrauben",
-        "lassen",
-        "das Atemschutzgerät erst beim Erkennen der Atemgifte anlegen"
+        "den Lungenautomat bei längerem Anmarschweg erst vor dem Gefahrenbereich anschrauben lassen",
+        "das Atemschutzgerät erst beim Erkennen der Atemgifte anlegen",
+        "die Ventile der Atemluftflaschen erst im Gefahrenbereich öffnen"
       ],
       "correctIndex": 0
     },
@@ -195,7 +195,7 @@
       "answers": [
         "Hohlstrahlrohr",
         "Feuerwehraxt, Seilschlauchhalter",
-        "Türen werden grundsätzlich ohne Hilfsmittel geöffnet, um ein schnelleres Vorgehen zu"
+        "Türen werden grundsätzlich ohne Hilfsmittel geöffnet, um ein schnelleres Vorgehen zu ermöglichen"
       ],
       "correctIndex": 1
     },
@@ -204,7 +204,7 @@
       "answers": [
         "Die Brandfluchthaube schützt eine Person vor allen Atemgiften.",
         "Die Brandfluchthaube schützt eine zu rettende Person vor Sauerstoffmangel.",
-        "Die Rettung über tragbare Leitern ist im Regelfall einer Rettung durch verrauchte Bereiche"
+        "Die Rettung über tragbare Leitern ist im Regelfall einer Rettung durch verrauchte Bereiche mittels Brandfluchthaube vorzuziehen"
       ],
       "correctIndex": 2
     },
@@ -275,8 +275,8 @@
       "question": "Warum ist es wichtig, nach Rücksprache mit dem Einheitsführer, Lüftungsmaßnahmen in verrauchten Bereichen durchzuführen?",
       "answers": [
         "Um dem Melder das Betreten der Räume zu ermöglichen.",
-        "Um die Sichtverhältnisse zu verbessern und somit ein schnelleres Auffinden des Brandherdes",
-        "oder von Personen zu ermöglichen."
+        "Um die Sichtverhältnisse zu verbessern und somit ein schnelleres Auffinden des Brandherdes oder von Personen zu ermöglichen.",
+        "Um die heterogene Löschwirkung des Wassers zu verbessern."
       ],
       "correctIndex": 1
     },
