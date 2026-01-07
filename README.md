@@ -2,22 +2,68 @@
 
 Ein interaktives Quiz-System zur Vorbereitung auf die Leistungsübungen der Feuerwehr Hessen. Diese Anwendung ermöglicht es Feuerwehrleuten, ihr Wissen in verschiedenen Themenbereichen zu testen und zu festigen.
 
+## 📑 Inhaltsverzeichnis
+
+- [🚒 Über das Projekt](#-über-das-projekt)
+- [🌐 Live-App nutzen](#-live-app-nutzen)
+- [✨ Features](#-features)
+- [📸 Screenshots](#-screenshots)
+- [🚀 First Steps – Loslegen](#-first-steps--loslegen)
+- [🛠️ Technologie-Stack](#️-technologie-stack)
+- [📁 Projektstruktur](#-projektstruktur)
+- [🚀 Lokale Verwendung](#-lokale-verwendung)
+- [📝 Fragen hinzufügen oder bearbeiten](#-fragen-hinzufügen-oder-bearbeiten)
+- [📱 Progressive Web App (PWA)](#-progressive-web-app-pwa)
+- [🌐 Deployment](#-deployment)
+- [📊 Datenstand](#-datenstand)
+- [🔗 Links](#-links)
+
 ## 🚒 Über das Projekt
 
 Dieses Projekt wurde entwickelt, um Feuerwehrangehörige der Feuerwehr Willingshausen bei der Vorbereitung auf Leistungsprüfungen zu unterstützen. Die Anwendung bietet eine benutzerfreundliche Oberfläche zum Lernen und Üben von Fragen aus dem offiziellen Fragenkatalog der Feuerwehr Hessen.
 
-**Live-Demo:** [https://timux.github.io/fw-fragenkatalog/](https://timux.github.io/fw-fragenkatalog/)
+## 🌐 Live-App nutzen
+
+Die App ist **kostenlos und ohne Installation** online verfügbar:
+
+**🔗 https://fragenkatalog.feuerwehr-willingshausen.de**
+
+Alternativ auch erreichbar unter: [https://timux.github.io/fw-fragenkatalog/](https://timux.github.io/fw-fragenkatalog/)
 
 ## ✨ Features
 
-- **Kapiteltraining**: Wählen Sie spezifische Themengebiete aus, um gezielt zu üben (mit Fragenanzahl)
+- **Kapiteltraining**: Wählen Sie spezifische Themengebiete aus, um gezielt zu üben
 - **Prüfungsmodus**: Simulieren Sie eine echte Prüfung mit 30 zufälligen Fragen
 - **Kapitel nachlesen**: Schauen Sie sich alle Fragen und korrekten Antworten eines Kapitels in Ruhe an
 - **Sofortiges Feedback**: Erhalten Sie direkt nach jeder Antwort eine Rückmeldung
 - **Detaillierte Auswertung**: Am Ende sehen Sie alle falsch beantworteten Fragen mit den richtigen Antworten
 - **Responsives Design**: Funktioniert auf Desktop, Tablet und Smartphone
 - **Progressive Web App (PWA)**: Installierbar auf Startbildschirm, funktioniert offline
-- **Umfangreicher Fragenkatalog**: Über 670 Fragen aus dem offiziellen Katalog der Feuerwehr Hessen
+- **Umfangreicher Fragenkatalog**: Über 699 Fragen aus 24 Kapiteln des offiziellen Katalogs der Feuerwehr Hessen
+
+## 📸 Screenshots
+
+### Startseite mit Willkommensbereich
+![Startseite](https://github.com/user-attachments/assets/2f139859-6464-4788-8196-8de1a010905b)
+
+### Kapitelauswahl
+![Kapitelauswahl](https://github.com/user-attachments/assets/e0116a6f-97b1-4ddf-81c3-30b86a2fbf7a)
+
+## 🚀 First Steps – Loslegen
+
+1. **Öffnen Sie die App:** Besuchen Sie [https://fragenkatalog.feuerwehr-willingshausen.de](https://fragenkatalog.feuerwehr-willingshausen.de)
+
+2. **Wählen Sie einen Modus:**
+   - **Kapiteltraining**: Ideal zum gezielten Üben einzelner Themen
+   - **Prüfungsmodus**: 30 zufällige Fragen zur Prüfungssimulation
+   - **Kapitel nachlesen**: Alle Fragen mit Antworten zum Durchlesen
+
+3. **Optional – Als App installieren:**
+   - **Auf Mobilgeräten:** Tippen Sie auf "Zum Startbildschirm hinzufügen"
+   - **Auf Desktop:** Klicken Sie auf das Install-Symbol in der Adressleiste
+   - Vorteil: Offline-Nutzung und schneller Zugriff
+
+4. **Loslegen und lernen!** 🎓
 
 ## 🛠️ Technologie-Stack
 
@@ -46,14 +92,9 @@ fw-fragenkatalog/
 └── README.md           # Diese Datei
 ```
 
-## 🚀 Verwendung
+## 🚀 Lokale Verwendung
 
-### Online-Zugriff
-
-Die Anwendung ist online verfügbar unter:
-**https://timux.github.io/fw-fragenkatalog/**
-
-### Lokale Verwendung
+Falls Sie die Anwendung lokal ausführen möchten:
 
 1. Klonen Sie das Repository:
    ```bash
@@ -74,11 +115,6 @@ Die Anwendung ist online verfügbar unter:
    ```
 
 3. Öffnen Sie `http://localhost:8000` in Ihrem Browser
-
-4. Wählen Sie einen Modus:
-   - **Kapiteltraining**: Üben Sie gezielt einzelne Themen
-   - **Prüfungsmodus**: Testen Sie Ihr Wissen mit 30 zufälligen Fragen
-   - **Kapitel nachlesen**: Lesen Sie alle Fragen und Antworten ohne Zeitdruck
 
 ## 📝 Fragen hinzufügen oder bearbeiten
 
@@ -203,7 +239,7 @@ Da es sich um eine statische Website handelt, kann sie auf jedem Webserver oder 
 **Aktueller Stand:** Januar 2026
 
 - **24 Kapitel** vollständig implementiert
-- **Über 670 Fragen** aus dem offiziellen Fragenkatalog
+- **699 Fragen** aus dem offiziellen Fragenkatalog
 - **96% Abdeckung** des offiziellen Fragenkatalogs Hessen
 
 Die Fragen wurden automatisch aus dem offiziellen PDF-Fragenkatalog der Feuerwehr Hessen (Version 01/26) extrahiert.

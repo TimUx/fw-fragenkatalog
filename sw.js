@@ -1,11 +1,11 @@
 const CACHE_NAME = 'ffw-fragenkatalog-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/style.css',
-  '/assets/wappen.png',
-  '/data/meta.json'
+  './',
+  './index.html',
+  './app.js',
+  './style.css',
+  './assets/wappen.png',
+  './data/meta.json'
 ];
 
 // Install event - cache static assets

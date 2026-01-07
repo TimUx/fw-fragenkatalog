@@ -2,7 +2,7 @@
   "name": "FW Willingshausen Fragenkatalog",
   "short_name": "FW Fragenkatalog",
   "description": "Interaktiver Fragenkatalog für die Feuerwehr Hessen zur Vorbereitung auf Leistungsprüfungen",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#2c3e50",
   "theme_color": "#2c3e50",
