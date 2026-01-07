@@ -38,15 +38,14 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 5 im Kapitel Brennen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "In welchem Temperaturbereich liegt der Flammpunkt brennbarer Flüssigkeiten, die mit dem folgenden Gefahrensymbol gekennzeichnet sind?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Der Flammpunkt liegt unter 0 °C.",
+        "Der Flammpunkt liegt unter 23 °C.",
+        "Der Flammpunkt liegt zwischen 23 °C und 60 °C."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_page22_img1.png"
     },
     {
       "question": "Wie nennt man eine explosionsartige Verbrennung von Pyrolyse- und Schwelgasen in einem Brandraum mit unzureichender Sauerstoffkonzentration, die dann stattfindet, wenn Luft zugeführt wird?",
@@ -172,7 +171,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "image": "assets/piktos/Brennen_page24_img1.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -181,7 +181,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von flüssigen oder flüssig werdenden Stoffen"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_page24_img2.png"
     },
     {
       "question": "Für welche Brandklasse ist ein mit folgendem Bildzeichen gekennzeichneter Feuerlöscher geeignet?",
@@ -190,7 +191,8 @@
         "für Brände von gasförmigen Stoffen",
         "für Brände von Metallen"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "image": "assets/piktos/Brennen_page25_img1.png"
     },
     {
       "question": "Welcher der angegebenen Stoffe brennt nur mit Flamme?",
@@ -635,7 +637,8 @@
         "für Brände von Speiseölen und -fetten in Frittier- und Fettbackgeräten",
         "für Brände von gasförmigen Stoffen"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "image": "assets/piktos/Brennen_page33_img1.png"
     },
     {
       "question": "Warum werden Brände von Metallen in eine eigene Brandklasse eingeteilt?",
