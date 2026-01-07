@@ -22,7 +22,10 @@ function openChapterMode(){
     menu.classList.add("hidden");
     chapterSelect.classList.remove("hidden");
 
-    chapterSelect.innerHTML = `<h2>Kapitel wählen</h2>`;
+    chapterSelect.innerHTML = `
+        <h2>Kapitel wählen</h2>
+        <button onclick="backToMenu()" class="back-btn">Zurück zum Menü</button>
+    `;
 
     chapters.forEach(ch => {
         let btn = document.createElement("button");
@@ -196,7 +199,7 @@ function showResult(){
     result.innerHTML = `
         <h2>Ergebnis</h2>
         <p>${correct} von ${activeQuestions.length} richtig</p>
-        <button onclick="location.reload()">Zurück zum Start</button>
+        <button onclick="backToMenu()">Zurück zum Start</button>
     `;
 }
 
