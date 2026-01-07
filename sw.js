@@ -33,7 +33,8 @@ self.addEventListener('fetch', event => {
         return fetch(event.request).then(
           response => {
             // Check if we received a valid response
-            if (!response || response.status !== 200 || response.type !== 'basic') {
+            // Don't cache opaque responses (no-cors requests)
+            if (!response || !response.ok || response.type === 'opaque') {
               return response;
             }
 
@@ -65,8 +66,8 @@ self.addEventListener('activate', event => {
           }
         })
       );
+    }).then(() => {
+      return self.clients.claim();
     })
   );
-  
-  return self.clients.claim();
 });
