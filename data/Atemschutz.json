@@ -67,9 +67,9 @@
     {
       "question": "Warum ist es wichtig, dass der vorgehende Atemschutztrupp regelmäßige Rückmeldungen mittels Sprechfunk an den Einheitsführer gibt?",
       "answers": [
-        "Für den Einheitsführer sind die Informationen aus dem Inneren eines Gebäudes zur Beurteilung",
-        "der Lage wichtig.",
-        "um einer elektrostatischen Aufladung des Sprechfunkgerätes entgegenzuwirken"
+        "Für den Einheitsführer sind die Informationen aus dem Inneren eines Gebäudes zur Beurteilung der Lage wichtig.",
+        "um einer elektrostatischen Aufladung des Sprechfunkgerätes entgegenzuwirken",
+        "Durch diese Maßnahme kann der Rückweg des vorgehenden Trupps gesichert werden."
       ],
       "correctIndex": 0
     },
@@ -78,18 +78,18 @@
       "answers": [
         "weil es sich leicht mit den weißen Blutkörperchen verbindet",
         "weil es ab 8 Vol.-% im Blut eine lähmende Wirkung des Atemzentrums hervorruft",
-        "weil es mit dem Hämoglobin (Farbstoff der roten Blutkörperchen) eine feste Verbindung eingeht"
+        "weil es mit dem Hämoglobin (Farbstoff der roten Blutkörperchen) eine feste Verbindung eingeht und somit die Sauerstoffaufnahme verhindert"
       ],
       "correctIndex": 2
     },
     {
       "question": "Was machen Sie nach einem Einsatz mit Ihrem Atemschutzgerät?",
       "answers": [
-        "Sie wechseln die Atemluftflasche, führen eine Einsatzkurzprüfung durch und Verlasten das",
-        "Atemschutzgerät auf das Löschfahrzeug.",
-        "Sie veranlassen die Wartung des Atemschutzgerätes (einschließlich des Atemanschlusses) in"
+        "Sie wechseln die Atemluftflasche, führen eine Einsatzkurzprüfung durch und Verlasten das Atemschutzgerät auf das Löschfahrzeug.",
+        "Sie veranlassen die Wartung des Atemschutzgerätes (einschließlich des Atemanschlusses) in Abstimmung mit dem Fahrzeugführer.",
+        "Sie waschen die Vollmaske mit Seife kurz aus, wischen sie mit einem Papiertuch trocken und legen sie wieder ins Löschfahrzeug."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wodurch kann eine Atemkrise entstehen?",
