@@ -5,7 +5,6 @@ let current = 0;
 let correct = 0;
 let userAnswers = []; // Track user's answers for each question
 
-const menu = document.getElementById("menu");
 const chapterSelect = document.getElementById("chapterSelect");
 const chapterReview = document.getElementById("chapterReview");
 const quiz = document.getElementById("quiz");
@@ -115,13 +114,6 @@ async function showChapterContent(name){
         `;
         content.appendChild(qaItem);
     });
-}
-
-function backToMenu(){
-    chapterSelect.classList.add("hidden");
-    chapterReview.classList.add("hidden");
-    quiz.classList.add("hidden");
-    result.classList.add("hidden");
 }
 
 // ======= EXAM MODE ========
