@@ -1,0 +1,275 @@
+{
+  "title": "Fahrzeugkunde",
+  "questions": [
+    {
+      "question": "Welche Aufgabe hat der Maschinist?",
+      "answers": [
+        "Leitet Einsatzstelle",
+        "Bedient Fahrzeug und Pumpe",
+        "Führt Angriffstrupp"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Fahrzeug ist typisches Löschgruppenfahrzeug?",
+      "answers": [
+        "LF 10/6",
+        "RW",
+        "TLF 4000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was ist der Unterschied zwischen LF und TLF?",
+      "answers": [
+        "TLF hat Wassertank und weniger Mannschaft",
+        "LF hat Tank",
+        "keiner"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Norm regelt Feuerwehrfahrzeuge?",
+      "answers": [
+        "DIN EN",
+        "FwDV 3",
+        "DIN 14530"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Was befindet sich typischerweise IMMER auf Löschfahrzeugen?",
+      "answers": [
+        "Rettungssatz",
+        "Schere/Spreizer",
+        "Beladung zur Brandbekämpfung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welches Fahrzeug führt in der Regel den Rüstsatz?",
+      "answers": [
+        "LF",
+        "RW",
+        "MTW"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Besatzung hat ein LF 10 in der Regel?",
+      "answers": [
+        "Staffel",
+        "Gruppe",
+        "Trupp"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet Gruppenbesatzung?",
+      "answers": [
+        "1/5",
+        "1/8",
+        "1/2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Aufgabe hat der Angriffstrupp?",
+      "answers": [
+        "Leitung",
+        "Brandbekämpfung/Menschenrettung",
+        "Absperren"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wer gibt Befehle im Fahrzeug?",
+      "answers": [
+        "Maschinist",
+        "Angriffstrupp",
+        "Gruppenführer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wozu dient die Umfeldbeleuchtung?",
+      "answers": [
+        "Deko",
+        "Erhöhung der Sicherheit",
+        "nur im Einsatz unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was gehört zur Fahrzeugbeladung für TH?",
+      "answers": [
+        "Strahlrohre",
+        "Hydraulikwerkzeug",
+        "Schaumpistole"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Farbe hat typisches Feuerwehrfahrzeug in Deutschland?",
+      "answers": [
+        "rot",
+        "blau",
+        "gelb"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was ist ein TSF-W?",
+      "answers": [
+        "Tanklöschfahrzeug",
+        "Tragkraftspritzenfahrzeug mit Wasser",
+        "Technische Hilfe Einheit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet Allradantrieb bei Feuerwehrfahrzeugen?",
+      "answers": [
+        "nur Hinterachse angetrieben",
+        "alle Räder angetrieben",
+        "nur Deko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist eine Schnellangriffseinrichtung?",
+      "answers": [
+        "fest montierter, sofort einsatzbereiter Löschschlauch",
+        "Luftanschluss",
+        "Stromkabel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Warnsysteme haben Feuerwehrfahrzeuge?",
+      "answers": [
+        "nur Licht",
+        "Sondersignalanlage (Blaulicht + Horn)",
+        "keine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Ordnung auf Fahrzeug wichtig?",
+      "answers": [
+        "besser aussehend",
+        "Zeitersparnis + Sicherheit",
+        "egal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Geräte dienen zur Beleuchtung?",
+      "answers": [
+        "Warnblinker",
+        "Stativ mit Scheinwerfern",
+        "Blaulicht"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet Beladung nach Norm?",
+      "answers": [
+        "jedes Fahrzeug individuell",
+        "einheitliche Ausstattung je Fahrzeugtyp",
+        "nur Empfehlung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum haben Feuerwehrfahrzeuge Funkgeräte?",
+      "answers": [
+        "Musik",
+        "Kommunikation",
+        "Navigation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist ein Gerätewagen?",
+      "answers": [
+        "Fahrzeug für Personaltransport",
+        "Spezialfahrzeug mit spezieller Beladung",
+        "Tankfahrzeug"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Fahrzeug transportiert in der Regel Wasser?",
+      "answers": [
+        "RW",
+        "TLF",
+        "MTW"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür dienen Steckleitern auf Fahrzeugen?",
+      "answers": [
+        "Dekoration",
+        "Rettung und Zugang",
+        "nur Lager"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum gibt es unterschiedliche Feuerwehrfahrzeuge?",
+      "answers": [
+        "weil Gemeinden entscheiden",
+        "weil Einsätze unterschiedlich sind",
+        "grundlos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wer verantwortet Betriebssicherheit des Fahrzeuges?",
+      "answers": [
+        "Angriffstruppführer",
+        "Maschinist",
+        "Truppmann"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist eine Pumpenleistung typischerweise?",
+      "answers": [
+        "10l/min",
+        "100l/min",
+        "1000l/min"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Was gehört zur Standardbeladung eines LF?",
+      "answers": [
+        "TH-Rettungssatz",
+        "Schläuche, Armaturen, Strahlrohre",
+        "Chemikalienschutzanzüge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie oft sind Fahrzeuge zu prüfen?",
+      "answers": [
+        "regelmäßig nach Vorschrift",
+        "nur bei Defekt",
+        "gar nicht"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum sind Löschfahrzeuge groß?",
+      "answers": [
+        "wegen Komfort",
+        "wegen Beladung und Mannschaft",
+        "weil es gut aussieht"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Persönliche Schutzausrüstung",
+  "questions": [
+    {
+      "question": "Wofür dient die persönliche Schutzausrüstung der Feuerwehr?",
+      "answers": [
+        "nur für Übungen",
+        "Schutz vor Verletzungen, Hitze, mechanischen und chemischen Einwirkungen",
+        "nur gegen Regen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was gehört zur persönlichen Schutzausrüstung (Grundausstattung)?",
+      "answers": [
+        "Helm, Handschuhe, Schutzanzug, Feuerwehrstiefel",
+        "nur Helm",
+        "nur Jacke"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum ist das Tragen der kompletten PSA wichtig?",
+      "answers": [
+        "nur Vorschrift",
+        "maximaler Eigenschutz und Vermeidung von Verletzungen",
+        "nur weil es gut aussieht"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Aufgabe hat der Feuerwehrhelm?",
+      "answers": [
+        "Zierde",
+        "Schutz von Kopf und Gesicht vor Hitze, Schlägen und herabfallenden Teilen",
+        "nur Sonnenschutz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Aufgabe haben Feuerwehrhandschuhe?",
+      "answers": [
+        "Wärmen nur",
+        "Schutz vor Hitze, Schnitt und mechanischer Belastung",
+        "nur Optik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind Feuerwehrstiefel wichtig?",
+      "answers": [
+        "sehen gut aus",
+        "Schutz vor Hitze, Nägeln, Rutschgefahr",
+        "nur Tradition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was schützt die Feuerwehrjacke?",
+      "answers": [
+        "nur vor Regen",
+        "vor Hitze, Flammen, Funken und mechanischen Einwirkungen",
+        "gar nicht"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann ist zusätzliche Schutzkleidung erforderlich?",
+      "answers": [
+        "nie",
+        "bei besonderen Gefahren, z.B. Chemie, Atemgifte, Hitze",
+        "nur bei Übungen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Sichtbarkeit wichtig?",
+      "answers": [
+        "wegen Fotos",
+        "damit Einsatzkräfte bei Dunkelheit und Verkehr gut erkannt werden",
+        "nicht wichtig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist bei beschädigter PSA zu tun?",
+      "answers": [
+        "trotzdem benutzen",
+        "melden und ersetzen lassen",
+        "selbst reparieren"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist korrektes Anlegen der PSA wichtig?",
+      "answers": [
+        "egal",
+        "Schutz nur bei richtigem Sitz wirksam",
+        "nur Komfort"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche PSA ist bei Innenangriff Pflicht?",
+      "answers": [
+        "nur Helm",
+        "Atemschutzgerät + vollständige Brandschutzkleidung",
+        "nur Handschuhe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann muss Warnweste getragen werden?",
+      "answers": [
+        "nie",
+        "im Straßenverkehr bzw. bei Verkehrssicherung",
+        "nur im Sommer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist PSA regelmäßig zu prüfen?",
+      "answers": [
+        "Optik",
+        "Funktionssicherheit und Schutzwirkung erhalten",
+        "nicht nötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was gilt grundsätzlich zum Eigenschutz?",
+      "answers": [
+        "nicht wichtig",
+        "Eigenschutz geht vor – nur wer sich schützt, kann helfen",
+        "nur für Neulinge"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Erste Hilfe & Patientengerechte Rettung",
+  "questions": [
+    {
+      "question": "Was ist das wichtigste Ziel der Ersten Hilfe?",
+      "answers": [
+        "Dokumentation",
+        "Leben retten und Gesundheit erhalten",
+        "nur Verband anlegen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist die erste Maßnahme bei einem Notfall?",
+      "answers": [
+        "weggehen",
+        "Absichern, Eigenschutz beachten, Notruf absetzen",
+        "sofort behandeln ohne Absicherung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Notrufnummer gilt europaweit?",
+      "answers": [
+        "110",
+        "112",
+        "911"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Informationen gehören in den Notruf?",
+      "answers": [
+        "wer ruft, was, wo, wie viele, welche Verletzungen, warten auf Rückfragen",
+        "nur Name",
+        "nur Ort"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum ist Eigenschutz wichtig?",
+      "answers": [
+        "egal",
+        "nur wer sich nicht gefährdet, kann helfen",
+        "nur Vorschrift"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist bei bewusstlosen Personen zu tun?",
+      "answers": [
+        "liegen lassen",
+        "stabile Seitenlage und Kontrolle der Atmung",
+        "nur Wasser geben"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was tun, wenn keine Atmung vorhanden ist?",
+      "answers": [
+        "abwarten",
+        "Herz-Lungen-Wiederbelebung beginnen",
+        "nur Notruf wählen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum stabile Seitenlage?",
+      "answers": [
+        "Bequemlichkeit",
+        "Schutz vor Ersticken durch Zunge/Erbrochenes",
+        "nur Tradition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist ruhiges Verhalten wichtig?",
+      "answers": [
+        "nicht wichtig",
+        "Beruhigt Patienten und ermöglicht geordnetes Arbeiten",
+        "nur Höflichkeit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum Patient nicht unnötig bewegen?",
+      "answers": [
+        "Bequemlichkeit",
+        "um Verletzungen nicht zu verschlimmern",
+        "egal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum Wärmeerhalt wichtig?",
+      "answers": [
+        "nicht wichtig",
+        "Schutz vor Schock",
+        "nur Komfort"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was tun bei starker Blutung?",
+      "answers": [
+        "abwarten",
+        "Druckverband anlegen und Notruf",
+        "nur Pflaster"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Kommunikation mit dem Patienten wichtig?",
+      "answers": [
+        "nicht nötig",
+        "beruhigt, informiert und gibt Sicherheit",
+        "nur Zeitvertreib"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum Dokumentation bei Rettung wichtig?",
+      "answers": [
+        "nur Formalität",
+        "Informationen für Rettungsdienst",
+        "egal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum Zusammenarbeit Feuerwehr – Rettungsdienst wichtig?",
+      "answers": [
+        "nicht nötig",
+        "für bestmögliche Patientenversorgung",
+        "nur Vorschrift"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

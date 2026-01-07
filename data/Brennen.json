@@ -1,0 +1,293 @@
+{
+  "title": "Brennen",
+  "questions": [
+    {
+      "question": "Was ist Voraussetzung für einen Brand?",
+      "answers": [
+        "Sauerstoff, brennbarer Stoff, Zündenergie",
+        "nur Sauerstoff und Zündquelle",
+        "nur brennbarer Stoff"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie nennt man die kleinste selbstständig brennende Teilchenansammlung?",
+      "answers": [
+        "Flamme",
+        "Brand",
+        "Feuer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie heißt die Verbrennung ohne Flamme?",
+      "answers": [
+        "Schwelbrand",
+        "Glimmbrand",
+        "Glühbrand"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche drei Bedingungen benötigt Feuer?",
+      "answers": [
+        "Feuerwehr – Wasser – Atemschutz",
+        "Brennstoff – Sauerstoff – Wärme",
+        "Hitze – Rauch – Luft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann spricht man von einer Explosion?",
+      "answers": [
+        "wenn Brand schnell abläuft",
+        "wenn schlagartige Drucksteigerung eintritt",
+        "wenn Rauch entsteht"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Stoffe brennen nur bei sehr hohen Temperaturen?",
+      "answers": [
+        "Metalle",
+        "Kunststoffe",
+        "Holz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was ist der Flammpunkt?",
+      "answers": [
+        "Temperatur, bei der Stoff verdampft",
+        "Temperatur, bei der Flüssigkeit Gas bildet, das entzündbar ist",
+        "Zündtemperatur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist die Zündtemperatur?",
+      "answers": [
+        "Temperatur, bei der sich Stoff ohne Zündquelle entzündet",
+        "Temperatur für offene Flamme nötig",
+        "Temperatur, bei der Wasser kocht"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum ist Benzin gefährlicher als Diesel?",
+      "answers": [
+        "brennt heißer",
+        "entwickelt schneller Dämpfe",
+        "enthält mehr Energie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet Durchzündung?",
+      "answers": [
+        "plötzliche Entzündung durch Luftzufuhr von Pyrolysegasen",
+        "Rauchentwicklung",
+        "starke Hitzeentwicklung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie kann man einen Brand löschen?",
+      "answers": [
+        "Sauerstoff entziehen, Kühlen, Ersticken",
+        "Wasser auf alles",
+        "nur abdecken"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie wirkt Wasser beim Löschen?",
+      "answers": [
+        "Ersticken",
+        "Kühlen",
+        "Trennen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum explodiert eine Spraydose im Feuer?",
+      "answers": [
+        "wegen Gasfüllung und Hitze",
+        "wegen Druckverminderung",
+        "wegen Luftfeuchtigkeit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum brennen Pulver brennbar?",
+      "answers": [
+        "große Oberfläche",
+        "hohe Energie",
+        "hoher Flammpunkt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wann liegt eine Staubexplosion vor?",
+      "answers": [
+        "wenn Staub heiß wird",
+        "wenn Staub in Luft schwebt und entzündet wird",
+        "wenn Staub im Filter brennt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Rauch giftig?",
+      "answers": [
+        "enthält CO und toxische Gase",
+        "nur schlecht riechend",
+        "verbraucht Sauerstoff"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Stoffe sind brandfördernd?",
+      "answers": [
+        "Stickstoff",
+        "Sauerstoff",
+        "CO2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was versteht man unter Rückzündung?",
+      "answers": [
+        "Rauch entzündet sich",
+        "Flammen schlagen zurück in Raum",
+        "Explosion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum kann ein Gas-Luft-Gemisch explodieren?",
+      "answers": [
+        "weil Gas schwer ist",
+        "weil ein zündfähiges Gemisch entsteht",
+        "weil Gas kalt ist"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet untere Explosionsgrenze?",
+      "answers": [
+        "niedrigste Konzentration brennbarer Stoff",
+        "höchste Konzentration",
+        "Mittelwert"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was bedeutet obere Explosionsgrenze?",
+      "answers": [
+        "höchste Konzentration, bei der noch Explosion möglich",
+        "niedrigste Konzentration",
+        "Grenze Rauchentwicklung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wann ist Rauchdurchzündung möglich?",
+      "answers": [
+        "immer",
+        "bei heißem Rauch mit Brennstoffen und Luftzufuhr",
+        "nur bei Gasbrand"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welcher Stoff brennt nicht?",
+      "answers": [
+        "Sand",
+        "Holz",
+        "Kunststoff"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Stoffe können ohne Flamme glimmen?",
+      "answers": [
+        "Metall",
+        "Holz und Textilien",
+        "Wasser"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Fettbrand gefährlich?",
+      "answers": [
+        "weil fett brennt langsam",
+        "wegen Wasserexplosion",
+        "wegen Rauch"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was passiert bei Wasser auf Fettbrand?",
+      "answers": [
+        "löscht",
+        "verdampft ruhig",
+        "Fettexplosion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie löscht man Fettbrand?",
+      "answers": [
+        "Wasser",
+        "abdecken oder Speziallöscher",
+        "Schaum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum kann Acetylen gefährlich sein?",
+      "answers": [
+        "kann ohne Luft zerfallen und explodieren",
+        "giftig",
+        "kalt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum kann Propan gefährlich sein?",
+      "answers": [
+        "steigt auf",
+        "ist leichter als Luft",
+        "sammelt sich bodennah"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Warum kann Wasserstoff gefährlich sein?",
+      "answers": [
+        "schwer",
+        "giftig",
+        "sehr weite Explosionsgrenzen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wann entsteht Flashover?",
+      "answers": [
+        "wenn gesamte Raumluft verbrennt",
+        "wenn alle brennbaren Stoffe gleichzeitig entzünden",
+        "wenn Sauerstoff fehlt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann entsteht Backdraft?",
+      "answers": [
+        "wenn Sauerstoffmangel herrscht und Sauerstoff plötzlich zugeführt wird",
+        "bei Schwelbrand",
+        "bei Rauchentwicklung"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Brandsicherheitsdienst",
+  "questions": [
+    {
+      "question": "Welche öffentliche Feuerwehr leistet den Brandsicherheitsdienst in einer Versammlungsstätte?",
+      "answers": [
+        "Jede Feuerwehr kann das übernehmen.",
+        "Brandschutzdienststelle legt fest.",
+        "Nur die örtliche Feuerwehr."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wer bestimmt Art und Umfang des Brandsicherheitsdienstes?",
+      "answers": [
+        "Leiter Ordnungsamt",
+        "Brandschutzdienststelle",
+        "Leitung der Feuerwehr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was gehört zu den Aufgaben des Brandsicherheitsdienstes vor Beginn der Veranstaltung?",
+      "answers": [
+        "Bestuhlungsplan erstellen",
+        "Rundgang durch Kontrollbereich durchführen",
+        "Brandmelderzentrale besetzen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In welcher Reihenfolge sind Maßnahmen bei einem Brand innerhalb der Versammlungsstätte abzuarbeiten?",
+      "answers": [
+        "Erkundung → Brandbekämpfung → Lösch-/Sicherheitseinrichtungen → Meldestelle → Einweisung",
+        "Meldestelle → Erkundung → Brandbekämpfung → Einrichtungen → Einweisung",
+        "Einrichtungen → Erkundung → Brandbekämpfung → Meldestelle → Einweisung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu ergreifen?",
+      "answers": [
+        "Zuständige Brandmeldestelle sofort alarmieren",
+        "Alle zur Brandmelderzentrale begeben",
+        "Posten beginnen selbst mit Löschen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wer ordnet einen Brandsicherheitsdienst an?",
+      "answers": [
+        "Wehrführer",
+        "Leitung der Feuerwehr",
+        "Gemeinde"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Aussage über den Brandsicherheitsdienst ist falsch?",
+      "answers": [
+        "Wachhabender soll Gruppenführer sein",
+        "Wachposten mindestens Grundausbildung",
+        "Mindeststärke ist Staffel"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

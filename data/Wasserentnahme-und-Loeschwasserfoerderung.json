@@ -1,0 +1,140 @@
+{
+  "title": "Wasserentnahme & Löschwasserförderung",
+  "questions": [
+    {
+      "question": "Woraus kann Löschwasser entnommen werden?",
+      "answers": [
+        "nur Hydranten",
+        "offene Gewässer, Hydranten, Löschwasserbehälter",
+        "nur Teiche"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür werden Saugschläuche verwendet?",
+      "answers": [
+        "für Druckleitungen",
+        "zum Saugen aus offenen Gewässern",
+        "nur als Ersatz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was wird zum Arbeiten am Unterflurhydranten benötigt?",
+      "answers": [
+        "nur Schlauch",
+        "Standrohr und Hydrantenschlüssel",
+        "keine Geräte"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür dient das Standrohr?",
+      "answers": [
+        "zum Dekorieren",
+        "zum Anschluss der Schläuche am Unterflurhydranten",
+        "nur bei Übungen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist beim Arbeiten am Hydranten wichtig?",
+      "answers": [
+        "gar nichts",
+        "Hydrant öffnen/schließen ohne Ruck, auf Dichtheit achten",
+        "nur schnell aufdrehen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür dient eine Feuerlöschkreiselpumpe?",
+      "answers": [
+        "zum Befüllen von Tanks",
+        "zum Fördern von Löschwasser mit Druck",
+        "nur zum Testen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was zeigt das Manometer an der Pumpe an?",
+      "answers": [
+        "Temperatur",
+        "Druck",
+        "Tankinhalt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum wird eine Wasserversorgung aufgebaut?",
+      "answers": [
+        "für Ordnung",
+        "damit ausreichend Löschwasser zur Verfügung steht",
+        "nicht nötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet „offene Schaltreihe“ bei der Wasserförderung?",
+      "answers": [
+        "Pufferbehälter / Wasserentnahme und Pumpe getrennt",
+        "alles hintereinander",
+        "keine Bedeutung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum müssen Schläuche gesichert werden?",
+      "answers": [
+        "wegen Ordnung",
+        "damit sie nicht verrutschen oder beschädigt werden",
+        "unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Druckbegrenzung wichtig?",
+      "answers": [
+        "nur Vorschrift",
+        "Schutz von Schläuchen, Geräten und Einsatzkräften",
+        "weil Druckanzeige sonst voll wird"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum werden lange Wegstrecken mit Pumpen unterstützt?",
+      "answers": [
+        "weil es Spaß macht",
+        "zur Druckerhöhung und Sicherstellung der Wassermenge",
+        "unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Kommunikation zwischen Maschinisten wichtig?",
+      "answers": [
+        "gar nicht",
+        "zur Abstimmung von Druck, Menge, Sicherheit",
+        "nur Funkübung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind Hydrantenpläne und Wasserpläne wichtig?",
+      "answers": [
+        "schmücken Feuerwehrhaus",
+        "schnelle Orientierung und sichere Wasserentnahme",
+        "nicht wichtig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist nach Einsatz mit Wasserförderung zu tun?",
+      "answers": [
+        "alles liegen lassen",
+        "Schläuche prüfen, reinigen, trocknen, ordnungsgemäß verlasten",
+        "nur einräumen"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

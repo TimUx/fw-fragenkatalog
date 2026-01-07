@@ -1,0 +1,131 @@
+{
+  "title": "Tragbare Leitern",
+  "questions": [
+    {
+      "question": "Wofür werden tragbare Leitern der Feuerwehr eingesetzt?",
+      "answers": [
+        "Dekoration",
+        "Zugang, Rettung, Höhenüberwindung",
+        "nur für Übungen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Leiterarten gibt es bei der Feuerwehr hauptsächlich?",
+      "answers": [
+        "Haushaltsleitern",
+        "Steckleiter, Schiebleiter, Klappleiter",
+        "nur Anlegeleiter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie viele Personen dürfen in der Regel gleichzeitig auf eine Steckleiter steigen?",
+      "answers": [
+        "eine Person pro Leiterteil nebeneinander",
+        "eine Person je Leiterlauf",
+        "beliebig viele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie wird eine Leiter richtig angestellt?",
+      "answers": [
+        "beliebiger Winkel",
+        "mit sicherem Stand, etwa 65–75° Anstellwinkel",
+        "fast waagerecht"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum muss der Leiterfuß gesichert werden?",
+      "answers": [
+        "wegen Optik",
+        "damit Leiter nicht wegrutscht oder kippt",
+        "nicht nötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie erfolgt das Besteigen einer Leiter?",
+      "answers": [
+        "schnell und hüpfend",
+        "mit Gesicht zur Leiter, drei Punkte Regel beachten",
+        "seitlich drehen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wozu dient eine Halteleine an der Leiter?",
+      "answers": [
+        "Dekoration",
+        "zur Sicherung gegen Wegrutschen oder Umfallen",
+        "nur zum Aufrollen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist vor Benutzung einer Leiter zu prüfen?",
+      "answers": [
+        "nur Farbe",
+        "Beschädigungen, Sprossen, Beschläge, Sauberkeit",
+        "gar nichts"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann dürfen Leitern nicht benutzt werden?",
+      "answers": [
+        "bei schönem Wetter",
+        "bei sichtbaren Schäden oder Unsicherheit",
+        "nie im Einsatz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist die Leiterbelastung begrenzt?",
+      "answers": [
+        "nur Vorschrift",
+        "wegen Stabilität und Sicherheit",
+        "weil sie sonst zu schwer wird"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie erfolgt die Sicherung an einer Leiter in großer Höhe?",
+      "answers": [
+        "gar nicht",
+        "mit Sicherungsleine / Haltegurt",
+        "nur festhalten"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind Leitern regelmäßig zu prüfen?",
+      "answers": [
+        "sehen besser aus",
+        "Sicherheit und Einsatzfähigkeit gewährleisten",
+        "unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Leiter eignet sich gut für enge Räume und Innenbereiche?",
+      "answers": [
+        "Schiebleiter",
+        "Klappleiter/Multifunktionsleiter",
+        "nur Steckleiter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum dürfen Leitern nicht zweckentfremdet werden, z. B. als Rampe?",
+      "answers": [
+        "nur Vorschrift",
+        "weil sie beschädigt werden können und Gefahr entsteht",
+        "weil es nicht schön aussieht"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

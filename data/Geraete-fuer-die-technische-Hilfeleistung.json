@@ -1,0 +1,131 @@
+{
+  "title": "Geräte für die technische Hilfeleistung",
+  "questions": [
+    {
+      "question": "Wofür werden hydraulische Rettungsgeräte eingesetzt?",
+      "answers": [
+        "Brandbekämpfung",
+        "Technische Hilfeleistung z.B. Verkehrsunfall",
+        "Taucheinsatz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Geräte gehören zu hydraulischen Rettungsgeräten?",
+      "answers": [
+        "Axt und Brechstange",
+        "Schere, Spreizer, Rettungszylinder",
+        "Motorsäge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür wird der hydraulische Spreizer verwendet?",
+      "answers": [
+        "Zerschneiden von Metall",
+        "Auseinanderdrücken und Anheben",
+        "Heben schwerer Lasten mit Luft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wofür wird die hydraulische Schere verwendet?",
+      "answers": [
+        "Ziehen",
+        "Schneiden von Metall",
+        "Drücken"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wozu dient der Rettungszylinder?",
+      "answers": [
+        "Zerschneiden",
+        "Sichern von Lasten",
+        "Auseinanderdrücken mit großer Kraft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Warum müssen Rettungsgeräte regelmäßig geprüft werden?",
+      "answers": [
+        "sehen dann besser aus",
+        "Spaß an Technik",
+        "Sicherheit und Funktionsfähigkeit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Energiequelle nutzen hydraulische Rettungsgeräte?",
+      "answers": [
+        "Druckluft",
+        "Hydrauliköl unter Druck",
+        "Elektrizität nur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was bedeutet patientengerechte Rettung?",
+      "answers": [
+        "so schnell wie möglich",
+        "so sicher und schonend wie möglich",
+        "nur mit Arzt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum wird Glasmanagement durchgeführt?",
+      "answers": [
+        "damit Auto leichter wird",
+        "damit Verletzte nicht durch Splitter verletzt werden",
+        "nur wegen Optik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Stabilisieren von Fahrzeugen wichtig?",
+      "answers": [
+        "damit Feuerwehr nicht stolpert",
+        "damit Fahrzeug nicht bewegt und Verletzte geschützt werden",
+        "nicht wichtig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Gerät eignet sich für Holz- und Baumarbeiten?",
+      "answers": [
+        "Motorsäge",
+        "Hydraulikschere",
+        "Trennschleifer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wofür wird ein Trennschleifer eingesetzt?",
+      "answers": [
+        "Holz schneiden",
+        "Metall / Beton trennen",
+        "nur Kunststoff"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Schutzkleidung bei TH-Einsatz wichtig?",
+      "answers": [
+        "wegen Wetter",
+        "wegen Funken, Splitter, Gefahren",
+        "nur Vorschrift"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Grundregel gilt bei technischer Hilfeleistung zuerst?",
+      "answers": [
+        "Gerät vorbereiten",
+        "Absichern der Einsatzstelle",
+        "sofort schneiden"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

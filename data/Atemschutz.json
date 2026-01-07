@@ -1,0 +1,302 @@
+{
+  "title": "Atemschutz",
+  "questions": [
+    {
+      "question": "Wann spricht die akustische Warneinrichtung eines Pressluftatmers an?",
+      "answers": [
+        "zwischen 55 und 65 bar",
+        "zwischen 50 und 60 bar",
+        "zwischen 45 und 55 bar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Atemschutzgeräte arbeiten umluftunabhängig?",
+      "answers": [
+        "Behältergeräte",
+        "Brandfluchthauben",
+        "Filtergeräte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie wirken Atemgifte mit erstickender Wirkung?",
+      "answers": [
+        "schädigen Blut/Nerven/Zellen",
+        "zerstören Lungenbläschen",
+        "verdrängen Sauerstoff → Sauerstoffminderversorgung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In welche Atemgiftgruppe gehört Blausäure (HCN)?",
+      "answers": [
+        "Erstickungswirkung",
+        "Reiz-/Ätzwirkung",
+        "Wirkung auf Blut/Nerven/Zellen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wann ist CSA zu tragen?",
+      "answers": [
+        "jeder Einsatz",
+        "bei zu erwartendem Sauerstoffmangel",
+        "bei Gefahr durch Hautaufnahme von Gasen/Dämpfen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Flüssigkeitsverlust unter Atemschutz ausgleichen durch:",
+      "answers": [
+        "Getränke nach Einsatz",
+        "Ruhepause",
+        "regelmäßige Mahlzeiten"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was beeinflusst Sauerstoffbedarf maßgeblich?",
+      "answers": [
+        "immer gleich",
+        "Fitness + Ausbildungsstand",
+        "Tageszeit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum Funksprüche vom Trupp wichtig?",
+      "answers": [
+        "Lageinfos wichtig",
+        "gegen elektrostatische Ladung",
+        "sichert Rückweg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum ist CO gefährlich?",
+      "answers": [
+        "verbindet sich mit weißen Blutkörperchen",
+        "lähmt Atemzentrum ab 8%",
+        "bindet fest an Hämoglobin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Was ist nach Einsatz mit Atemschutzgerät zu tun?",
+      "answers": [
+        "Flasche wechseln + Kurzprüfung + verlasten",
+        "Wartung veranlassen",
+        "Maske auswaschen & ins Fahrzeug legen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wodurch entsteht Atemkrise?",
+      "answers": [
+        "tief + langsam atmen",
+        "zu flach + hastig",
+        "Bauchatmung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Voraussetzung für Einsatz unter Atemschutz?",
+      "answers": [
+        "nur Unterweisung",
+        "kein Vollbart",
+        "gesund sein"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nach Verlassen des Gefahrenbereichs:",
+      "answers": [
+        "Kurzprüfung",
+        "Rückmeldung",
+        "Maskendichtprobe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Behälterdruck Pressluftatmer einsatzbereit:",
+      "answers": [
+        "300bar → 270 bar",
+        "300bar → 250 bar",
+        "200bar → 170 bar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fortbildung Atemschutz nach FwDV7:",
+      "answers": [
+        "monatliche Übung",
+        "keine Wiederholungen nötig",
+        "mind. 1 Übung/Jahr in Anlage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Reichweite Luftvorrat Pressluftatmer mittlere Belastung:",
+      "answers": [
+        "max 10 min",
+        "30–40 min",
+        "60–70 min"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Prüfung vor Einsatz?",
+      "answers": [
+        "6-Jahres-Prüfung",
+        "Druckmindererprüfung",
+        "Einsatzkurzprüfung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Atemkrise vermeiden durch:",
+      "answers": [
+        "Maske abreißen",
+        "schnell atmen",
+        "ruhig + tief atmen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Luft sparen:",
+      "answers": [
+        "Lungenautomat spät anschrauben",
+        "Gerät erst bei Atemgiften anlegen",
+        "Flaschenventil erst im Gefahrenbereich öffnen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Funktion Lungenautomat:",
+      "answers": [
+        "steuert Lunge",
+        "steuert Luftabgabe",
+        "reduziert Flaschendruck"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Atemgift entsteht bei PVC-Brand?",
+      "answers": [
+        "Blausäure",
+        "Salzsäure",
+        "Fluorwasserstoff"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Türöffnung Innenangriff in Angriffsrichtung – Hilfsmittel:",
+      "answers": [
+        "Hohlstrahlrohr",
+        "Axt / Schlauchhalter",
+        "keine Hilfsmittel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aussage Brandfluchthaube:",
+      "answers": [
+        "schützt vor allen Atemgiften",
+        "schützt vor Sauerstoffmangel",
+        "Rettung über Leiter meist vorzuziehen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "CO2 gehört zu:",
+      "answers": [
+        "Erstickungswirkung",
+        "Reiz-/Ätzwirkung",
+        "Blut-/Nervenwirkung"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aufgabe Sicherheitstrupp:",
+      "answers": [
+        "im Notfall helfen",
+        "Brandbekämpfung",
+        "Personensuche"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aggregatzustand Atemgifte:",
+      "answers": [
+        "fest/flüssig/gasförmig",
+        "nur flüssig",
+        "nur gasförmig"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Innenmaske in Atemschutzmaske – Zweck:",
+      "answers": [
+        "besserer Nasenschutz",
+        "Totraum verkleinern",
+        "bessere Verständigung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Verbindung Atemschutztrupp – Außen sichern durch:",
+      "answers": [
+        "Leine",
+        "nicht nötig",
+        "Sprechfunk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie wirkt Chlor?",
+      "answers": [
+        "Nervensystem",
+        "Blut",
+        "Atemorgane – zerstört Lungenbläschen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Schlauch bleibt hängen – richtig:",
+      "answers": [
+        "Truppmann geht zurück",
+        "Truppführer geht zurück",
+        "Trupp gemeinsam zurück und nachführen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Warum Lüften nach Rücksprache?",
+      "answers": [
+        "Melder kann rein",
+        "Sicht verbessern → schneller Personen/Brand finden",
+        "Löschwirkung verbessern"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Worauf Erstorientierung achten?",
+      "answers": [
+        "Gebäudeabmaße",
+        "Fahrzeugaufstellung",
+        "Schlauchreserve"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kommunikationswege – richtig:",
+      "answers": [
+        "an Maschinisten melden",
+        "an Einheitsführer melden",
+        "nur auf Aufforderung melden"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

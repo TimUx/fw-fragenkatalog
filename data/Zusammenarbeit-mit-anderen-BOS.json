@@ -1,0 +1,140 @@
+{
+  "title": "Zusammenarbeit mit anderen BOS",
+  "questions": [
+    {
+      "question": "Warum arbeitet die Feuerwehr mit anderen BOS zusammen?",
+      "answers": [
+        "weil es Vorschrift ist",
+        "für bessere Einsatzbewältigung und Sicherheit",
+        "nur aus Gewohnheit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Organisationen gehören zu den BOS?",
+      "answers": [
+        "THW, Polizei, Rettungsdienst u.a.",
+        "Sportverein",
+        "Finanzamt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Warum ist Zusammenarbeit mit dem Rettungsdienst wichtig?",
+      "answers": [
+        "nicht wichtig",
+        "für schnelle und fachgerechte Patientenversorgung",
+        "nur Formalität"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Zusammenarbeit mit der Polizei wichtig?",
+      "answers": [
+        "nicht nötig",
+        "für Absicherung, Ermittlungen, Verkehrsregelung",
+        "nur für Funkübungen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Aufgabe hat das THW meist im Einsatz?",
+      "answers": [
+        "nur zuschauen",
+        "technische Hilfe, Logistik, Strom, Beleuchtung",
+        "nur Dokumentation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind klare Absprachen zwischen BOS wichtig?",
+      "answers": [
+        "nur Ordnung",
+        "damit jeder weiß, was er tun muss und sicher arbeiten kann",
+        "egal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum müssen Einsatzleiter zusammenarbeiten?",
+      "answers": [
+        "wegen Hierarchie",
+        "für abgestimmte Maßnahmen und Sicherheit",
+        "nur Formalität"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind gemeinsame Einsatzübungen sinnvoll?",
+      "answers": [
+        "Zeitvertreib",
+        "verbessern Zusammenarbeit und Abläufe",
+        "unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wann wird die Leitstelle informiert?",
+      "answers": [
+        "nie",
+        "bei Bedarf, wichtigen Lageänderungen oder Anforderungen",
+        "nur am Ende"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind Funkregeln BOS-übergreifend wichtig?",
+      "answers": [
+        "Dekoration",
+        "für Verständlichkeit und Koordination",
+        "unnötig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist gegenseitiger Respekt wichtig?",
+      "answers": [
+        "nicht wichtig",
+        "für reibungslose Zusammenarbeit",
+        "nur Tradition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist bei Übergabe von Patienten/Schadensstellen wichtig?",
+      "answers": [
+        "gar nichts",
+        "klare Übergabe mit Infos",
+        "nur winken"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum ist Dokumentation auch zwischen BOS wichtig?",
+      "answers": [
+        "nur Papierkram",
+        "Nachvollziehbarkeit, Rechtssicherheit, Auswertung",
+        "egal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind gemeinsame Sammelstellen sinnvoll?",
+      "answers": [
+        "nicht sinnvoll",
+        "übersichtliche Organisation und Sicherheit",
+        "nur bei Festen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum sind einheitliche Zeichen und Begriffe hilfreich?",
+      "answers": [
+        "unnötig",
+        "für schnelle Verständigung zwischen Organisationen",
+        "weil es hübsch ist"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

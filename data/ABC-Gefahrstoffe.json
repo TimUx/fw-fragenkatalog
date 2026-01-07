@@ -1,0 +1,284 @@
+{
+  "title": "ABC-Gefahrstoffe",
+  "questions": [
+    {
+      "question": "Wie nennt man die Aufnahme von Gefahrstoffen in den Körper?",
+      "answers": [
+        "Inkorporation",
+        "Inkontinenz",
+        "Kontamination"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wo steht die Gefahrnummer?",
+      "answers": [
+        "in der unteren Hälfte der orangefarbenen Tafel",
+        "in der oberen Hälfte der orangefarbenen Tafel",
+        "auf dem Gefahrzettel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Bedeutung hat ein „X“ im Zusammenhang mit der Gefahrnummer?",
+      "answers": [
+        "Der Stoff ist reizend oder gesundheitsschädlich.",
+        "Der Stoff ist explosionsgefährlich.",
+        "Der Stoff reagiert gefährlich mit Wasser."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Was ist eine Kontamination?",
+      "answers": [
+        "Kontamination ist die Aufnahme eines Gefahrstoffes in den Körper.",
+        "Kontamination ist die Verschmutzung von Oberflächen mit einem Gefahrstoff.",
+        "Kontamination ist die Aufnahme gefährlicher Strahlung."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie kann Inkorporation stattfinden?",
+      "answers": [
+        "nur durch den Mund",
+        "durch Körperöffnungen und über die Haut",
+        "nur über offene Verletzungen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wo steht die Stoffnummer?",
+      "answers": [
+        "in der unteren Hälfte der orangefarbenen Tafel",
+        "in der oberen Hälfte der orangefarbenen Tafel",
+        "auf dem Gefahrzettel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche der folgenden Beschreibungen kennzeichnet einen Gefahrzettel?",
+      "answers": [
+        "ein Quadrat, das auf der Spitze steht",
+        "eine orangefarbene Tafel ohne Beschriftung",
+        "ein orangefarbenes Rechteck mit Zusatzsymbol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kastanienbraune Druckgasflasche – um welche Gase kann es sich handeln?",
+      "answers": [
+        "Kohlenstoffdioxid und Sauerstoff",
+        "Acetylen und Sauerstoff",
+        "Stickstoff und CO2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "GABC-Einsatz Menschenrettung – welche Aussage ist richtig?",
+      "answers": [
+        "Nur mit Chemikalienschutzanzug vorgehen.",
+        "PA ist nicht nötig.",
+        "Zur Rettung von Menschenleben kann zunächst ohne vollständige Sonderausrüstung vorgegangen werden."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Aussage ist richtig?",
+      "answers": [
+        "Die Einwirkung mechanischer Energie auf den Körper ist zu verhindern.",
+        "Eine Kontamination ist gefährlicher als eine Inkorporation.",
+        "Kontaminationsverschleppung ist unproblematisch."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Durch welche Regel legt die FwDV 500 Erstmaßnahmen fest?",
+      "answers": [
+        "AUTO-Regel",
+        "GAMS-Regel",
+        "HAUS-Regel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rote Druckgasflasche – welches Gas kann enthalten sein?",
+      "answers": [
+        "Wasserstoff",
+        "Schutzgas",
+        "Acetylen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blaue Gefahrzettel – Bedeutung?",
+      "answers": [
+        "enthält wässerige Stoffe",
+        "kann mit Wasser gelöscht werden",
+        "entwickelt bei Berührung mit Wasser entzündbare Gase"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ziffern auf oranger Warntafel bedeuten?",
+      "answers": [
+        "oben Gefahrnummer – unten UN Nummer",
+        "oben UN – unten NATO",
+        "oben Gefahrnummer – unten EU"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Gefahrnummer 225 bedeutet:",
+      "answers": [
+        "tiefgekühlt verflüssigtes Gas, oxidierend",
+        "ansteckungsgefährlich",
+        "brennbarer flüssiger Stoff giftige Gase"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Gefahrnummer 23 bedeutet:",
+      "answers": [
+        "brennbarer flüssiger Stoff",
+        "brennbarer gasförmiger Stoff der flüssig wird",
+        "entzündbares Gas"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Gefahrnummer 606 bedeutet:",
+      "answers": [
+        "giftiger Stoff",
+        "ansteckungsgefährlicher Stoff",
+        "Schreibfehler"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Stoffe gehören ADR Gefahrklasse 2?",
+      "answers": [
+        "alle verdichteten, verflüssigten oder unter Druck gelösten Gase",
+        "alle brennbaren Flüssigkeiten",
+        "radioaktive Stoffe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Inkorporation vermeiden durch:",
+      "answers": [
+        "Messgeräte",
+        "Atemschutz",
+        "Feuerschutzkleidung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "X vor Gefahrnummer bedeutet:",
+      "answers": [
+        "ungültig",
+        "darf mit Wasser gelöscht werden",
+        "reagiert gefährlich mit Wasser"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kennzeichnung Eisenbahn-Kesselwagen mit 300mm Streifen:",
+      "answers": [
+        "brennbare Flüssigkeiten",
+        "Wasserstoff",
+        "verflüssigte Gase"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Stoffe haben Explosionsbereich?",
+      "answers": [
+        "alle leichtentzündlichen Stoffe",
+        "Gase Dämpfe Nebel Stäube in Luft",
+        "alle flüssigen Gase"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Gefahrnummer 336 – Aggregatzustand?",
+      "answers": [
+        "fest",
+        "flüssig",
+        "gasförmig"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche FwDV regelt ABC Einsatz?",
+      "answers": [
+        "FwDV 100",
+        "FwDV 14",
+        "FwDV 500"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Roter Großzettel mit Flamme bedeutet:",
+      "answers": [
+        "brennbar gasförmig",
+        "brennbar fest",
+        "brennbar flüssig"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Orange Streifen Eisenbahnwagen bedeutet:",
+      "answers": [
+        "Explosivstoffe",
+        "verflüssigte Gase",
+        "Säure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Schutz vor Inkorporation:",
+      "answers": [
+        "Deckung",
+        "Abschirmung",
+        "Atemschutz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Schutz vor äußerer Einwirkung:",
+      "answers": [
+        "Abstand halten",
+        "Inkorporation ausschließen",
+        "Atemschutz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sofortdekontamination – richtige Aussage:",
+      "answers": [
+        "LSM vor Dekon",
+        "nicht mit Wasser abspülen",
+        "Wasser immer auffangen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dekon mit Wasser erfolgt:",
+      "answers": [
+        "mit starkem Druck",
+        "drucklos",
+        "mit Bürste"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Großzettel begrenzte Menge bedeutet:",
+      "answers": [
+        "tiefgekühltes Gefahrgut",
+        "Schutzgasfüllung",
+        "Gefahrgut in begrenzter Menge"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

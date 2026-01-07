@@ -1,0 +1,140 @@
+{
+  "title": "Gefahren an der Einsatzstelle",
+  "questions": [
+    {
+      "question": "Welche Gefahren bestehen grundsätzlich an jeder Einsatzstelle?",
+      "answers": [
+        "keine, wenn Feuerwehr da ist",
+        "nur Brandgefahr",
+        "mechanische, chemische, biologische, elektrische und atmosphärische Gefahren"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Warum besteht Absturzgefahr an Einsatzstellen?",
+      "answers": [
+        "nur bei Hochhäusern",
+        "wegen unübersichtlichem Gelände, Höhen und Absturzkanten",
+        "nur bei Dacharbeiten"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr geht von einsturzgefährdeten Gebäuden aus?",
+      "answers": [
+        "nur Rauchentwicklung",
+        "Gefahr durch herabfallende Bauteile und totale Gebäudeeinstürze",
+        "keine besondere Gefahr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr besteht im Straßenverkehr an Einsatzstellen?",
+      "answers": [
+        "keine, Fahrzeuge halten automatisch an",
+        "Gefahr durch vorbeifahrende Fahrzeuge",
+        "nur bei Autobahnen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie kann man Verkehrsgefahr an Einsatzstellen verringern?",
+      "answers": [
+        "Gar nicht nötig",
+        "Absichern der Einsatzstelle und Tragen von Warnkleidung",
+        "Blaulicht ausschalten"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr entsteht durch elektrische Anlagen?",
+      "answers": [
+        "nur Funkenflug",
+        "lebensgefährlicher Stromschlag",
+        "keine Gefahr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie verhält sich die Feuerwehr bei Stromgefahr?",
+      "answers": [
+        "ignorieren",
+        "Sicherheitsabstand einhalten und Fachpersonal hinzuziehen",
+        "nur Handschuhe tragen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum besteht an Einsatzstellen Explosionsgefahr?",
+      "answers": [
+        "wegen Feuerwehrfahrzeugen",
+        "wegen möglicher Gas- oder Dampf/Luftgemische",
+        "nur in Fabriken"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr besteht durch Atemgifte?",
+      "answers": [
+        "nur schlechter Geruch",
+        "Vergiftung, Bewusstlosigkeit, Tod",
+        "nur Reizung der Augen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie schützt sich die Feuerwehr vor Atemgiften?",
+      "answers": [
+        "Fenster öffnen",
+        "Atemschutz tragen",
+        "nur Tuch vor Mund halten"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Warum besteht Gefahr durch herabfallende Teile?",
+      "answers": [
+        "weil Feuerwehr arbeitet",
+        "weil Brände und Beschädigungen Baustatik schwächen",
+        "nur bei Wind"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr besteht bei Gas- und Chemieunfällen?",
+      "answers": [
+        "keine",
+        "Vergiftung, Explosion, Kontamination",
+        "nur Geruch"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Gefahr besteht bei Dunkelheit?",
+      "answers": [
+        "keine",
+        "schlechte Sicht, Stolpergefahr, Unfallgefahr",
+        "nur Müdigkeit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie können Gefahren erkannt werden?",
+      "answers": [
+        "gar nicht",
+        "durch Erkundung und Beobachtung",
+        "nur durch Polizei"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie werden Einsatzkräfte vor Gefahren gewarnt?",
+      "answers": [
+        "durch Zuruf",
+        "durch Einheitsführer und klare Befehle",
+        "nicht nötig"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

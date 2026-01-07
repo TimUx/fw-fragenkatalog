@@ -1,0 +1,158 @@
+{
+  "title": "Besondere Gefahren im Zivilschutz",
+  "questions": [
+    {
+      "question": "Welche FwDV regelt Vorgehen bei Gefahren durch Kampfstoffe?",
+      "answers": [
+        "FwDV 2",
+        "FwDV 500",
+        "FwDV 13/1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Bundesfahrzeug ist wichtig bei ABC-Kampfstoffen?",
+      "answers": [
+        "RW",
+        "GW Dekon P",
+        "LF 10/6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Kampfmittel senden ionisierende Strahlen aus?",
+      "answers": [
+        "Biologische Waffen",
+        "Kernwaffen",
+        "Chemische Kampfstoffe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie wirkt Energie bei Kernwaffeneinsatz?",
+      "answers": [
+        "nur Strahlung",
+        "thermisch + Strahlung",
+        "Druck + thermisch + Strahlung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Strahlungsarten können entstehen?",
+      "answers": [
+        "nur Gamma",
+        "nur Alpha + Beta",
+        "Alpha Beta Gamma Neutronen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Maßnahmen mindern Strahlenwirkung?",
+      "answers": [
+        "viel Milch trinken",
+        "desinfizieren",
+        "Abschirmung Abstand Zeit begrenzen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Wirkungen haben ionisierende Strahlen?",
+      "answers": [
+        "ungefährlich",
+        "Akut- und Spätschäden möglich",
+        "nur Akutschäden"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In welchen Aggregatzuständen kommen B-Kampfstoffe vor?",
+      "answers": [
+        "fest + flüssig",
+        "fest + gasförmig",
+        "nur flüssig"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Was zählt zu biologischen Kampfstoffen?",
+      "answers": [
+        "Viren + Säurenebel",
+        "Giftgas + Bakterien",
+        "Bakterien Pilze Viren Toxine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie gelangen B-Kampfstoffe überwiegend in den Körper?",
+      "answers": [
+        "nur Haut",
+        "nur Verletzungen",
+        "Atmung + Verdauung"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Welche Maßnahme wirkt gegen chemische Kampfstoffe?",
+      "answers": [
+        "Impfung",
+        "Schutzkleidung + Atemschutz",
+        "Vorsorgeuntersuchung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Flüchtigkeit chemischer Kampfstoffe:",
+      "answers": [
+        "immer flüchtig",
+        "immer sesshaft",
+        "können flüchtig wenigflüchtig sesshaft sein"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ausbringung chemischer Kampfstoffe erkennbar durch:",
+      "answers": [
+        "keine Anzeichen",
+        "nur Wetter",
+        "Gerüche / Reaktionen anderer Lebewesen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nach Kontamination mit chemischem Kampfstoff:",
+      "answers": [
+        "keine Sofortdekontamination",
+        "Sofortdekontamination unverzüglich",
+        "erst Arzt dann Dekon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Fahrzeug für Messaufgaben im Zivilschutz?",
+      "answers": [
+        "CBRN-Erkundungskraftwagen",
+        "Strahlenspürtruppfahrzeug",
+        "GW IuK"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie können chemische Kampfstoffe aufgenommen werden?",
+      "answers": [
+        "nur Atmung",
+        "auch über Haut",
+        "nur Atmung + Verdauung"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welches Bundesamt unterstützt Zivilschutz?",
+      "answers": [
+        "Bundesamt für Katastrophenschutz",
+        "Bundeszivilschutzamt",
+        "BBK"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
