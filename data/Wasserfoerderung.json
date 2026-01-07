@@ -47,15 +47,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 6 im Kapitel Wasserförderung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Bei einer geschlossenen Schaltreihe fördert man den Förderstrom …",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "… von einer Pumpe in einen Löschwasserbehälter.",
+        "… von einer Pumpe in die nächste Pumpe.",
+        "… von einer Pumpe in die Strahlrohre."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
       "question": "Welche Aussage bezüglich des Förderstroms bei einer Löschwasserförderung ist richtig?",

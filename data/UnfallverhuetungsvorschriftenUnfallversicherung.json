@@ -11,15 +11,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 2 im Kapitel Unfallverhütungsvorschriften/Unfallversicherung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Der Freiwillige Feuerwehrangehörige in Hessen ist gegen Unfälle im Dienst versichert. Bei welchem Versicherungsträger ist der Feuerwehrangehörige versichert?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "bei der Krankenversicherung",
+        "bei der Brandversicherung",
+        "bei der Unfallkasse Hessen (UKH)"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Welcher Prüfung unterliegen nach der UVV-Feuerwehren (DGUV-Vorschrift 49) Feuerwehr- Haltegurte nach jeder Benutzung?",

@@ -146,15 +146,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 17 im Kapitel Rechtsgrundlagen - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Welche Aussage zum Hessischen Brand- und Katastrophenschutzgesetz (HBKG) ist richtig?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz regelt alles Notwendige für die Feuerwehr. Daher sind weitere Regeln der örtlichen Feuerwehr weder notwendig noch zulässig.",
+        "Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz lässt den Gemeinden als Aufgabenträger im Rahmen der Selbstverwaltungsangelegenheiten Freiräume zur Gestaltung des örtlichen Brandschutzes und der örtlichen Allgemeinen Hilfe.",
+        "Die Regelungen im Hessischen Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz betreffen nur die Führungskräfte einer Feuerwehr. Für die Mannschafts-dienstgrade gelten ausschließlich die Regelungen in der Satzung der Gemeinde/Stadt."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 1
     },
     {
       "question": "Welche Aussage zur Kennzeichnung von Atemschutzgeräteträgern ist richtig?",

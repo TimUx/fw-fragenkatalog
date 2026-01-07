@@ -74,15 +74,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 9 im Kapitel Technische Hilfeleistung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Wie ist grundsätzlich auf Bundesstraßen und Bundesautobahnen im Hilfeleistungseinsatz vom Fahrzeug abzusitzen?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "auf der von der Fahrbahn abgewandten Seite",
+        "Truppführer sitzen auf der linken Fahrzeugseite ab, Truppmänner auf der rechten",
+        "Lediglich der Wassertrupp darf absitzen, um Sicherungsmaßnahmen durchzuführen."
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 0
     },
     {
       "question": "Welche Aussage über den Melder im Hilfeleistungseinsatz ist richtig?",
@@ -112,15 +110,13 @@
       "correctIndex": 0
     },
     {
-      "question": "[PLATZHALTER] Frage 13 im Kapitel Technische Hilfeleistung - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Beim Hilfeleistungseinsatz wird die Ordnung des Raumes gegliedert in…",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "Gefahrenbereich und Absperrbereich",
+        "Gefahrenbereich und Bereitstellungsbereich",
+        "Gefahrenstelle, Arbeitsbereich und Absperrbereich"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Wo befindet sich der Arbeitsbereich beim Hilfeleistungseinsatz nach der FwDV 3?",
