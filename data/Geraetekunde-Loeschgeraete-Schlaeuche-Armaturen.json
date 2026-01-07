@@ -77,8 +77,8 @@
       "question": "Was ist ein Verteiler?",
       "answers": [
         "eine wasserführende Armatur, versehen mit einer Festkupplung, einem beweglichen Knaggenteil und einem oder mehreren Absperrorganen",
-        "eine wasserführende Armatur, versehen mit Festkupplungen mit einem oder zwei Eingängen",
-        "und drei einzeln absperrbaren Abgängen eine wasserführende Armatur, versehen mit einem Eingang und drei absperrbaren Abgängen"
+        "eine wasserführende Armatur, versehen mit Festkupplungen mit einem oder zwei Eingängen und drei einzeln absperrbaren Abgängen ",
+        "eine wasserführende Armatur, versehen mit einem Eingang und drei absperrbaren Abgängen"
       ],
       "correctIndex": 1
     },
@@ -516,11 +516,11 @@
       "correctIndex": 1
     },
     {
-      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die … … Wasserdichte.",
+      "question": "Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die … ",
       "answers": [
+        "… Wasserdichte.",
         "… Durchflussmenge.",
-        "… Strahlleistung.",
-        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "… Strahlleistung."
       ],
       "correctIndex": 0
     }
