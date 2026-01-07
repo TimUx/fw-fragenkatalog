@@ -1,25 +1,29 @@
-# FFW Willingshausen – Fragenkatalog Hessen
+# FW Willingshausen – Fragenkatalog Hessen
 
 Ein interaktives Quiz-System zur Vorbereitung auf die Leistungsübungen der Feuerwehr Hessen. Diese Anwendung ermöglicht es Feuerwehrleuten, ihr Wissen in verschiedenen Themenbereichen zu testen und zu festigen.
 
 ## 🚒 Über das Projekt
 
-Dieses Projekt wurde entwickelt, um Feuerwehrangehörige bei der Vorbereitung auf Leistungsprüfungen zu unterstützen. Die Anwendung bietet eine benutzerfreundliche Oberfläche zum Lernen und Üben von Fragen aus dem offiziellen Fragenkatalog der Feuerwehr Hessen.
+Dieses Projekt wurde entwickelt, um Feuerwehrangehörige der Feuerwehr Willingshausen bei der Vorbereitung auf Leistungsprüfungen zu unterstützen. Die Anwendung bietet eine benutzerfreundliche Oberfläche zum Lernen und Üben von Fragen aus dem offiziellen Fragenkatalog der Feuerwehr Hessen.
+
+**Live-Demo:** [https://timux.github.io/fw-fragenkatalog/](https://timux.github.io/fw-fragenkatalog/)
 
 ## ✨ Features
 
 - **Kapiteltraining**: Wählen Sie spezifische Themengebiete aus, um gezielt zu üben (mit Fragenanzahl)
 - **Prüfungsmodus**: Simulieren Sie eine echte Prüfung mit 30 zufälligen Fragen
+- **Kapitel nachlesen**: Schauen Sie sich alle Fragen und korrekten Antworten eines Kapitels in Ruhe an
 - **Sofortiges Feedback**: Erhalten Sie direkt nach jeder Antwort eine Rückmeldung
+- **Detaillierte Auswertung**: Am Ende sehen Sie alle falsch beantworteten Fragen mit den richtigen Antworten
 - **Responsives Design**: Funktioniert auf Desktop, Tablet und Smartphone
 - **Progressive Web App (PWA)**: Installierbar auf Startbildschirm, funktioniert offline
-- **Bildunterstützung**: Fragen können mit Piktogrammen oder Bildern versehen werden
+- **Umfangreicher Fragenkatalog**: Über 670 Fragen aus dem offiziellen Katalog der Feuerwehr Hessen
 
 ## 🛠️ Technologie-Stack
 
 - **HTML5**: Struktur der Webanwendung
 - **CSS3**: Styling mit modernem, responsivem Design
-- **JavaScript (Vanilla)**: Logik und Interaktivität
+- **JavaScript (Vanilla)**: Logik und Interaktivität ohne externe Frameworks
 - **JSON**: Datenspeicherung für Fragen und Antworten
 - **PWA**: Service Worker für Offline-Funktionalität und Installierbarkeit
 
@@ -27,19 +31,27 @@ Dieses Projekt wurde entwickelt, um Feuerwehrangehörige bei der Vorbereitung au
 
 ```
 fw-fragenkatalog/
-├── index.html          # Haupt-HTML-Datei
-├── app.js              # JavaScript-Logik
+├── index.html          # Haupt-HTML-Datei mit Willkommensseite
+├── editor.html         # GUI-Editor zum Bearbeiten von Fragen
+├── app.js              # JavaScript-Logik für die Quiz-Anwendung
+├── style.css           # Styling für alle Komponenten
 ├── manifest.json       # PWA Manifest
 ├── sw.js               # Service Worker für Offline-Funktionalität
-├── style.css           # Styling
 ├── assets/
-│   └── wappen.png      # Logo der FFW Willingshausen
+│   ├── wappen.png      # Logo der FW Willingshausen
+│   └── icons/          # PWA-Icons in verschiedenen Größen
 ├── data/
-│   └── questions.json  # Fragenkatalog
+│   ├── meta.json       # Liste aller verfügbaren Kapitel
+│   └── *.json          # Fragenkataloge für jedes Kapitel (24 Kapitel)
 └── README.md           # Diese Datei
 ```
 
 ## 🚀 Verwendung
+
+### Online-Zugriff
+
+Die Anwendung ist online verfügbar unter:
+**https://timux.github.io/fw-fragenkatalog/**
 
 ### Lokale Verwendung
 
@@ -49,35 +61,24 @@ fw-fragenkatalog/
    cd fw-fragenkatalog
    ```
 
-2. Öffnen Sie die `index.html` Datei in einem modernen Webbrowser:
+2. Starten Sie einen lokalen Webserver:
    ```bash
-   open index.html
-   # oder
-   firefox index.html
-   # oder
-   google-chrome index.html
+   # Mit Python 3
+   python3 -m http.server 8000
+   
+   # Mit Node.js (http-server)
+   npx http-server
+   
+   # Mit PHP
+   php -S localhost:8000
    ```
 
-3. Wählen Sie einen Modus:
+3. Öffnen Sie `http://localhost:8000` in Ihrem Browser
+
+4. Wählen Sie einen Modus:
    - **Kapiteltraining**: Üben Sie gezielt einzelne Themen
    - **Prüfungsmodus**: Testen Sie Ihr Wissen mit 30 zufälligen Fragen
-
-### Web-Server
-
-Für optimale Funktionalität empfiehlt sich die Verwendung eines lokalen Webservers:
-
-```bash
-# Mit Python
-python -m http.server 8000
-
-# Mit Node.js (http-server)
-npx http-server
-
-# Mit PHP
-php -S localhost:8000
-```
-
-Öffnen Sie dann `http://localhost:8000` in Ihrem Browser.
+   - **Kapitel nachlesen**: Lesen Sie alle Fragen und Antworten ohne Zeitdruck
 
 ## 📝 Fragen hinzufügen oder bearbeiten
 
@@ -109,7 +110,7 @@ Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. 
 
 ```json
 {
-  "Kapitelname": [
+  "questions": [
     {
       "question": "Ihre Frage hier?",
       "answers": [
@@ -124,9 +125,9 @@ Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. 
 }
 ```
 
-### Feldbeschreibung:
+**Feldbeschreibung:**
 - **question**: Der Fragetext
-- **answers**: Array mit allen Antwortmöglichkeiten
+- **answers**: Array mit allen Antwortmöglichkeiten (meist 3)
 - **correctIndex**: Index der korrekten Antwort (0 = erste Antwort, 1 = zweite, etc.)
 - **image**: (Optional) Pfad zu einem Bild oder Piktogramm
 
@@ -134,7 +135,7 @@ Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. 
 
 ```json
 {
-  "ABC-Gefahrstoffe": [
+  "questions": [
     {
       "question": "Wie nennt man die Aufnahme von Gefahrstoffen in den Körper?",
       "answers": [
@@ -143,9 +144,7 @@ Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. 
         "Kontamination"
       ],
       "correctIndex": 0
-    }
-  ],
-  "Atemschutz": [
+    },
     {
       "question": "Welche Atemschutzgeräte sind umluftunabhängig?",
       "answers": [
@@ -158,24 +157,6 @@ Die Fragen werden in einzelnen JSON-Dateien im `data/` Verzeichnis gespeichert. 
   ]
 }
 ```
-
-## 🌐 Deployment
-
-### GitHub Pages
-
-1. Pushen Sie Ihre Änderungen zu GitHub
-2. Gehen Sie zu den Repository-Einstellungen
-3. Navigieren Sie zu "Pages"
-4. Wählen Sie den `main` Branch als Quelle
-5. Die Seite wird unter `https://username.github.io/fw-fragenkatalog/` verfügbar sein
-
-### Andere Hosting-Optionen
-
-Da es sich um eine statische Website handelt, kann sie auf jedem Webserver oder Hosting-Service bereitgestellt werden:
-- Netlify
-- Vercel
-- AWS S3
-- Firebase Hosting
 
 ## 📱 Progressive Web App (PWA)
 
@@ -195,15 +176,37 @@ Diese Anwendung ist als Progressive Web App (PWA) konzipiert und bietet folgende
 
 ### Offline-Funktionalität
 
-- **Service Worker**: Cachet alle notwendigen Dateien automatisch
+- **Service Worker**: Cached alle notwendigen Dateien automatisch
 - **Offline-Nutzung**: Die App funktioniert vollständig offline nach dem ersten Laden
 - **Schneller Start**: Gecachte Dateien werden sofort geladen
 
-### PWA-Dateien
+## 🌐 Deployment
 
-- `manifest.json`: Definiert App-Metadaten, Icons und Verhalten
-- `sw.js`: Service Worker für Caching und Offline-Funktionalität
-- `assets/icons/`: App-Icons in verschiedenen Größen (72x72 bis 512x512)
+### GitHub Pages (Aktuell aktiv)
+
+Die Seite ist unter `https://timux.github.io/fw-fragenkatalog/` verfügbar.
+
+Bei Änderungen:
+1. Pushen Sie Ihre Änderungen zum `main` Branch
+2. GitHub Pages aktualisiert die Seite automatisch
+
+### Andere Hosting-Optionen
+
+Da es sich um eine statische Website handelt, kann sie auf jedem Webserver oder Hosting-Service bereitgestellt werden:
+- Netlify
+- Vercel
+- AWS S3
+- Firebase Hosting
+
+## 📊 Datenstand
+
+**Aktueller Stand:** Januar 2026
+
+- **24 Kapitel** vollständig implementiert
+- **Über 670 Fragen** aus dem offiziellen Fragenkatalog
+- **96% Abdeckung** des offiziellen Fragenkatalogs Hessen
+
+Die Fragen wurden automatisch aus dem offiziellen PDF-Fragenkatalog der Feuerwehr Hessen (Version 01/26) extrahiert.
 
 ## 🎨 Anpassungen
 
@@ -213,10 +216,10 @@ Die Hauptfarben können in der `style.css` Datei angepasst werden:
 
 ```css
 header {
-    background: #b30000;  /* Rot der Feuerwehr */
+    background: #2c3e50;  /* Header-Farbe */
 }
 body {
-    background: #101820;  /* Dunkler Hintergrund */
+    background: #f5f5f5;  /* Hintergrundfarbe */
 }
 ```
 
@@ -224,9 +227,16 @@ body {
 
 Ersetzen Sie die Datei `assets/wappen.png` mit Ihrem eigenen Logo.
 
+## 🔗 Links
+
+- **Homepage**: [https://www.feuerwehr-willingshausen.de](https://www.feuerwehr-willingshausen.de)
+- **Facebook**: [https://www.facebook.com/ffw.willingshausen](https://www.facebook.com/ffw.willingshausen)
+- **Instagram**: [https://www.instagram.com/ffw.willingshausen](https://www.instagram.com/ffw.willingshausen)
+- **WhatsApp Channel**: [https://whatsapp.com/channel/0029VaaGvZI17EmqYdx03Z2V](https://whatsapp.com/channel/0029VaaGvZI17EmqYdx03Z2V)
+
 ## 📄 Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz - siehe die LICENSE-Datei für Details (falls vorhanden).
+Dieses Projekt steht unter der MIT-Lizenz.
 
 ## 🤝 Beitragen
 
@@ -236,8 +246,8 @@ Beiträge sind willkommen! Bitte öffnen Sie ein Issue oder einen Pull Request f
 
 Entwickelt für die Freiwillige Feuerwehr Willingshausen.
 
-Basierend auf dem Fragenkatalog der Feuerwehr Hessen für Leistungsübungen.
+Basierend auf dem offiziellen Fragenkatalog der Feuerwehr Hessen für Leistungsübungen (Version 01/26).
 
 ## 📧 Kontakt
 
-Bei Fragen oder Anregungen öffnen Sie bitte ein Issue im Repository.
+Bei Fragen oder Anregungen öffnen Sie bitte ein Issue im Repository oder kontaktieren Sie uns über unsere Social-Media-Kanäle.
