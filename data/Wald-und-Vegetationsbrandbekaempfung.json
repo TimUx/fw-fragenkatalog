@@ -35,8 +35,7 @@
         "Gipfelhöhe, Wetter und Gezeiten",
         "Wetter, Topografie und Vegetation"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page138_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Welche Aussage zur Brandbeeinflussung durch Topografie trifft zu?",
@@ -90,8 +89,7 @@
         "Forstamt",
         "Achtung hohe Steinschlaggefahr"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Wald-und-Vegetationsbrandbekaempfung_page140_img1.png"
+      "correctIndex": 1
     }
   ]
 }

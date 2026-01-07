@@ -44,8 +44,7 @@
         "565 m",
         "485 m"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Fahrzeugkunde_page36_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Welche der nachfolgend aufgeführten tragbaren Leitern gehört nicht zur Normbeladung eines LF 20?",
@@ -100,6 +99,15 @@
         "der GW-G"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "Welche Aufgaben kann im Rahmen der Gefahrenabwehr ein TSF-W im Wesentlichen nicht abdecken?",
+      "answers": [
+        "die Brandbekämpfung",
+        "die Löschwasserversorgung",
+        "die Technische Hilfeleistung"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Welchem Fahrzeugtyp wird der RW zugeordnet?",
@@ -282,6 +290,15 @@
       "correctIndex": 1
     },
     {
+      "question": "Welche Aufgabe kann im Rahmen der Gefahrenabwehr mit einem TLF 3000 nicht abgedeckt werden?",
+      "answers": [
+        "die Waldbrandbekämpfung",
+        "die Dachstuhlbrandbekämpfung",
+        "die Technische Hilfeleistung"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Welche Aussage über ein MLF ist richtig?",
       "answers": [
         "Ein MLF hat eine Beladung für eine Gruppe.",
@@ -309,13 +326,22 @@
       "correctIndex": 0
     },
     {
-      "question": "Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines",
+      "question": "Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines TSF-W?",
       "answers": [
-        "TSF-W?",
         "10 B-Druckschläuche",
-        "12 B-Druckschläuche"
+        "12 B-Druckschläuche",
+        "14 B-Druckschläuche"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
+    },
+    {
+      "question": "Wozu dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden können?",
+      "answers": [
+        "zum Ziehen von Lasten mit dem Drahtseil",
+        "zum Ziehen von Lasten mittels Flaschenzug",
+        "zum Anheben von Lasten"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Welches nachfolgende Löschfahrzeug hat eine Staffelbesatzung?",
@@ -399,13 +425,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines",
+      "question": "Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines LF 10?",
       "answers": [
-        "LF 10?",
         "12 B-Druckschläuche",
-        "14 B-Druckschläuche"
+        "14 B-Druckschläuche",
+        "16 B-Druckschläuche"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welches nachfolgende Löschfahrzeug hat eine Staffelbesatzung?",

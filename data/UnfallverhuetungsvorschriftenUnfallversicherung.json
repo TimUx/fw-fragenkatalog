@@ -26,8 +26,7 @@
         "drei Personen",
         "vier Personen"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/UnfallverhuetungsvorschriftenUnfallversicherung_page125_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Welche Schutzausrüstung ist nach der UVV-Feuerwehren (DGUV-Vorschrift 49) bei Übungen und im Einsatz zu tragen?",
@@ -75,13 +74,13 @@
       "correctIndex": 0
     },
     {
-      "question": "Wo ist die Art der Durchführung der regelmäßigen Prüfungen von Ausrüstungen und Geräten nach der UVV-Feuerwehren (DGUV-Vorschrift 49), in Verbindung mit DGUV-Regel",
+      "question": "Wo ist die Art der Durchführung der regelmäßigen Prüfungen von Ausrüstungen und Geräten nach der UVV-Feuerwehren (DGUV-Vorschrift 49), in Verbindung mit DGUV-Regel 105-049 „Feuerwehren“, festgelegt?",
       "answers": [
-        "105-049 „Feuerwehren“, festgelegt?",
         "in den Prüfgrundsätzen für Ausrüstung und Geräte der Feuerwehr",
-        "in den Feuerwehr-Dienstvorschriften"
+        "in den Feuerwehr-Dienstvorschriften",
+        "in den Feuerschutzgesetzen der Bundesländer"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wie ist ein Schlauch beim Besteigen einer Leiter zu tragen?",
@@ -102,13 +101,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Was ist bei Leitern, die an Verkehrswegen aufgestellt sind, nach der DGUV Information 208-",
+      "question": "Was ist bei Leitern, die an Verkehrswegen aufgestellt sind, nach der DGUV Information 208- 016 „Handlungsanleitung für den Umgang mit Leitern und Tritten“ zu beachten?",
       "answers": [
-        "016 „Handlungsanleitung für den Umgang mit Leitern und Tritten“ zu beachten?",
         "Leitern auf Verkehrswegen sind gegen unbeabsichtigtes Umstoßen zu sichern.",
-        "Leitern dürfen nicht auf Verkehrswegen aufgestellt werden."
+        "Leitern dürfen nicht auf Verkehrswegen aufgestellt werden.",
+        "Leitern dürfen nur auf Verkehrswegen aufgestellt werden, wenn diese Wege von der Polizei"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wie sind nach der UVV-Feuerwehren (DGUV-Vorschrift 49) Strahlrohre, Schläuche und Verteiler zu benutzen?",
@@ -127,6 +126,15 @@
         "das Gemeindegebiet"
       ],
       "correctIndex": 0
+    },
+    {
+      "question": "Worauf ist nach der VDE 0132 „Brandbekämpfung in elektrischen Anlagen“ beim Aufrichten von Leitern in der Nähe elektrischer Freileitungen oder sonstiger Strom führender Teile zu achten?",
+      "answers": [
+        "Es ist darauf zu achten, dass die eingesetzten Leitern isoliert sind.",
+        "Es ist darauf zu achten, dass die eingesetzten Leitern geerdet sind.",
+        "Es ist darauf zu achten, dass ein entsprechender Sicherheitsabstand eingehalten wird."
+      ],
+      "correctIndex": 2
     },
     {
       "question": "In welchem Fall darf von einer tragbaren Leiter Wasser gegeben werden?",

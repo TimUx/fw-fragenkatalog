@@ -20,23 +20,31 @@
       "correctIndex": 1
     },
     {
+      "question": "Beim Einsatz eines Mehrzweckzuges ist die Überlastsicherung (Scherstift) wirksam geworden! Welche Maßnahmen sind erforderlich?",
+      "answers": [
+        "Der Scherstift wird gegen einen größeren ausgetauscht.",
+        "Die Last muss abgesichert oder abgelassen werden.",
+        "Es kann weitergearbeitet werden, denn vom Hersteller sind genügend Sicherheitsreserven"
+      ],
+      "correctIndex": 1
+    },
+    {
       "question": "Bis zu welchem Winkel darf die hydraulische Winde bei der Verwendung der balligrunden Fußplatte höchstens genutzt werden?",
       "answers": [
         "bis zu einem Winkel von 75° zur Ebene der Fußplatte",
         "bis zu einem Winkel von 65° zur Ebene der Fußplatte",
         "bis zu einem Winkel von 55° zur Ebene der Fußplatte"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Geraetekunde-Geraete-fuer-die-Technische-Hilfeleistung_page46_img1.png"
+      "correctIndex": 0
     },
     {
-      "question": "Welchem Zweck dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt",
+      "question": "Welchem Zweck dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden?",
       "answers": [
-        "werden?",
         "zum Heben oder Drücken von Lasten bei der technischen Hilfeleistung",
-        "zum Wechseln eines defekten Reifens"
+        "zum Wechseln eines defekten Reifens",
+        "zum Abstützen der Feuerwehrfahrzeuge in unwegsamem Gelände"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Wie hoch ist der zulässige Betriebsdruck von hydraulischen Rettungsgeräten nach DIN EN 13204 (doppelt wirkende hydraulische Rettungsgeräte)?",
@@ -102,22 +110,22 @@
       "correctIndex": 0
     },
     {
-      "question": "Welche Aussage zum Einsatz von Druckkissen ist nach der FwDV 1 „Grundtätigkeiten“",
+      "question": "Welche Aussage zum Einsatz von Druckkissen ist nach der FwDV 1 „Grundtätigkeiten“ richtig?",
       "answers": [
-        "richtig?",
         "Es müssen mindestens 50 % der Kissenfläche unter der Last liegen.",
-        "Es müssen mindestens 75 % der Kissenfläche unter der Last liegen."
+        "Es müssen mindestens 75 % der Kissenfläche unter der Last liegen.",
+        "Die Kissenfläche muss komplett unter der Last liegen."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
-      "question": "Durch welche Einschlagrichtung der Erdnägel kann ein Erdanker die größte Zugkraft",
+      "question": "Durch welche Einschlagrichtung der Erdnägel kann ein Erdanker die größte Zugkraft aufnehmen?",
       "answers": [
-        "aufnehmen?",
         "entgegen der Zugrichtung",
-        "in Zugrichtung"
+        "in Zugrichtung",
+        "50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

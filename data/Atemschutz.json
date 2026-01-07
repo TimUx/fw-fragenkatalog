@@ -35,8 +35,7 @@
         "zu den Atemgiften mit Reiz- und Ätzwirkung",
         "zu den Atemgiften mit Wirkung auf Blut, Nerven und Zellen"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/Atemschutz_page9_img1.png"
+      "correctIndex": 2
     },
     {
       "question": "Welche Einsatzsituationen erfordern das Tragen eines Chemikalienschutzanzuges (CSA)?",
@@ -102,6 +101,15 @@
       "correctIndex": 1
     },
     {
+      "question": "Welche Voraussetzung muss ein Feuerwehrangehöriger bei Tätigkeiten unter Atemschutz erfüllen?",
+      "answers": [
+        "Er muss lediglich eine Unterweisung am Behältergerät nachweisen können.",
+        "Keine, er darf aber kein Vollbartträger sein.",
+        "Er muss zum Zeitpunkt des Einsatzes gesund sein."
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Was ist nach dem Verlassen des Gefahrenbereiches durch den Atemschutztrupp einzuleiten?",
       "answers": [
         "Eine Kurzprüfung der verwendeten Atemschutzgeräte ist durchzuführen.",
@@ -138,6 +146,15 @@
       "correctIndex": 1
     },
     {
+      "question": "Welche Prüfung muss der Atemschutzgeräteträger vor dem Einsatz am Pressluftatmer vornehmen?",
+      "answers": [
+        "die 6-Jahres-Prüfung",
+        "die Überprüfung des Druckminderers",
+        "die Überprüfung der Einsatzbereitschaft vor dem Einsatz (Einsatzkurzprüfung)"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Wie kann der Träger eines Atemschutzgerätes eine Atemkrise vermeiden?",
       "answers": [
         "indem er die Atemschutzmaske vom Gesicht reißt",
@@ -147,13 +164,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Sie wollen mit der Luft Ihres Pressluftatmers sparsam umgehen. Wie können Sie das",
+      "question": "Sie wollen mit der Luft Ihres Pressluftatmers sparsam umgehen. Wie können Sie das erreichen?",
       "answers": [
-        "erreichen?",
         "den Lungenautomat bei längerem Anmarschweg erst vor dem Gefahrenbereich anschrauben",
-        "lassen"
+        "lassen",
+        "das Atemschutzgerät erst beim Erkennen der Atemgifte anlegen"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Welchen Zweck erfüllt der Lungenautomat an einem Behältergerät?",

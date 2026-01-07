@@ -11,6 +11,15 @@
       "correctIndex": 1
     },
     {
+      "question": "Während des Vollbrandes eines Hauses platzen beim Nachbarhaus durch Wärmeübertragung Fensterscheiben. Um welche Art der Wärmeübertragung handelt es sich hier?",
+      "answers": [
+        "um Wärmemitführung",
+        "um Wärmeleitung",
+        "um Wärmestrahlung"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Welche Möglichkeit ist nicht geeignet, um bei Einsatzkräften einer Angst- oder Panikreaktion vorzubeugen?",
       "answers": [
         "eine allgemein gute Ausbildung",
@@ -26,8 +35,7 @@
         "Atemgifte können durch verschmutzte Einsatzkleidung verschleppt werden.",
         "Bei Atemgiften handelt es sich stets um Gase."
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Verhalten-bei-Gefahren_page131_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Welches ist keine geeignete Möglichkeit, beim Atemschutzeinsatz in verrauchten Bereichen das Auffinden des Rückweges sicherzustellen?",

@@ -35,8 +35,7 @@
         "den Herstellerangaben.",
         "pro Leiterteil immer nur eine Person"
       ],
-      "correctIndex": 0,
-      "image": "assets/piktos/Geraetekunde-Rettungsgeraete_page109_img1.png"
+      "correctIndex": 0
     },
     {
       "question": "Wie wird eine Steckleiter auf engem Raum in Stellung gebracht?",
@@ -129,13 +128,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Bei welcher nachfolgenden tragbaren Leiter ist die Transportlänge größer als die Einsatz-",
+      "question": "Bei welcher nachfolgenden tragbaren Leiter ist die Transportlänge größer als die Einsatz- länge?",
       "answers": [
-        "länge?",
         "bei der Klappleiter",
-        "bei der Steckleiter"
+        "bei der Steckleiter",
+        "bei der Schiebleiter"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Mit welchen Knoten wird nach der FwDV 10 „Die tragbaren Leitern“ das Zugseil der ausgezogenen dreiteiligen Schiebleiter befestigt?",
@@ -174,13 +173,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Wo ist nach der FwDV 10 „Die tragbaren Leitern“ eine Steckleiter vor dem Aufrichten",
+      "question": "Wo ist nach der FwDV 10 „Die tragbaren Leitern“ eine Steckleiter vor dem Aufrichten abzulegen?",
       "answers": [
-        "abzulegen?",
         "etwa drei Schritte vor dem Objekt",
-        "etwa einen Schritt vor dem Objekt"
+        "etwa einen Schritt vor dem Objekt",
+        "direkt am Objekt"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Was sind nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern?",
@@ -190,6 +189,15 @@
         "Einsatz getragen werden."
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "Wofür können nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern eingesetzt werden?",
+      "answers": [
+        "nur als Rammbock zum Aufbrechen verschlossener Türen",
+        "nur zum Erreichen von Zielen oberhalb der Standebene",
+        "als Rettungsweg, Angriffsweg und als Hilfsgerät"
+      ],
+      "correctIndex": 2
     },
     {
       "question": "Wie viele Steckleiterteile werden maximal benötigt, um das erste Obergeschoss (Oberkante Brüstung ca. 5 m) sicher zu erreichen?",

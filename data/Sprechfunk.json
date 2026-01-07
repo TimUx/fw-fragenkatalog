@@ -17,8 +17,7 @@
         "der Servicepoint",
         "die Autorisierte Stelle (AS)"
       ],
-      "correctIndex": 1,
-      "image": "assets/piktos/Sprechfunk_page119_img1.png"
+      "correctIndex": 1
     },
     {
       "question": "Kann beim Einsatz tragbarer Sprechfunkanlagen (z. B. HRT) in Stahlbetonkonstruktionen oder Tunnelanlagen die Ausbreitung der elektromagnetischen Wellen behindert werden?",

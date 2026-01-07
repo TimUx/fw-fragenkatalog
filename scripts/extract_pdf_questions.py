@@ -43,6 +43,7 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
         chapters = {}
         current_chapter = None
         current_question = None
+        question_count = 0
         
         for page_num, page in enumerate(pdf.pages):
             text = page.extract_text()
@@ -62,6 +63,11 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                 
                 # Detect new chapter - it comes after the "Fragenkatalog..." line
                 if i > 0 and 'Fragenkatalog zur Hessischen Feuerwehrleistungsübung' in lines[i-1]:
+                    # Save any pending question from previous chapter
+                    if current_question and len(current_question['answers']) == 3 and current_question['correctIndex'] >= 0:
+                        chapters[current_chapter]['questions'].append(current_question)
+                        current_question = None
+                    
                     # Skip the "Es ist nur eine..." line
                     if 'Es ist nur eine Antwortmöglichkeit richtig!' not in line:
                         current_chapter = line
@@ -70,6 +76,7 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                                 'title': current_chapter,
                                 'questions': []
                             }
+                            question_count = 0
                             print(f"Found chapter: {current_chapter}")
                     i += 1
                     continue
@@ -77,30 +84,53 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                 # Detect question - starts with number followed by dot and space
                 question_match = re.match(r'^(\d+)\.\s+(.+)$', line)
                 if question_match and current_chapter:
-                    # Save previous question if it's complete
+                    # Save previous question if it has 3 answers (even if correctIndex not set properly)
                     if current_question and len(current_question['answers']) == 3:
-                        chapters[current_chapter]['questions'].append(current_question)
+                        # If correctIndex not set, find the one marked with 'x'
+                        if current_question['correctIndex'] < 0:
+                            print(f"  Warning: Question without marked answer on page {page_num+1}")
+                        else:
+                            chapters[current_chapter]['questions'].append(current_question)
+                            question_count += 1
+                    elif current_question and len(current_question['answers']) > 0:
+                        # Question has some answers but not 3, this is incomplete
+                        print(f"  Warning: Incomplete question (only {len(current_question['answers'])} answers) on page {page_num+1}")
                     
                     # Start new question
                     question_text = question_match.group(2)
                     
-                    # Question might span multiple lines - collect until we hit an answer
+                    # Question might span multiple lines - collect until we hit an answer or next question
                     j = i + 1
-                    while j < len(lines):
+                    collecting_question = True
+                    while j < len(lines) and collecting_question:
                         next_line = lines[j].strip()
-                        # Stop if we hit an answer line
+                        
+                        # Skip empty lines
+                        if not next_line:
+                            j += 1
+                            continue
+                        
+                        # Stop if we hit a marked answer line
                         if next_line.startswith('x ') or next_line.startswith('X '):
                             break
+                        
                         # Stop if next question
                         if re.match(r'^\d+\.\s+', next_line):
                             break
-                        # Stop if footer
-                        if 'Antwortkatalog' in next_line or 'Seite' in next_line:
+                        
+                        # Stop if footer/header
+                        if 'Antwortkatalog' in next_line or 'Seite' in next_line or 'Hessische' in next_line:
+                            j += 1
+                            continue
+                        
+                        # Check if this looks like an answer (not starting with lowercase, reasonable length)
+                        # If question already ends with punctuation, this is likely an answer
+                        if question_text.endswith('?') or question_text.endswith('.'):
+                            # This is probably an answer, stop collecting
                             break
-                        # Stop if we hit what looks like an answer
-                        if len(next_line) > 0 and not next_line[0].isdigit() and len(next_line) > 10:
-                            if question_text.endswith('?') or question_text.endswith('.'):
-                                break
+                        
+                        # Otherwise, append to question
+                        if next_line and len(next_line) > 0:
                             question_text += ' ' + next_line
                             j += 1
                         else:
@@ -116,52 +146,69 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                 
                 # Detect answers - collect exactly 3 answers after each question
                 if current_question is not None and len(current_question['answers']) < 3:
-                    # Skip footers
-                    if 'Antwortkatalog' in line or 'Seite' in line:
+                    # Skip footers/headers
+                    if 'Antwortkatalog' in line or 'Seite' in line or 'Hessische' in line:
+                        i += 1
+                        continue
+                    
+                    # Skip empty lines
+                    if not line:
                         i += 1
                         continue
                     
                     # Check if this is a marked correct answer
                     if line.startswith('x ') or line.startswith('X '):
                         answer_text = line[2:].strip()
-                        current_question['correctIndex'] = len(current_question['answers'])
-                        current_question['answers'].append(answer_text)
+                        if answer_text:  # Only add non-empty answers
+                            current_question['correctIndex'] = len(current_question['answers'])
+                            current_question['answers'].append(answer_text)
                         i += 1
                         continue
                     
-                    # This is a regular answer
-                    if not re.match(r'^\d+\.\s+', line):
+                    # This is a regular answer (not starting with number dot)
+                    if not re.match(r'^\d+\.\s+', line) and line:
                         current_question['answers'].append(line)
                         i += 1
                         continue
                 
                 i += 1
             
-            # Save any pending question at end of page
-            if current_question and len(current_question['answers']) == 3 and current_question['correctIndex'] >= 0:
-                chapters[current_chapter]['questions'].append(current_question)
+            # Save any pending question at end of page (don't reset current_question - it might continue on next page)
+            if current_question and len(current_question['answers']) == 3:
+                if current_question['correctIndex'] >= 0:
+                    chapters[current_chapter]['questions'].append(current_question)
+                    question_count += 1
                 current_question = None
             
-            # Check for images on this page
+            # Check for images on this page (skip page3_img1 - Hessian logos)
             if page.images and current_chapter and chapters[current_chapter]['questions']:
-                last_question = chapters[current_chapter]['questions'][-1]
-                
-                # Extract and save images
+                # Only add image to questions that mention pictograms/symbols in the question text
                 for img_idx, img_info in enumerate(page.images):
                     try:
+                        chapter_normalized = normalize_chapter_name(current_chapter)
+                        img_filename = f"{chapter_normalized}_page{page_num+1}_img{img_idx+1}.png"
+                        
+                        # Skip page3_img1 (Hessian logos on first page of chapters)
+                        if 'page3_img1' in img_filename:
+                            print(f"  Skipping Hessian logo: {img_filename}")
+                            continue
+                        
                         bbox = (img_info['x0'], img_info['top'], img_info['x1'], img_info['bottom'])
                         cropped_page = page.crop(bbox)
                         img = cropped_page.to_image(resolution=150)
                         
-                        chapter_normalized = normalize_chapter_name(current_chapter)
-                        img_filename = f"{chapter_normalized}_page{page_num+1}_img{img_idx+1}.png"
                         img_path = os.path.join(assets_dir, img_filename)
-                        
                         img.save(img_path)
                         
-                        if 'image' not in last_question:
-                            last_question['image'] = f"assets/piktos/{img_filename}"
-                            print(f"  Saved image: {img_filename}")
+                        # Find the question that references this image
+                        # Look for questions mentioning "Großzettel", "Gefahrzettel", "folgenden", etc.
+                        for q in reversed(chapters[current_chapter]['questions'][-3:]):  # Check last 3 questions
+                            if 'image' not in q:
+                                q_lower = q['question'].lower()
+                                if any(keyword in q_lower for keyword in ['großzettel', 'gefahrzettel', 'folgenden', 'piktogramm', 'symbol', 'flammensymbol']):
+                                    q['image'] = f"assets/piktos/{img_filename}"
+                                    print(f"  Saved image: {img_filename}")
+                                    break
                     except (IOError, OSError, ValueError, KeyError) as e:
                         print(f"  Error extracting image from page {page_num+1}: {e}")
     
