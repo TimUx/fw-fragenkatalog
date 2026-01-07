@@ -8,11 +8,11 @@ Dieses Projekt wurde entwickelt, um Feuerwehrangehörige bei der Vorbereitung au
 
 ## ✨ Features
 
-- **Kapiteltraining**: Wählen Sie spezifische Themengebiete aus, um gezielt zu üben
+- **Kapiteltraining**: Wählen Sie spezifische Themengebiete aus, um gezielt zu üben (mit Fragenanzahl)
 - **Prüfungsmodus**: Simulieren Sie eine echte Prüfung mit 30 zufälligen Fragen
 - **Sofortiges Feedback**: Erhalten Sie direkt nach jeder Antwort eine Rückmeldung
 - **Responsives Design**: Funktioniert auf Desktop, Tablet und Smartphone
-- **Offline-fähig**: Keine Internetverbindung nach dem ersten Laden erforderlich
+- **Progressive Web App (PWA)**: Installierbar auf Startbildschirm, funktioniert offline
 - **Bildunterstützung**: Fragen können mit Piktogrammen oder Bildern versehen werden
 
 ## 🛠️ Technologie-Stack
@@ -21,6 +21,7 @@ Dieses Projekt wurde entwickelt, um Feuerwehrangehörige bei der Vorbereitung au
 - **CSS3**: Styling mit modernem, responsivem Design
 - **JavaScript (Vanilla)**: Logik und Interaktivität
 - **JSON**: Datenspeicherung für Fragen und Antworten
+- **PWA**: Service Worker für Offline-Funktionalität und Installierbarkeit
 
 ## 📁 Projektstruktur
 
@@ -28,6 +29,8 @@ Dieses Projekt wurde entwickelt, um Feuerwehrangehörige bei der Vorbereitung au
 fw-fragenkatalog/
 ├── index.html          # Haupt-HTML-Datei
 ├── app.js              # JavaScript-Logik
+├── manifest.json       # PWA Manifest
+├── sw.js               # Service Worker für Offline-Funktionalität
 ├── style.css           # Styling
 ├── assets/
 │   └── wappen.png      # Logo der FFW Willingshausen
@@ -149,6 +152,34 @@ Da es sich um eine statische Website handelt, kann sie auf jedem Webserver oder 
 - Vercel
 - AWS S3
 - Firebase Hosting
+
+## 📱 Progressive Web App (PWA)
+
+Diese Anwendung ist als Progressive Web App (PWA) konzipiert und bietet folgende Vorteile:
+
+### Installation
+
+**Auf Mobilgeräten (iOS/Android):**
+1. Öffnen Sie die App im Browser
+2. Wählen Sie "Zum Startbildschirm hinzufügen" (iOS) oder "App installieren" (Android)
+3. Die App wird wie eine native App auf Ihrem Gerät installiert
+
+**Auf Desktop (Chrome/Edge):**
+1. Klicken Sie auf das Install-Symbol in der Adressleiste
+2. Bestätigen Sie die Installation
+3. Die App wird als eigenständige Anwendung installiert
+
+### Offline-Funktionalität
+
+- **Service Worker**: Cachet alle notwendigen Dateien automatisch
+- **Offline-Nutzung**: Die App funktioniert vollständig offline nach dem ersten Laden
+- **Schneller Start**: Gecachte Dateien werden sofort geladen
+
+### PWA-Dateien
+
+- `manifest.json`: Definiert App-Metadaten, Icons und Verhalten
+- `sw.js`: Service Worker für Caching und Offline-Funktionalität
+- `assets/icons/`: App-Icons in verschiedenen Größen (72x72 bis 512x512)
 
 ## 🎨 Anpassungen
 
