@@ -149,8 +149,8 @@
       "question": "Wie viele Feuerwehrangehörige sind bei der Vornahme einer 4-teiligen Steckleiter nach der FwDV 10 „Die tragbaren Leitern“ erforderlich?",
       "answers": [
         "fünf Feuerwehrangehörige",
-        "drei oder vier Feuerwehrangehörige zwei Feuerwehrangehörige 18 Wer unterstützt nach der FwDV 10 „Die tragbaren Leitern“ die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?",
-        "der Gruppenführer der Melder der Maschinist"
+        "drei oder vier Feuerwehrangehörige zwei Feuerwehrangehörige",
+        "zwei Feuerwehrangehörige "
       ],
       "correctIndex": 2
     },
@@ -364,8 +364,8 @@
     {
       "question": "Wodurch wird die Standsicherheit von tragbaren Leitern beeinträchtigt?",
       "answers": [
-        "wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende",
-        "gesichert ist wenn die Leiter mit Stützstangen gesichert ist",
+        "wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende gesichert ist ",
+        "wenn die Leiter mit Stützstangen gesichert ist",
         "wenn beim Wassergeben von der Leiter die Leiter am Kopfende nicht befestigt ist"
       ],
       "correctIndex": 2
@@ -393,7 +393,7 @@
       "answers": [
         "10° zu beiden Seiten",
         "15° zu beiden Seiten",
-        "20° zu beiden Seiten Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "20° zu beiden Seiten"
       ],
       "correctIndex": 1
     }
