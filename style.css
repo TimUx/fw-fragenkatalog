@@ -197,6 +197,79 @@ img.pictogram{
     font-weight: 600;
 }
 
+/* Incorrect Questions Review */
+.incorrect-section{
+    margin-top: 40px;
+    text-align: left;
+}
+
+.incorrect-section h3{
+    color: #e74c3c;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.incorrect-questions{
+    margin-top: 20px;
+}
+
+.incorrect-item{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+    padding: 20px;
+    background: #fff5f5;
+    border-radius: 8px;
+    border-left: 4px solid #e74c3c;
+}
+
+.incorrect-number{
+    font-size: 20px;
+    font-weight: 700;
+    color: #e74c3c;
+    min-width: 35px;
+}
+
+.incorrect-details{
+    flex: 1;
+}
+
+.incorrect-question{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+.incorrect-answers{
+    margin-top: 10px;
+}
+
+.incorrect-answer{
+    padding: 10px 15px;
+    margin: 8px 0;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    color: #555;
+}
+
+.answer-correct-review{
+    background: #d4edda !important;
+    border-color: #27ae60 !important;
+    color: #155724 !important;
+    font-weight: 600;
+}
+
+.answer-wrong-review{
+    background: #f8d7da !important;
+    border-color: #e74c3c !important;
+    color: #721c24 !important;
+    font-weight: 600;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     main, section{
