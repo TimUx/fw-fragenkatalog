@@ -1,0 +1,96 @@
+{
+  "title": "Physische und psychische Belastung",
+  "questions": [
+    {
+      "question": "Welcher Einsatz ist psychisch besonders belastend?",
+      "answers": [
+        "ein stundenlanger Einsatz wegen einer Ölspur",
+        "ein Einsatz mit verletzten oder sterbenden Kindern",
+        "ein langwieriger Unwettereinsatz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wodurch kann Stress im Einsatz entstehen?",
+      "answers": [
+        "Stress kann durch einen Wetterumschwung entstehen.",
+        "Stress kann durch körperliche Fitness entstehen.",
+        "Stress kann durch zu viele oder zu wenige Informationen entstehen."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie kann sich Stress im Einsatz auswirken?",
+      "answers": [
+        "ruhiges, überlegtes Arbeiten",
+        "verminderte Entscheidungsfähigkeit",
+        "Es entsteht das Gefühl der Unterforderung."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Welche Maßnahme ist geeignet, um eine persönliche Belastung zu minimieren?",
+      "answers": [
+        "Ausreichend schlafen und „genügend Zeit für sich selbst“ finden.",
+        "Änderungen der persönlichen Lebenssituation keinesfalls mit anderen besprechen.",
+        "Sich nicht zu viel fachliches Wissen aneignen."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Maßnahme ist geeignet, um Stressreaktionen der Einsatzkräfte zu senken?",
+      "answers": [
+        "Hektik",
+        "Ordnung an der Einsatzstelle",
+        "Unentschlossenheit"
+      ],
+      "correctIndex": 1,
+      "image": "assets/piktos/Physische-und-psychische-Belastung_page99_img1.png"
+    },
+    {
+      "question": "Auf der Rückfahrt von einem schwierigen Einsatz ist ein ansonsten sehr ruhiger Kamerad ausgesprochen redselig.",
+      "answers": [
+        "Was könnte die Ursache für dieses Verhalten sein?",
+        "Der Kamerad ist um diese Uhrzeit besonders fit.",
+        "Der Kamerad leidet unter akutem Stress."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nach einem schwierigen Einsatz fällt Ihnen auf, dass ein Kamerad mehr als üblich raucht und sich gereizt verhält.",
+      "answers": [
+        "Welche der nachstehenden Verhaltensweisen ist in einer solchen Situation angemessen?",
+        "Ich bitte ihn um eine Zigarette und rauche aus Sympathie mit.",
+        "Ich frage vorsichtig nach, ob ihn etwas bedrückt oder er irgendwelche Probleme hat."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Sie bemerken bei sich selbst, dass Sie in letzter Zeit häufig gereizt reagieren und schlecht schlafen. Ständig müssen Sie an den Einsatz mit dem schwerverletzten Kind vor ein paar Wochen denken. Dadurch sind Sie auch häufig unkonzentriert.",
+      "answers": [
+        "Welche der nachstehenden Maßnahmen ist zur Lösung dieses Problems angemessen?",
+        "Ich besorge mir Schlaftabletten, das andere geht schon vorüber.",
+        "Ich rede mit Freunden oder Kameraden über den Einsatz."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Wie kann Stress für Einsatzkräfte vermieden werden?",
+      "answers": [
+        "nur neueste Geräte einsetzen",
+        "aus Fehlern lernen (Einsatznachbesprechung)",
+        "keine Pausen machen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Durch welche sinnvolle Maßnahme kann eine Wärmebelastung des Körpers unmittelbar nach einem Atemschutzeinsatz verringert werden?",
+      "answers": [
+        "Ich öffne die Feuerwehrüberjacke.",
+        "Ich verzichte auf Hygienemaßnahmen und nehme Flüssigkeit zu mir.",
+        "Ich stelle mich in die Zuluftöffnung und lasse mich vom Belüftungsgerät abkühlen."
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

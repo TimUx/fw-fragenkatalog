@@ -1,0 +1,87 @@
+{
+  "title": "Wasserförderung",
+  "questions": [
+    {
+      "question": "Welche Bedeutung hat die Zahl „100“ nach dem Buchstaben „H“ auf einem Hinweisschild für Unterflurhydranten?",
+      "answers": [
+        "Der Durchmesser der Versorgungsleitung, an die der Hydrant angeschlossen ist, beträgt",
+        "100 mm.",
+        "Der Hydrant liegt in einer Entfernung von 100 m vom Objekt."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie viel Liter Wasser liefern ein BM- und ein CM-Strahlrohr bei einem Strahlrohrdruck von",
+      "answers": [
+        "5 bar in 10 Minuten, wenn beide Strahlrohre ohne Mundstück eingesetzt sind?",
+        "ca. 10.000 l",
+        "ca. 8.000 l"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Was ist beim Einsatz von Schlauchbrücken nach der FwDV 1 „Grundtätigkeiten“ zu",
+      "answers": [
+        "beachten?",
+        "Schlauchbrücken dürfen nur zum Überbrücken von B-Schlauchleitungen eingesetzt werden.",
+        "Auf die Verkehrssicherung ist besonders zu achten."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Was ist beim Aufbau einer Löschwasserförderstrecke über lange Wege zu beachten?",
+      "answers": [
+        "Schläuche sind möglichst am Rand von Verkehrswegen zu verlegen.",
+        "Die Schlauchleitung ist immer auf direktem und kürzestem Weg zu verlegen.",
+        "Beim Überqueren von Gleiskörpern ist die Schlauchleitung durch Schlauchbrücken zu sichern."
+      ],
+      "correctIndex": 0,
+      "image": "assets/piktos/Wasserfoerderung_page136_img1.png"
+    },
+    {
+      "question": "Was ist beim Aufbau einer Löschwasserförderstrecke über lange Wege zu beachten?",
+      "answers": [
+        "Schwieriges, unübersichtliches, unebenes Gelände und Hindernisse zum Aufbau der",
+        "Löschwasserförderstrecke sind möglichst zu meiden.",
+        "Beim Auslegen von Druckschläuchen über Hindernisse (Zäune o. ä.) dürfen Steckleiterteile als"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Welche Aussage bezüglich des Förderstroms bei einer Löschwasserförderung ist richtig?",
+      "answers": [
+        "Der Förderstrom ändert sich proportional der Förderlänge.",
+        "Der Förderstrom ändert sich durch Änderung der Abgabemenge.",
+        "Der Förderstrom ändert sich bei einer ruhenden Löschwasserförderstrecke."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie ändert sich der Druckverlust, bezogen auf die Veränderung der Streckenlänge bei einer Löschwasserförderstrecke?",
+      "answers": [
+        "Er verändert sich proportional.",
+        "Er verändert sich im Quadrat der Entfernung.",
+        "Er verändert sich durch Veränderung der Streckenlänge nicht."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wie muss der Schlauch bei Verlegung einer Schlauchleitung mit einer fahrbaren Schlauchhaspel abrollen?",
+      "answers": [
+        "von oben",
+        "von unten",
+        "dabei gibt es keine Vorgabe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wie viele Ersatzschläuche werden beim Aufbau einer Löschwasserförderstrecke bereitgestellt?",
+      "answers": [
+        "ein Schlauch je 500 m Förderstrecke",
+        "ein Schlauch je 200 m Förderstrecke",
+        "ein Schlauch je 100 m Förderstrecke"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
