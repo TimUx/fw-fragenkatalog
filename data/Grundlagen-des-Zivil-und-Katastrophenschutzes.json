@@ -76,9 +76,9 @@
     {
       "question": "Was ist keine Aufgabe der Personenauskunftstelle?",
       "answers": [
-        "Die Personenauskunftstelle gibt Pressevertretern Auskunft über die Anzahl von toten,",
-        "vermissten und verletzten Personen.",
-        "Die Personenauskunftstelle nimmt Suchanfragen aus der Bevölkerung entgegen."
+        "Die Personenauskunftstelle gibt Pressevertretern Auskunft über die Anzahl von toten, vermissten und verletzten Personen.",
+        "Die Personenauskunftstelle nimmt Suchanfragen aus der Bevölkerung entgegen.",
+        " Die Personenauskunftstelle erfasst, speichert und aktualisiert laufend Personendaten während eines Katastrophenfalls und gibt Angehörigen Auskunft über deren Verbleib."
       ],
       "correctIndex": 0
     },
