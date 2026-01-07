@@ -17,8 +17,11 @@ function formatChapterDisplayName(filename) {
 
 async function ensureAllChaptersLoaded() {
     await Promise.all(chapters.map(async ch => {
-        if(!loadedChapters[ch]){
+        if (!loadedChapters[ch]) {
             const r = await fetch(`data/${ch}`);
+            if (!r.ok) {
+                throw new Error(`Failed to load chapter ${ch}: ${r.status} ${r.statusText}`);
+            }
             loadedChapters[ch] = await r.json();
         }
     }));
