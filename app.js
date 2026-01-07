@@ -244,7 +244,7 @@ function showResult(){
                                     classes += ' answer-correct-review';
                                     prefix = '✓ ';
                                 }
-                                if(i === ua.userAnswerIndex && i !== q.correctIndex){
+                                if(i === ua.userAnswerIndex){
                                     classes += ' answer-wrong-review';
                                     prefix = '✗ ';
                                 }
