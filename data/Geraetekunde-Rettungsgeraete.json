@@ -155,15 +155,13 @@
       "correctIndex": 1
     },
     {
-      "question": "[PLATZHALTER] Frage 18 im Kapitel Gerätekunde: Rettungsgeräte - Diese Frage muss noch aus dem PDF übernommen werden.",
+      "question": "Wer unterstützt nach der FwDV 10 \"Die tragbaren Leitern\" die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?",
       "answers": [
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort A)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort B)",
-        "[PLATZHALTER] Diese Antwort muss aus dem PDF übernommen werden (Antwort C)"
+        "der Gruppenführer",
+        "der Melder",
+        "der Maschinist"
       ],
-      "correctIndex": 0,
-      "placeholder": true,
-      "note": "Diese Frage konnte nicht aus dem PDF extrahiert werden und muss manuell ergänzt werden."
+      "correctIndex": 2
     },
     {
       "question": "Wo wird eine vierteilige Steckleiter beim Aufrichten vom Trupp angefasst?",
