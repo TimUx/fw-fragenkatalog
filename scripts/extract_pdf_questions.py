@@ -162,7 +162,7 @@ def extract_questions_from_pdf(pdf_path, output_dir, assets_dir):
                         if 'image' not in last_question:
                             last_question['image'] = f"assets/piktos/{img_filename}"
                             print(f"  Saved image: {img_filename}")
-                    except Exception as e:
+                    except (IOError, OSError, ValueError, KeyError) as e:
                         print(f"  Error extracting image from page {page_num+1}: {e}")
     
     # Save JSON files for each chapter
