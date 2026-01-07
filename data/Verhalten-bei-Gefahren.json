@@ -193,9 +193,9 @@
     {
       "question": "Welches Truppmitglied geht beim Atemschutzeinsatz beim Absuchen von verrauchten Bereichen grundsätzlich vor?",
       "answers": [
-        "der Truppführer der Truppmann",
-        "hierbei gibt es keine Festlegung",
-        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "der Truppführer",
+        "der Truppmann ",
+        "hierbei gibt es keine Festlegung"
       ],
       "correctIndex": 0
     }
