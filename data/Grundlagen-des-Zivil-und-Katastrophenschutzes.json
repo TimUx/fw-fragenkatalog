@@ -33,16 +33,16 @@
       "answers": [
         "die Regierungspräsidentin/der Regierungspräsident eines Regierungsbezirkes",
         "die Landrätin/der Landrat eines Landkreises bzw. die Oberbürgermeisterin/der",
-        "Oberbürgermeister einer kreisfreien Stadt"
+        "Oberbürgermeister einer kreisfreien Stadt die Bürgermeisterin/der Bürgermeister einer Gemeinde"
       ],
       "correctIndex": 1
     },
     {
       "question": "Woraus setzt sich eine Katastrophenschutzleitung mindestens zusammen?",
       "answers": [
-        "aus einem Katastrophenschutzstab, aus einem Verwaltungsstab, einer GABC-Messzentrale",
-        "sowie einer Informations- und Kommunikationszentrale",
-        "aus dem Katastrophenschutzstab und einer Technischen Einsatzleitung"
+        "aus einem Katastrophenschutzstab, aus einem Verwaltungsstab, einer GABC-Messzentrale sowie einer Informations- und Kommunikationszentrale",
+        "aus dem Katastrophenschutzstab und einer Technischen Einsatzleitung",
+        "aus dem Krisenstab und einer Zentralen Leitstelle"
       ],
       "correctIndex": 0
     },
@@ -148,20 +148,20 @@
     {
       "question": "Welche Aussage zur Führungsorganisation im Katastrophenfall ist nicht richtig?",
       "answers": [
-        "Die Führungsorganisation im Katastrophenfall baut auf der Führungsstruktur der täglichen",
-        "Gefahrenabwehr auf.",
-        "Es ist immer eine Gefahrstoff-ABC-Messzentrale (GABC-MZt) einzurichten und zu betreiben."
+        "Die Führungsorganisation im Katastrophenfall baut auf der Führungsstruktur der täglichen Gefahrenabwehr auf.",
+        "Es ist immer eine Gefahrstoff-ABC-Messzentrale (GABC-MZt) einzurichten und zu betreiben.",
+        "Alle an der Katastrophenabwehr beteiligten Einsatzkräfte sind der die Abwehrmaßnahmen leitenden Katastrophenschutzbehörde unterstellt."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Aufgaben hat der Zivilschutz-Hubschrauber (ZSH)?",
       "answers": [
-        "Er führt eine Schadensbekämpfung aus der Luft durch.",
-        "Ihn können Vertreter der Presse nutzen, um Aufnahmen von der Schadenstelle zu machen.",
-        "Er kann für andere Behörden und Dienststellen Amtshilfe leisten."
+        "Er führt eine Schadensbekämpfung aus der Luft durch. Ihn können Vertreter der Presse nutzen, um Aufnahmen von der Schadenstelle zu machen.",
+        "Er kann für andere Behörden und Dienststellen Amtshilfe leisten.",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

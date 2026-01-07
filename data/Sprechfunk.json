@@ -11,18 +11,18 @@
       "correctIndex": 2
     },
     {
-      "question": "Im Digitalfunknetz der BOS werden die Betriebsarten \"Netzbetrieb\" (TMO - Trunked Mode Operation) und \"netzunabhängiger Betrieb\" (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?",
+      "question": "Im Digitalfunknetz der BOS werden die Betriebsarten „Netzbetrieb“ (TMO - Trunked Mode Operation) und „netzunabhängiger Betrieb“ (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?",
       "answers": [
-        "Die Betriebsart \"Netzbetrieb\" (TMO) ist für Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.",
-        "Die Betriebsart \"netzunabhängiger Betrieb\" (DMO) ist ausschließlich in Gebäuden zulässig.",
-        "In der Betriebsart \"netzunabhängiger Betrieb\" (DMO) können zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu müssen."
+        "Die Betriebsart „Netzbetrieb“ (TMO) ist für Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.",
+        "Die Betriebsart „netzunabhängiger Betrieb“ (DMO) ist ausschließlich in Gebäuden zulässig.",
+        "In der Betriebsart „netzunabhängiger Betrieb“ (DMO) können zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu müssen."
       ],
       "correctIndex": 2
     },
     {
-      "question": "Welche Aussage trifft für die Rufart \"Einzelruf\" in der Betriebsart \"Netzbetrieb\" (TMO - Trunked Mode Operation) zu?",
+      "question": "Welche Aussage trifft für die Rufart „Einzelruf\" in der Betriebsart „Netzbetrieb“ (TMO Trunked Mode Operation) zu?",
       "answers": [
-        "Der Einzelruf ist in der Betriebsart \"Netzbetrieb\" (TMO) nur mit Handfunkgeräten möglich.",
+        "Der Einzelruf ist in der Betriebsart „Netzbetrieb“ (TMO) nur mit Handfunkgeräten möglich.",
         "Der Einzelruf entspricht dem Linienverkehr im Analogfunk. Alle Teilnehmer hören das laufende Funkgespräch mit, dürfen jedoch nicht an der Kommunikation teilnehmen.",
         "Unter dem Einzelruf wird eine Punkt-zu-Punkt-Verbindung zwischen zwei Teilnehmern verstanden."
       ],
@@ -56,13 +56,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Buchstabieren Sie das Wort „FALSCH“ nach der „Buchstabiertafel Inland“.",
+      "question": "Buchstabieren Sie das Wort „FALSCH“ nach der „Buchstabiertafel Inland“. Ich buchstabiere: Foxtrott, Alpha, Lima, Sierra, Charlie, Hotel",
       "answers": [
-        "Ich buchstabiere:",
-        "Foxtrott, Alpha, Lima, Sierra, Charlie, Hotel",
-        "Friedrich, Anton, Ludwig, Schule"
+        "Friedrich, Anton, Ludwig, Schule",
+        "",
+        "Friedrich, Anna, Leopold, Schule"
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "question": "Welche Einrichtung ist der funkbetriebliche Mittelpunkt eines Funkverkehrskreises?",
@@ -96,7 +96,7 @@
       "answers": [
         "Es handelt sich um das 14te TSF-W der Gemeinde Mücke.",
         "Es handelt sich um das vierte Handsprechfunkgerät des Florian Mücke 7-47-1.",
-        "Dieser Funkrufname entspricht nicht dem Sonderschutzplan „AB 2 Plan 2 Funkrufnamenkatalog"
+        "Dieser Funkrufname entspricht nicht dem Sonderschutzplan „AB 2 Plan 2 Funkrufnamenkatalog 2011“ und ist daher ungültig."
       ],
       "correctIndex": 1
     },

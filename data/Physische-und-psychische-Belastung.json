@@ -47,31 +47,31 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf der Rückfahrt von einem schwierigen Einsatz ist ein ansonsten sehr ruhiger Kamerad ausgesprochen redselig.",
+      "question": "Auf der Rückfahrt von einem schwierigen Einsatz ist ein ansonsten sehr ruhiger Kamerad ausgesprochen redselig. Was könnte die Ursache für dieses Verhalten sein?",
       "answers": [
-        "Was könnte die Ursache für dieses Verhalten sein?",
         "Der Kamerad ist um diese Uhrzeit besonders fit.",
-        "Der Kamerad leidet unter akutem Stress."
+        "Der Kamerad leidet unter akutem Stress.",
+        "Der Kamerad hat Geburtstag."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
-      "question": "Nach einem schwierigen Einsatz fällt Ihnen auf, dass ein Kamerad mehr als üblich raucht und sich gereizt verhält.",
+      "question": "Nach einem schwierigen Einsatz fällt Ihnen auf, dass ein Kamerad mehr als üblich raucht und sich gereizt verhält. Welche der nachstehenden Verhaltensweisen ist in einer solchen Situation angemessen?",
       "answers": [
-        "Welche der nachstehenden Verhaltensweisen ist in einer solchen Situation angemessen?",
         "Ich bitte ihn um eine Zigarette und rauche aus Sympathie mit.",
-        "Ich frage vorsichtig nach, ob ihn etwas bedrückt oder er irgendwelche Probleme hat."
+        "Ich frage vorsichtig nach, ob ihn etwas bedrückt oder er irgendwelche Probleme hat.",
+        "Ich lasse ihn in Ruhe, um Ärger mit dem Kameraden zu vermeiden."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
-      "question": "Sie bemerken bei sich selbst, dass Sie in letzter Zeit häufig gereizt reagieren und schlecht schlafen. Ständig müssen Sie an den Einsatz mit dem schwerverletzten Kind vor ein paar Wochen denken. Dadurch sind Sie auch häufig unkonzentriert.",
+      "question": "Sie bemerken bei sich selbst, dass Sie in letzter Zeit häufig gereizt reagieren und schlecht schlafen. Ständig müssen Sie an den Einsatz mit dem schwerverletzten Kind vor ein paar Wochen denken. Dadurch sind Sie auch häufig unkonzentriert. Welche der nachstehenden Maßnahmen ist zur Lösung dieses Problems angemessen?",
       "answers": [
-        "Welche der nachstehenden Maßnahmen ist zur Lösung dieses Problems angemessen?",
         "Ich besorge mir Schlaftabletten, das andere geht schon vorüber.",
-        "Ich rede mit Freunden oder Kameraden über den Einsatz."
+        "Ich rede mit Freunden oder Kameraden über den Einsatz.",
+        "Ich nehme Beruhigungsmittel ein, um weniger gereizt zu sein."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wie kann Stress für Einsatzkräfte vermieden werden?",

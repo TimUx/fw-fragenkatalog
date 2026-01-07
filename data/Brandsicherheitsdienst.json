@@ -24,25 +24,25 @@
       "answers": [
         "Erstellen eines Bestuhlungsplanes.",
         "Rundgang durch den Kontrollbereich durchführen.",
-        "Besetzen der Brandmelderzentrale, damit Alarmierungen direkt an den Wachhabenden"
+        "Besetzen der Brandmelderzentrale, damit Alarmierungen direkt an den Wachhabenden gemeldet werden können."
       ],
       "correctIndex": 1
     },
     {
       "question": "In welcher Reihenfolge sind die Maßnahmen bei einem Brand innerhalb einer Versammlungsstätte abzuarbeiten?",
       "answers": [
-        "Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, zuständige",
-        "Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.",
-        "Zuständige Brandmeldestelle informieren, Erkundung, Brandbekämpfung, Lösch- und"
+        "Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.",
+        "Zuständige Brandmeldestelle informieren, Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, Einweisung der anrückenden Einsatzkräfte veranlassen.",
+        "Lösch- und Sicherheitseinrichtungen auslösen, Erkundung, Brandbekämpfung, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu ergreifen?",
       "answers": [
         "Die zuständige Brandmeldestelle ist sofort zu alarmieren.",
-        "Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmelderzentrale",
-        "um dort durch den Wachhabenden weitere Befehle zu erhalten."
+        "Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmelderzentrale um dort durch den Wachhabenden weitere Befehle zu erhalten.",
+        "Die Posten, die den Brand außerhalb der Versammlungsstätte bemerkt haben, beginnen unverzüglich mit Löscharbeiten."
       ],
       "correctIndex": 0
     },
@@ -58,11 +58,11 @@
     {
       "question": "Welche Aussage über den Brandsicherheitsdienst ist falsch?",
       "answers": [
-        "Der Wachhabende soll Gruppenführer sein.",
-        "Der Wachposten muss mindestens die Grundausbildung erfolgreich absolviert haben.",
-        "Die Mindeststärke ist die einer Staffel."
+        "Der Wachhabende soll Gruppenführer sein. Der Wachposten muss mindestens die Grundausbildung erfolgreich absolviert haben.",
+        "Die Mindeststärke ist die einer Staffel.",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     }
   ]
 }

@@ -24,7 +24,7 @@
       "answers": [
         "Der Scherstift wird gegen einen größeren ausgetauscht.",
         "Die Last muss abgesichert oder abgelassen werden.",
-        "Es kann weitergearbeitet werden, denn vom Hersteller sind genügend Sicherheitsreserven"
+        "Es kann weitergearbeitet werden, denn vom Hersteller sind genügend Sicherheitsreserven eingebaut worden."
       ],
       "correctIndex": 1
     },
@@ -68,8 +68,8 @@
       "question": "Welche Aussage über Druckluftquellen bei Hebekissensystemen > 1 bar ist richtig?",
       "answers": [
         "Es dürfen nur mitgeführte Druckluftflaschen verwendet werden.",
-        "Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder die Druckluftanlage",
-        "eines LKW genutzt werden."
+        "Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder die Druckluftanlage eines LKW genutzt werden.",
+        "Atemluftflaschen sind unzulässig."
       ],
       "correctIndex": 1
     },
@@ -87,7 +87,7 @@
       "answers": [
         "Sie dürfen ausschließlich nur bei ausgelaufenen Mineralölprodukten eingesetzt werden.",
         "Sie dienen dem Zweck, gefährliche flüssige Stoffe abzustreuen und damit die Stoffe zu binden.",
-        "Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren"
+        "Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren Mischungseigenschaften von dem Medium Wasser und dem Medium Schaummittel."
       ],
       "correctIndex": 1
     },
@@ -105,7 +105,7 @@
       "answers": [
         "Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.",
         "Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.",
-        "Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem"
+        "Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem Prinzip eines zweiarmigen Hebels."
       ],
       "correctIndex": 0
     },
@@ -123,7 +123,7 @@
       "answers": [
         "entgegen der Zugrichtung",
         "in Zugrichtung",
-        "50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung"
+        "50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 1
     }

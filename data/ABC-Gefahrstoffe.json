@@ -101,7 +101,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Sie sind als Angriffstruppmann eingesetzt und sehen an einer Schadenstelle eine Druck- gasflasche mit rotem Anstrich. Welches Gas kann diese Druckgasflasche enthalten?",
+      "question": "Sie sind als Angriffstruppmann eingesetzt und sehen an einer Schadenstelle eine Druckgasflasche mit rotem Anstrich. Welches Gas kann diese Druckgasflasche enthalten?",
       "answers": [
         "Wasserstoff",
         "Schutzgas",
@@ -119,22 +119,22 @@
       "correctIndex": 2
     },
     {
-      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern.",
+      "question": "An einem verunfallten LKW befinden sich orangefarbene Tafeln mit Ziffern. Welche Bedeutung haben diese Ziffern?",
       "answers": [
-        "Welche Bedeutung haben diese Ziffern?",
         "obere Ziffern Gefahrnummer, untere Ziffern UN-Nummer",
-        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer"
+        "obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer",
+        "obere Ziffern Gefahrnummer, untere Ziffern EU-Nummer"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 225.",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 225. Welche Bedeutung haben diese Ziffern?",
       "answers": [
-        "Welche Bedeutung haben diese Ziffern?",
         "tiefgekühlt verflüssigtes Gas, oxidierend (brandfördernd)",
-        "besonders gasförmiges Gas, ansteckungsgefährlich"
+        "besonders gasförmiges Gas, ansteckungsgefährlich",
+        "brennbarer flüssiger Stoff, der Gase entwickelt, die giftig sind"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 23. Welche Bedeutung haben diese Ziffern?",
@@ -146,13 +146,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 606.",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 606. Welche Bedeutung haben diese Ziffern?",
       "answers": [
-        "Welche Bedeutung haben diese Ziffern?",
         "giftiger Stoff, der giftige Dämpfe entwickelt",
-        "ansteckungsgefährlicher Stoff"
+        "ansteckungsgefährlicher Stoff",
+        "Das ist offensichtlich ein Schreibfehler, es muss 66 heißen."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Stoffe werden der Gefahrklasse 2 im Transportrecht (ADR) zugeordnet?",
@@ -200,13 +200,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336.",
+      "question": "Auf einer orangefarbenen Tafel befinden sich in der oberen Hälfte die Ziffern 336. Welchen Aggregatzustand hat der transportierte Stoff?",
       "answers": [
-        "Welchen Aggregatzustand hat der transportierte Stoff?",
         "fest",
-        "flüssig"
+        "flüssig",
+        "gasförmig"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?",
@@ -275,12 +275,11 @@
     {
       "question": "Der Angriffstrupp erkennt an einem verunfallten LKW folgenden Großzettel: Welche Bedeutung hat dieser?",
       "answers": [
-        "tiefgekühltes Gefahrgut",
-        "mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
-        "Gefahrgut in begrenzter Menge"
+        "tiefgekühltes Gefahrgut mit erstickend wirkendem Schutzgas gefüllte Transporteinheit",
+        "Gefahrgut in begrenzter Menge",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
-      "correctIndex": 2,
-      "image": "assets/piktos/ABC-Gefahrstoffe_Q31.png"
+      "correctIndex": 1
     }
   ]
 }

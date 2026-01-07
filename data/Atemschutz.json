@@ -24,7 +24,7 @@
       "answers": [
         "Sie haben eine schädigende Wirkung auf Blut, Nerven oder Zellen.",
         "Sie zerstören durch ihre Reizwirkung die Lungenbläschen.",
-        "Sie verdrängen den Sauerstoff der Umluft und führen dadurch zur Sauerstoffminderversorgung"
+        "Sie verdrängen den Sauerstoff der Umluft und führen dadurch zur Sauerstoffminderversorgung der Zellen."
       ],
       "correctIndex": 2
     },
@@ -42,7 +42,7 @@
       "answers": [
         "jeder Feuerwehreinsatz",
         "immer dann, wenn Sauerstoffmangel zu erwarten ist",
-        "insbesondere bei der Gefahr einer Hautschädigung durch Gase und Dämpfe oder deren"
+        "insbesondere bei der Gefahr einer Hautschädigung durch Gase und Dämpfe oder deren Aufnahme über die Haut"
       ],
       "correctIndex": 2
     },

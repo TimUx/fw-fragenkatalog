@@ -4,9 +4,9 @@
     {
       "question": "Was gehört zu den Pflichtaufgaben der Feuerwehr?",
       "answers": [
-        "Hilfe leisten bei Bränden, Explosionen, Unfällen oder anderen Notlagen, insbesondere durch",
-        "schadenbringende Naturereignisse",
-        "schnellstmöglicher Transport von Verletzten in das nächste Krankenhaus"
+        "Hilfe leisten bei Bränden, Explosionen, Unfällen oder anderen Notlagen, insbesondere durch schadenbringende Naturereignisse",
+        "schnellstmöglicher Transport von Verletzten in das nächste Krankenhaus",
+        "Verkehrsregelung im Bereich von Einsatzstellen"
       ],
       "correctIndex": 0
     },
@@ -49,20 +49,20 @@
     {
       "question": "Wer ist der Leiter der Feuerwehr?",
       "answers": [
-        "der Gemeinde- oder Stadtbrandinspektor, der Leiter der Berufsfeuerwehr, der Leiter der",
-        "hauptamtlichen Feuerwehrangehörigen",
-        "der Vereinsvorsitzende mit seinem Stellvertreter"
+        "der Gemeinde- oder Stadtbrandinspektor, der Leiter der Berufsfeuerwehr, der Leiter der hauptamtlichen Feuerwehrangehörigen",
+        "der Vereinsvorsitzende mit seinem Stellvertreter",
+        "Die Leitung der Feuerwehr obliegt dem Gemeindevorstand bzw. Magistrat."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Wer leitet, gebunden an die Weisungen des Gemeinde-/Stadtbrandinspektors, die Orts- bzw.",
+      "question": "Wer leitet, gebunden an die Weisungen des Gemeinde-/Stadtbrandinspektors, die Orts- bzw. Stadtteilfeuerwehr?",
       "answers": [
-        "Stadtteilfeuerwehr?",
         "der Jugendfeuerwehrwart",
-        "der Wehrführer"
+        "der Wehrführer",
+        "der erste Vorsitzende"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Welche Qualifikation besitzt eine Führungskraft einer Freiwilligen Feuerwehr, deren Feuerwehrhelm mit jeweils einem roten Streifen auf beiden Helmseiten gekennzeichnet ist?",
@@ -77,8 +77,8 @@
       "question": "Welche Qualifikation besitzt eine Führungskraft einer Freiwilligen Feuerwehr, deren Feuerwehrhelm mit jeweils zwei roten Streifen auf beiden Helmseiten gekennzeichnet ist?",
       "answers": [
         "Gruppenführer",
-        "Wehrführer, stellvertretender Wehrführer (jeweils mit Zugführerausbildung), Zugführer oder",
-        "Wachabteilungsführer (sofern nicht Angehöriger des gehobenen feuerwehrtechnischen"
+        "Wehrführer, stellvertretender Wehrführer (jeweils mit Zugführerausbildung), Zugführer oder Wachabteilungsführer (sofern nicht Angehöriger des gehobenen feuerwehrtechnischen",
+        "Dienstes) Leiter der Feuerwehr"
       ],
       "correctIndex": 1
     },
@@ -86,8 +86,8 @@
       "question": "In welchen Situationen hat ein Feuerwehrangehöriger den Weisungen seines Vorgesetzten Folge zu leisten?",
       "answers": [
         "bei Einsätzen und bei Übungen",
-        "Die Feuerwehrangehörigen treffen in einem Staat mit einer demokratischen Grundordnung ihre",
-        "Entscheidungen selbst."
+        "Die Feuerwehrangehörigen treffen in einem Staat mit einer demokratischen Grundordnung ihre Entscheidungen selbst.",
+        "nur wenn der Feuerwehrangehörige die Weisung des Vorgesetzten als sinnvoll erachtet"
       ],
       "correctIndex": 0
     },
@@ -101,40 +101,40 @@
       "correctIndex": 1
     },
     {
-      "question": "Welche ehrenamtlichen Feuerwehrangehörigen erhalten eine angemessene Dienst- aufwandsentschädigung?",
+      "question": "Welche ehrenamtlichen Feuerwehrangehörigen erhalten eine angemessene Dienstaufwandsentschädigung?",
       "answers": [
-        "Es gibt keine Dienstaufwandsentschädigung, weil die Feuerwehrangehörigen ehrenamtlich tätig",
-        "sind.",
-        "Feuerwehrangehörige, die ständig zu besonderen Diensten herangezogen werden, z. B. der"
+        "Es gibt keine Dienstaufwandsentschädigung, weil die Feuerwehrangehörigen ehrenamtlich tätig sind.",
+        "Feuerwehrangehörige, die ständig zu besonderen Diensten herangezogen werden, z. B. der Leiter der Feuerwehr oder der Leiter der Gemeinde- und Stadtjugendfeuerwehr",
+        "Feuerwehrangehörige im Angriffstrupp, weil das Tragen von Atemschutzgeräten eine besonders schwere Tätigkeit darstellt"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wer versichert die Feuerwehrangehörigen gegen Unfälle im Feuerwehrdienst?",
       "answers": [
         "der Verein Freiwillige Feuerwehr",
         "der Aufgabenträger, z. B. die Stadt / die Gemeinde",
-        "Ehrenamtliche Feuerwehrangehörige sind ausreichend über ihren Arbeitgeber (bei"
+        "Ehrenamtliche Feuerwehrangehörige sind ausreichend über ihren Arbeitgeber (bei Arbeitslosigkeit über die Bundesanstalt für Arbeit) versichert."
       ],
       "correctIndex": 1
     },
     {
       "question": "Wer muss die erforderliche Dienst- und Schutzkleidung für Feuerwehrangehörige stellen?",
       "answers": [
-        "Die Kosten werden zwischen dem Feuerwehrangehörigen und dem Aufgabenträger, z. B. der",
-        "Gemeinde, geteilt.",
-        "Der Aufgabenträger stellt die Dienst- und Schutzkleidung unentgeltlich zur Verfügung."
+        "Die Kosten werden zwischen dem Feuerwehrangehörigen und dem Aufgabenträger, z. B. der Gemeinde, geteilt.",
+        "Der Aufgabenträger stellt die Dienst- und Schutzkleidung unentgeltlich zur Verfügung.",
+        "Der Aufgabenträger zahlt an den Verein Feuerwehr und dieser beschafft die Schutzkleidung."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "In welchen Situationen müssen am Einsatzort anwesende Personen der Räumung des Einsatzortes unverzüglich Folge leisten?",
       "answers": [
-        "wenn ein Feuerwehrangehöriger der Meinung ist, dass die Einsatzsituation die Personen",
-        "belastet",
-        "wenn der Einsatzleiter oder eine von ihm beauftragte Person es anordnet"
+        "wenn ein Feuerwehrangehöriger der Meinung ist, dass die Einsatzsituation die Personen belastet",
+        "wenn der Einsatzleiter oder eine von ihm beauftragte Person es anordnet",
+        "wenn eine Person des öffentlichen Lebens (z. B. Mitglieder des Landtages) betroffen ist"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Wem müssen Personen einen Brand oder ein anderes Schadenereignis, bei dem Menschen gefährdet sind, unverzüglich melden?",
@@ -150,16 +150,16 @@
       "answers": [
         "Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz regelt alles Notwendige für die Feuerwehr. Daher sind weitere Regeln der örtlichen Feuerwehr weder notwendig noch zulässig.",
         "Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz lässt den Gemeinden als Aufgabenträger im Rahmen der Selbstverwaltungsangelegenheiten Freiräume zur Gestaltung des örtlichen Brandschutzes und der örtlichen Allgemeinen Hilfe.",
-        "Die Regelungen im Hessischen Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz betreffen nur die Führungskräfte einer Feuerwehr. Für die Mannschafts-dienstgrade gelten ausschließlich die Regelungen in der Satzung der Gemeinde/Stadt."
+        "Die Regelungen im Hessischen Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz betreffen nur die Führungskräfte einer Feuerwehr. Für die Mannschaftsdienstgrade gelten ausschließlich die Regelungen in der Satzung der Gemeinde/Stadt."
       ],
       "correctIndex": 1
     },
     {
       "question": "Welche Aussage zur Kennzeichnung von Atemschutzgeräteträgern ist richtig?",
       "answers": [
-        "Kann ein Atemschutzgeräteträger keine Atemschutzgeräte mehr tragen, so ist der rote Punkt",
-        "auf beiden Helmseiten zu entfernen bzw. abzukleben.",
-        "Wer einmal die Berechtigung zum Tragen des roten Punktes als Atemschutzgeräteträger erlangt"
+        "Kann ein Atemschutzgeräteträger keine Atemschutzgeräte mehr tragen, so ist der rote Punkt auf beiden Helmseiten zu entfernen bzw. abzukleben.",
+        "Wer einmal die Berechtigung zum Tragen des roten Punktes als Atemschutzgeräteträger erlangt hat, behält diesen bis zum Ausscheiden aus dem aktiven Feuerwehrdienst.",
+        "Ein Atemschutzgeräteträger wird durch ein „A“ auf der Stirnseite des Feuerwehrhelms gekennzeichnet."
       ],
       "correctIndex": 0
     },
@@ -167,8 +167,8 @@
       "question": "Wer wählt den Leiter der Feuerwehr?",
       "answers": [
         "Die Angehörigen der Einsatzabteilung wählen den Leiter der Feuerwehr.",
-        "Die Angehörigen der Einsatzabteilung wählen, gemeinsam mit den Mitgliedern der",
-        "Jugendfeuerwehr bzw. deren Erziehungsberechtigten, den Leiter der Feuerwehr."
+        "Die Angehörigen der Einsatzabteilung wählen, gemeinsam mit den Mitgliedern der Jugendfeuerwehr bzw. deren Erziehungsberechtigten, den Leiter der Feuerwehr.",
+        "Der Gemeindevorstand bzw. der Magistrat wählt den Leiter der Feuerwehr."
       ],
       "correctIndex": 0
     },
@@ -211,9 +211,9 @@
     {
       "question": "Welches ist keine Aufgabe der Gemeinde nach dem HBKG?",
       "answers": [
-        "die Sicherstellung der rettungsdienstlichen Versorgung",
-        "die Bedarfs- und Entwicklungsplanung",
-        "für die Ausbildung der Feuerwehrangehörigen zu sorgen"
+        "die Sicherstellung der rettungsdienstlichen Versorgung die Bedarfs- und Entwicklungsplanung",
+        "für die Ausbildung der Feuerwehrangehörigen zu sorgen",
+        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
       ],
       "correctIndex": 0
     }
