@@ -347,8 +347,8 @@
       "question": "Welche Geräte legt der Maschinist nach der FwDV 3 bei einer Wasserentnahme aus einem offenen Gewässer bereit?",
       "answers": [
         "die befohlene Anzahl Saugschläuche und den Saugkorb",
-        "die Kupplungsschlüssel, den Saugkorb, den Saugschutzkorb, die Ventilleine und ggf. die",
-        "Halteleine den Saugkorb, den Saugschutzkorb, das Sammelstück sowie die Ventilleine"
+        "die Kupplungsschlüssel, den Saugkorb, den Saugschutzkorb, die Ventilleine und ggf. die Halteleine",
+        "den Saugkorb, den Saugschutzkorb, das Sammelstück sowie die Ventilleine"
       ],
       "correctIndex": 1
     },
@@ -735,7 +735,7 @@
       "answers": [
         "Das Kommando wird nicht wiederholt.",
         "der Maschinist",
-        "der Angriffstruppführer Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "der Angriffstruppführer"
       ],
       "correctIndex": 2
     }
