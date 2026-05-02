@@ -101,13 +101,13 @@
       "correctIndex": 1
     },
     {
-      "question": "An einer Einsatzstelle der Feuerwehr wird im Sprechfunkbetrieb zu der primär genutzten Gruppe eine zweite Gruppe im netzunabhängigen Betrieb (DMO) benötigt.",
+      "question": "An einer Einsatzstelle der Feuerwehr wird im Sprechfunkbetrieb zu der primär genutzten Gruppe eine zweite Gruppe im netzunabhängigen Betrieb (DMO) benötigt. Welche Gruppe darf verwendet werden?",
       "answers": [
-        "Welche Gruppe darf verwendet werden?",
-        "Es kann unverzüglich die Gruppe 310_F* geschaltet werden. Das Umschalten befiehlt die",
-        "Betriebsleitung, in diesem Fall der Einsatzleiter."
+        "Es kann unverzüglich die Gruppe 310_F* geschaltet werden. Das Umschalten befiehlt die Betriebsleitung, in diesem Fall der Einsatzleiter.",
+        "Es muss eine Gruppe über die zuständige Zentrale Leitstelle bei der Autorisierten Stelle Hessen (AS-Hessen) beantragt werden. Erst nach Bestätigung durch die AS-Hessen darf die neue Gruppe genutzt werden.",
+        "Es kann als zweite Gruppe aus dem Gruppen-Ordner „Feuerwehr“ jede Gruppe (307_F* bis 316_F*) beliebig gewählt und ohne weitere Befehle verwendet werden."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     }
   ]
 }

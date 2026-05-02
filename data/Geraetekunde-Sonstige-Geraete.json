@@ -50,8 +50,8 @@
       "question": "Welche Aussage zur Verlegung elektrischer Leitungen ist richtig?",
       "answers": [
         "Die Länge einer elektrischen Leitung darf 150 m nicht überschreiten.",
-        "Es dürfen nur Leitungsroller verwendet werden, deren Leitungsquerschnitt 2,5 mm² beträgt. Beim Einsatz eines genormten Stromerzeugers der Feuerwehr kann die Leitungslänge außer Acht gelassen werden.",
-        "Fragenkatalog zur Hessischen Feuerwehrleistungsübung"
+        "Es dürfen nur Leitungsroller verwendet werden, deren Leitungsquerschnitt 2,5 mm² beträgt.",
+        "eim Einsatz eines genormten Stromerzeugers der Feuerwehr kann die Leitungslänge außer Acht gelassen werden."
       ],
       "correctIndex": 1
     }
