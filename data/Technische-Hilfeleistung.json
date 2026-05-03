@@ -130,11 +130,11 @@
     {
       "question": "Wie werden Einsatzstellen gegen den fließenden Verkehr gesichert?",
       "answers": [
-        "Der Beginn der Absicherung auf Straßen außerhalb geschlossener Ortschaften hat ungefähr",
-        "100 m vor der Einsatzstelle zu erfolgen.",
-        "Straßen mit Gegenverkehr müssen in beide Richtungen abgesichert werden."
+        "Der Beginn der Absicherung auf Straßen außerhalb geschlossener Ortschaften hat ungefähr 100 m vor der Einsatzstelle zu erfolgen.",
+        "Straßen mit Gegenverkehr müssen in beide Richtungen abgesichert werden.",
+        "Mindestens ein Fahrzeug ist so aufzustellen, dass die Straße vollständig blockiert ist."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Was versteht man nach der FwDV 3 unter dem Begriff „Absperrbereich“?",
