@@ -17,7 +17,12 @@
         <img src="assets/wappen.png" class="logo">
         <h1>FW Willingshausen<br>Fragenkatalog Hessen</h1>
     </div>
-    <nav class="header-nav">
+    <button class="burger-btn" aria-label="Menü öffnen/schließen" aria-expanded="false" aria-controls="primary-nav" onclick="toggleNav()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+    <nav id="primary-nav" class="header-nav">
         <button onclick="showWelcome()">Startseite</button>
         <button onclick="openChapterMode()">Kapiteltraining</button>
         <button onclick="startExam()">Prüfungsmodus (30 Fragen)</button>
