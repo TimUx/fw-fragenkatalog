@@ -655,13 +655,13 @@
       "correctIndex": 2
     },
     {
-      "question": "Katalysatoren … … ermöglichen das Brennen von eigentlich nicht brennbaren Stoffen.",
+      "question": "Katalysatoren … ",
       "answers": [
+        "… ermöglichen das Brennen von eigentlich nicht brennbaren Stoffen.",
         "… setzen die Aktivierungsenergie herab.",
-        "",
         "… werden während der Reaktion aufgebraucht und müssen ständig nachgeführt werden."
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?",
