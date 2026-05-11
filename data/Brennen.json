@@ -44,7 +44,7 @@
         "Der Flammpunkt liegt unter 23 °C.",
         "Der Flammpunkt liegt zwischen 23 °C und 60 °C."
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
       "image": "assets/piktos/Brennen_Q05.png"
     },
     {
