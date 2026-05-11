@@ -11,6 +11,34 @@ const quiz = document.getElementById("quiz");
 const result = document.getElementById("result");
 const welcome = document.getElementById("welcome");
 
+// ======= MOBILE NAV (Burger Menu) ========
+function toggleNav(){
+    const header = document.querySelector("header");
+    const burger = document.querySelector(".burger-btn");
+    if(!header) return;
+    const isOpen = header.classList.toggle("nav-open");
+    if(burger) burger.setAttribute("aria-expanded", String(isOpen));
+}
+
+function closeNav(){
+    const header = document.querySelector("header");
+    const burger = document.querySelector(".burger-btn");
+    if(header) header.classList.remove("nav-open");
+    if(burger) burger.setAttribute("aria-expanded", "false");
+}
+
+// Menü auf Mobile automatisch schließen, sobald ein Nav-Button geklickt wird.
+(function initNavAutoClose(){
+    const nav = document.querySelector(".header-nav");
+    if(!nav) return;
+    nav.addEventListener("click", e => {
+        const target = e.target;
+        if(target && target.tagName === "BUTTON"){
+            closeNav();
+        }
+    });
+})();
+
 // ======= HELPER FUNCTIONS ========
 function formatChapterDisplayName(filename) {
     return filename
