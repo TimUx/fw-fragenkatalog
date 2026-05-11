@@ -157,11 +157,11 @@
     {
       "question": "Welche der folgenden Teile der persönlichen Schutzausrüstung müssen den Feuerwehrangehörigen nach der UVV-Feuerwehren (DGUV-Vorschrift 49) zur Verfügung gestellt werden?",
       "answers": [
-        "Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe ",
-        "Feuerwehrhelm mit Nackenschutz, Schutzanzug F",
-        "euerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk"
+        "Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe",
+        "Feuerwehrhelm mit Nackenschutz, Schutzanzug",
+        "Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Müssen aktive Feuerwehrangehörige über Unfallgefahren bezüglich der UVV-Feuerwehren (DGUV-Vorschrift 49) in Verbindung der UVV „Grundsätze der Prävention“ (DGUVVorschrift 1) unterwiesen werden?",
