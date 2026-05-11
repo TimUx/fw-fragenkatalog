@@ -1,6 +1,6 @@
 // Cache-Version bei jedem inhaltlichen Update hochzählen,
 // damit Clients ihren alten Cache verwerfen.
-const CACHE_VERSION = 'v2';
+const CACHE_VERSION = 'v3';
 const CACHE_NAME = `ffw-fragenkatalog-${CACHE_VERSION}`;
 
 // Nur der App-Shell wird vorab gecacht. Die Fragen-JSONs bewusst NICHT,
@@ -58,9 +58,9 @@ self.addEventListener('fetch', event => {
 async function networkFirst(request) {
   const cache = await caches.open(CACHE_NAME);
   try {
-    const fresh = await fetch(request, { cache: 'no-store' });
-    if (fresh && fresh.ok) {
-      cache.put(request, fresh.clone());
+    const fresh = await fetch(request);
+    if (fresh && fresh.ok && fresh.type === 'basic') {
+      safeCachePut(cache, request, fresh.clone());
     }
     return fresh;
   } catch (err) {
@@ -79,8 +79,17 @@ async function cacheFirst(request) {
     return cached;
   }
   const fresh = await fetch(request);
-  if (fresh && fresh.ok) {
-    cache.put(request, fresh.clone());
+  if (fresh && fresh.ok && fresh.type === 'basic') {
+    safeCachePut(cache, request, fresh.clone());
   }
   return fresh;
+}
+
+function safeCachePut(cache, request, response) {
+  // cache.put kann bei manchen Responses (opaque, partial, range)
+  // synchron oder asynchron werfen. Fehler hier dürfen den Fetch
+  // nicht zum Scheitern bringen.
+  Promise.resolve()
+    .then(() => cache.put(request, response))
+    .catch(() => { /* ignore */ });
 }
